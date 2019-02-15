@@ -18,7 +18,7 @@ Kristina
 
  
 
-Research interests:
+Research interests
 -------------------
 * Public-private partnerships, public sector trust, motivation, and corruption.
 * Strategic management and choice under risk and complexity.
@@ -27,9 +27,8 @@ Research interests:
 
  
 
-Contact:
+Contact
 --------
-
 Kristina S. Weißmüller <br>
 Universität Bern <br>
 KPM Center for Public Management <br>
@@ -43,9 +42,8 @@ Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller
 
 
 
-News:
+News
 -----
-
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
