@@ -30,12 +30,12 @@ Research interests:
 Contact:
 --------
 
-Kristina S. Weißmüller <br>
-Universität Bern <br>
-KPM Center for Public Management <br>
-Schanzeneckstrasse 1 <br>
+<address>Kristina S. Weißmüller <br />
+Universität Bern <br />
+KPM Center for Public Management <br />
+Schanzeneckstrasse 1 <br/ >
 
-3012 Bern, Switzerland
+3012 Bern, Switzerland </address>
 
 Office: +41 (0)31 631 4768
 
