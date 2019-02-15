@@ -23,7 +23,7 @@ Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambl
      
 **Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>.
      
-**Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>.
+**Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
 **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
   
