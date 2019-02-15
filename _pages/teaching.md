@@ -11,8 +11,8 @@ M.Sc.-level
 -------------
 
 
-* ‘Current topics in public management research: Behavioral Public Administration’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, visiting lectureship, full seminar teaching (fall 2018, [syllabus](https://drive.google.com/open?id=1CsCdutofggSk-JbRZ06z_aSAbymG5h7p)); at University of Hamburg.
-* ‘Advanced seminar in international management: Corporate governance from a behavioral perspective’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href=" ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">[syllabus]</a>); at Helmut-Schmidt-Universität, Hamburg.
+* ‘Current topics in public management research: Behavioral Public Administration’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, visiting lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf)); at University of Hamburg.
+* ‘Advanced seminar in international management: Corporate governance from a behavioral perspective’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>); at Helmut-Schmidt-Universität, Hamburg.
 * ‘Philosophy of science and methods of empirical social research’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018); at Helmut-Schmidt-Universität, Hamburg.
 * ‘Interdisciplinary master course’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016); at University of Hamburg.
 
@@ -22,7 +22,7 @@ B.A.-level
 -------------
 
 
-* ‘Behavioral public administration: Psychology in public management research’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://drive.google.com/open?id=1-HnXXjDZgeCHbKa9oXfJkw_u9-trxOEJ)); at University of Hamburg.
+* ‘Behavioral public administration: Psychology in public management research’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf)); at University of Hamburg.
 * ‘Public and nonprofit management’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017); at University of Hamburg.
 * ‘Planning, decision, control: Normative decision theory’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018); at Helmut-Schmidt-Universität, Hamburg.
 
