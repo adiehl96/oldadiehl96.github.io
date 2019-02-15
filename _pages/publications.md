@@ -66,7 +66,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘ 	<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
 
-De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href="https://journals.aom.org/doi/10.5465/AMBPP.2018.12966abstract">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>.
+De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>.
 
 De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *EURAM Conference 2018, Public and Non-Profit Management, Best Paper Award, 20.06.-23.06.2018, Reykjavik, Iceland*.
 
