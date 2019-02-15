@@ -39,7 +39,7 @@ De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucrati
 
 3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
-4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version: <a href=" ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf "> ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf</a>.
+4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
   
 5. Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
 
