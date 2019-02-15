@@ -72,7 +72,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Parad
 
 **Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
 
-**Weißmüller, K.** & Vogel, R. (2018). ‘<a href=" ksweissmueller.github.io/files/Weissmueller_Vogel_Signalling_Paradox_2018_IRSPM.pdf ">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
+**Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
 
 **Weißmüller, K.** (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ *2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands*.
 
