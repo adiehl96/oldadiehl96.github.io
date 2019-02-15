@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kristina S. Wei&szligm&Uumlller"
+title                    : "Kristina S. Wei&szligm&uumlller"
 title_separator          : "-"
-name                     : &name "Kristina S. Wei&szligm&Uumlller"
+name                     : &name "Kristina S. Wei&szligm&uumlller"
 description              : &description "personal description"
 url                      : https://ksweissmueller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristina S. Wei&szligm&Uumlller"
+  name             : "Kristina S. Wei&szligm&uumlller"
   avatar           : "profile.png"
   bio              : "PhD cand. in Public Management at Uni HH & researcher at KPM Uni Bern. Investigating PPPs, corruption, risk and complexity from a behavioral perspective."
   location         : "Switzerland"
