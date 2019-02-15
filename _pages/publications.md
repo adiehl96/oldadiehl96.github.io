@@ -51,9 +51,11 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 <h2>Conference Papers & Presentations</h2>
 
-19.	Ritz, A., **Weißmüller, K.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
+<ol reversed>
 
-18.	De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ *(accepted for presentation) 23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand*.
+<li>19.	Ritz, A., **Weißmüller, K.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.</li>
+
+<li>18.	De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ *(accepted for presentation) 23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand*.</li>
 
 17.	**Weißmüller, K.**, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland*.
 
@@ -89,3 +91,4 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 1.	**Weißmüller, K.** (2015): ‘<a href="https://drive.google.com/open?id=1MC5G96YOewssFFaHJTpqegGvZeH85Asg">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ *Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada*.
 
+</ol>
