@@ -17,11 +17,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h3>...(under review)... </h3>
 
-5-)  **Weißmüller, K.** (2017). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on a hen-and-egg problem.’ *Public Management Review* (under review, 3-yr IF: 3.394).
 
-4.  **Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>
+<ol>
+    <li value="5">**Weißmüller, K.** (2017). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on a hen-and-egg problem.’ *Public Management Review* (under review, 3-yr IF: 3.394).</li>
+    <li value="4">**Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a></li>
+    <li value="3">**Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a></li>
+</ol>
 
-3.  **Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>
 
 2.  **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>
   
