@@ -5,13 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-An overview of my publications can also be found on <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de" target="_blank"><u>Google Scholar</u></a>.
-     
+An overview of my publications can also be found on <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de">Google Scholar</a>.
+
+
 
 <h2>Peer-Reviewed Journal Articles</h2>
 
 1.  Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ *Journal of Business Research 98* (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a> (3-yr IF: 4.476).
      
+
 
 <h3>...(under review)... </h3>
 
@@ -24,6 +26,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 5.  **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>
   
 6.  De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
+
 
 
 <h2>Working Papers</h2>
