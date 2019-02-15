@@ -34,10 +34,8 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 **A multi-wave study on the role of PSM as a success factor in higher education**
 (Jul. 2018 – Jan. 2021)
 
-* *Principal researcher & project manager together with*:  	<a href="https://www.hsu-hh.de/marketing/team#details-0-0">Claudia Fantapie Altobelli</a>
-
+* *Principal researcher & project manager together with*: <a href="https://www.hsu-hh.de/marketing/team#details-0-0">Claudia Fantapie Altobelli</a>
 * *Other Collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
-
 * Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
 
 
