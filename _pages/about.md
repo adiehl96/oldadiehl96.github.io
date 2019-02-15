@@ -20,23 +20,23 @@ Kristina
 
 Research interests:
 -------------------
-
-∙ Public-private partnerships, public sector trust, motivation, and corruption.
-∙ Strategic management and choice under risk and complexity.
-∙ Law and economics of policy, higher education, and consumption.
-∙ Behavioral public administration; experimental and psycho-physiological research methods.
+* Public-private partnerships, public sector trust, motivation, and corruption.
+* Strategic management and choice under risk and complexity.
+* Law and economics of policy, higher education, and consumption.
+* Behavioral public administration; experimental and psycho-physiological research methods.
 
  
 
 Contact:
 --------
 
-Kristina S. Weißmüller
-Universität Bern
-KPM Center for Public Management
-Schanzeneckstrasse 1
+Kristina S. Weißmüller <br>
+Universität Bern <br>
+KPM Center for Public Management <br>
+Schanzeneckstrasse 1 <br>
 
 3012 Bern, Switzerland
+
 Office: +41 (0)31 631 4768
 
 Email: <a href="mailto:kristina.weissmueller(at)kpm.unibe.ch">kristina.weissmueller(at)kpm.unibe.ch</a>
