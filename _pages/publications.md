@@ -64,21 +64,21 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href=
 
 De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *EURAM Conference 2018, Public and Non-Profit Management, Best Paper Award, 20.06.-23.06.2018, Reykjavik, Iceland*.
 
-13.**Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
+13. **Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
 
-12.**Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://irspm2018.exordo.com/files/papers/706/final_draft/Wei_m_ller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
+12. **Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://irspm2018.exordo.com/files/papers/706/final_draft/Wei_m_ller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
 
-11.	**Weißmüller, K.** (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ *2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands*.
+11. **Weißmüller, K.** (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ *2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands*.
 
-10.	**Weißmüller, K.** & Vogel, R. (2017). ‘A Self-fulfilling Prophecy? Public sector framing effects on negotiation efficiency.’ *European Group for Public Administration (EGPA) Annual Conference, 30.08.-01.09.2017, Milano, Italy*.
+10. **Weißmüller, K.** & Vogel, R. (2017). ‘A Self-fulfilling Prophecy? Public sector framing effects on negotiation efficiency.’ *European Group for Public Administration (EGPA) Annual Conference, 30.08.-01.09.2017, Milano, Italy*.
 
-9.	**Weißmüller, K.** (2017). ‘Risk sharing in non-cooperative games: An experimental study on the dynamic ecologies of risk preferences in PPPs.’ *21st International Research Society on Public Management (IRSPM) Conference 2017, 19.-21.04.2017, Budapest, Hungary*.
+9. **Weißmüller, K.** (2017). ‘Risk sharing in non-cooperative games: An experimental study on the dynamic ecologies of risk preferences in PPPs.’ *21st International Research Society on Public Management (IRSPM) Conference 2017, 19.-21.04.2017, Budapest, Hungary*.
 
-8.	**Weißmüller, K.** (2016). ‘The Asymmetric Nature of the Anti-Public Sector Bias: Evidence from a Framing Experiment.’ *2016 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 9 “Behavioral Public Administration”, 24.-25.11.2016, Antwerp, Belgium*.
+8. **Weißmüller, K.** (2016). ‘The Asymmetric Nature of the Anti-Public Sector Bias: Evidence from a Framing Experiment.’ *2016 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 9 “Behavioral Public Administration”, 24.-25.11.2016, Antwerp, Belgium*.
 
-7.	**Weißmüller, K.** (2016). ‘Risk in Public Private Partnerships (PPPs): Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation.’ *Academy Colloquium “Behavioral Public Administration” at the Dutch Royal Academy of Arts and Sciences (KNAW), 03.-5.11.2016, Amsterdam, The Netherlands*. 
+7. **Weißmüller, K.** (2016). ‘Risk in Public Private Partnerships (PPPs): Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation.’ *Academy Colloquium “Behavioral Public Administration” at the Dutch Royal Academy of Arts and Sciences (KNAW), 03.-5.11.2016, Amsterdam, The Netherlands*. 
 
-6.	**Weißmüller, K.** (2016). ‘Time perceptions and cross-sectoral team efficiency: Experimental evidence on sector-specific delay discounting behavior.’ *2016 IIAS-IASIA Joint Congress, 20.-23.09.2016, Chengdu, PR China*. 
+6. **Weißmüller, K.** (2016). ‘Time perceptions and cross-sectoral team efficiency: Experimental evidence on sector-specific delay discounting behavior.’ *2016 IIAS-IASIA Joint Congress, 20.-23.09.2016, Chengdu, PR China*. 
 
 5.	**Weißmüller, K.** (2016). ‘Delay and probability discounting in pathological gamblers with and without a history of mental disorder.’ *Deutscher Suchtkongress 2016, 05.-07.09.2016, Berlin, Germany*.
 
