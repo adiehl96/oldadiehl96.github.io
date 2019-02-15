@@ -32,25 +32,25 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
-**Weißmüller, K.** (2018) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812).
+1. **Weißmüller, K.** (2018) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812).
 
-**Weißmüller, K.** & Vogel, R. (2018) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Public Policy and Administration* (3-yr IF: 2.365).
+2. **Weißmüller, K.** & Vogel, R. (2018) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Public Policy and Administration* (3-yr IF: 2.365).
 
-Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
+3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
-**Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version:  	<a href="https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp">https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp</a>
+4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version:  	<a href="https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp">https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp</a>
   
-Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
+5. Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
 
-De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). Preliminary version: <a href="https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3">https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3</a>
+6. De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). Preliminary version: <a href="https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3">https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3</a>
 
-**Weißmüller, K.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper for *Public Administration Review* (3-yr IF: 3.473).
+7. **Weißmüller, K.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper for *Public Administration Review* (3-yr IF: 3.473).
 
-**Weißmüller, K.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
+8. **Weißmüller, K.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
-**Weißmüller, K.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper prepared for *International Journal of Public Sector Management* (3-yr IF: 0.889).
+9. **Weißmüller, K.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper prepared for *International Journal of Public Sector Management* (3-yr IF: 0.889).
 
-**Weißmüller, K.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
+10. **Weißmüller, K.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
 
 
 
