@@ -19,12 +19,12 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 1. **Weißmüller, K.** (2017). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on a hen-and-egg problem.’ *Public Management Review* (under review, 3-yr IF: 3.394).
      
-2. **Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>
+2. **Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>.
      
-3. **Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>
+3. **Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>.
 </ol>
 
-4. **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>
+4. **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>.
   
 5. De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
 
@@ -38,11 +38,11 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
-4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version:  	<a href="https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp">https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp</a>
+4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version:  	<a href="https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp">https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp</a>.
   
 5. Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
 
-6. De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). Preliminary version: <a href="https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3">https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3</a>
+6. De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). Preliminary version: <a href="https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3">https://drive.google.com/open?id=1X6k47h6G_ZnqwEvp2-X2ev5wgIENhUs3</a>.
 
 7. **Weißmüller, K.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper for *Public Administration Review* (3-yr IF: 3.473).
 
@@ -65,7 +65,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘ 	<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
 
-De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href="https://journals.aom.org/doi/10.5465/AMBPP.2018.12966abstract">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>
+De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href="https://journals.aom.org/doi/10.5465/AMBPP.2018.12966abstract">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>.
 
 De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *EURAM Conference 2018, Public and Non-Profit Management, Best Paper Award, 20.06.-23.06.2018, Reykjavik, Iceland*.
 
