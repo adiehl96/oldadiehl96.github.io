@@ -39,4 +39,4 @@ Schanzeneckstrasse 1 <br>
 
 Office: +41 (0)31 631 4768
 
-Email: <a href="mailto:kristina.weissmueller(at)kpm.unibe.ch">kristina.weissmueller(at)kpm.unibe.ch</a>
+Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
