@@ -11,21 +11,21 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Peer-Reviewed Journal Articles</h2>
 
-1.  Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ *Journal of Business Research 98* (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a> (3-yr IF: 4.476).
+Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ *Journal of Business Research 98* (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a> (3-yr IF: 4.476).
      
 
 
 <h3>...(under review)... </h3>
 
-1. **Weißmüller, K.** (2017). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on a hen-and-egg problem.’ *Public Management Review* (under review, 3-yr IF: 3.394).
+**Weißmüller, K.** (2017). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on a hen-and-egg problem.’ *Public Management Review* (under review, 3-yr IF: 3.394).
      
-2. **Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>.
+**Weißmüller, K.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). Preliminary version: <a href="https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q">https://drive.google.com/open?id=1zNuSbMnrIEboWsvv0WZY8V7DCms0_4_Q</a>.
      
-3. **Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>.
+**Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). Preliminary version: <a href="https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8">https://drive.google.com/open?id=1LKmwzoCdfucc8mxUNGpDrPebcZ1uK1P8</a>.
 
-4. **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>.
+**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). Preliminary version: <a href="https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ">https://drive.google.com/open?id=1EeOX4EzdL6n-cXtqSKB3te8DXkTqKVDJ</a>.
   
-5. De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
+De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
 
 
 
