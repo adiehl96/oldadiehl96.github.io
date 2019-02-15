@@ -39,7 +39,7 @@ De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucrati
 
 3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
-4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version:  	<a href="https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp">https://drive.google.com/open?id=1xNPhfpLgaTSWQd_KovY-ZAq-hVXhxEjp</a>.
+4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). Preliminary version: <a href=" ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf "> ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf</a>.
   
 5. Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
 
@@ -72,7 +72,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Parad
 
 **Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
 
-**Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://irspm2018.exordo.com/files/papers/706/final_draft/Wei_m_ller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
+**Weißmüller, K.** & Vogel, R. (2018). ‘<a href=" ksweissmueller.github.io/files/Weissmueller_Vogel_Signalling_Paradox_2018_IRSPM.pdf ">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
 
 **Weißmüller, K.** (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ *2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands*.
 
