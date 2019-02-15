@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+… (coming soon) …
 
-Work experience
+Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *EURAM 2018* <a href="https://euramonline.org/programme2018/strategic-interest-groups/sig-11-public-and-non-profit-management-pm-npm.html">SIG Public and Non-Profit Management </a> Best Paper Award
+* *Summer Interactive <a href="http://www.concordia.ca/cunews/main/stories/2015/06/03/gambling-gaming-explored-summer-research-symposium.html">Symposium</a>* – Research 2.0 2015 Best Poster Award
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Memberships
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* *Academy of Management* (AoM)
+* *Europeam Consortium for Political Research* (ECPR)
+* *European Group for Public Administration* (EGPA)
+* *European Academy of Management* (EURAM; topic co-chair of T04 *‘<a href="http://euramonline.org/component/phocadownload/category/43-2019-conference.html?download=782:cfp-2019">Behavioral Public Administration & Behavioral Accounting</a>’* in SIG11 ‘*Public and Non-Profit Management*’)
+* *International Institute of Administrative Sciences* (IASIA)
+* *International Political Science Association* (IPSA; officer of RC 29 ‘<a href="https://www.ipsa.org/research-committees/rclist/RC29">Political Psychology</a>’)
+* *International Research Society for Public Management* (IRSPM; panel co-chair of P2 ‘ 	<a href="http://irspm2019.com/files/docs/irspm18/gregg%20g.%20van%20ryzin.pdf">Behavioral and experimental public administration</a>’)
+* *Public Management Research Association* (PMRA).
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Ad-hoc Reviewer for:
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* *Journal of Behavioral Public Administration* (JBPA)
+* *Journal of Public Administration Research and Theory* (JPART)
+* *Public Administration* (PA)
+* *Public Administration Review* (PAR).
+
