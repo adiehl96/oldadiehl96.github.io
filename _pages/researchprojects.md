@@ -27,6 +27,8 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 
 
 
+
+
 <h2>Public Service Motivation in University Students</h2>
 
 **A multi-wave study on the role of PSM as a success factor in higher education**
@@ -37,6 +39,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 * *Other Collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
 
 * Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
+
 
 
 
