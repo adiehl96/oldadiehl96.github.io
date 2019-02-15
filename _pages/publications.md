@@ -51,22 +51,22 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 <h2>Conference Papers & Presentations</h2>
 
-<ol reversed>
-<li> Ritz, A., **Weißmüller, K.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.</li>
 
-<li> De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ *(accepted for presentation) 23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand*.</li>
+Ritz, A., **Weißmüller, K.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
-<li> **Weißmüller, K.**, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland*.</li>
+De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ *(accepted for presentation) 23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand*.
 
-16.	**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘ 	<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
+**Weißmüller, K.**, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland*.
 
-15.	De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href="https://journals.aom.org/doi/10.5465/AMBPP.2018.12966abstract">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>
+**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘ 	<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
 
-14.	De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *EURAM Conference 2018, Public and Non-Profit Management, Best Paper Award, 20.06.-23.06.2018, Reykjavik, Iceland*.
+De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘ 	<a href="https://journals.aom.org/doi/10.5465/AMBPP.2018.12966abstract">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>
 
-13.	**Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
+De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *EURAM Conference 2018, Public and Non-Profit Management, Best Paper Award, 20.06.-23.06.2018, Reykjavik, Iceland*.
 
-12.	**Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://irspm2018.exordo.com/files/papers/706/final_draft/Wei_m_ller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
+13.**Weißmüller, K.** (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ *Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore*. 
+
+12.**Weißmüller, K.** & Vogel, R. (2018). ‘<a href="https://irspm2018.exordo.com/files/papers/706/final_draft/Wei_m_ller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ *22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain*.
 
 11.	**Weißmüller, K.** (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ *2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands*.
 
