@@ -9,7 +9,8 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 
-<h2>Public Sector Corruption (CorPuS)</h2>
+Public Sector Corruption (CorPuS)
+=======
 
 **A multi-country experimental study**      
 (Jan. 2018 – Dec. 2020)
@@ -29,7 +30,8 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 
 
 
-<h2>Public Service Motivation in University Students</h2>
+Public Service Motivation in University Students
+=======
 
 **A multi-wave study on the role of PSM as a success factor in higher education**
 (Jul. 2018 – Jan. 2021)
@@ -42,7 +44,8 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 
 
 
-<h2>Risk in Public Private Partnerships (RiPPP)</h2>
+Risk in Public Private Partnerships (RiPPP)
+=======
 
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
 (May 2015 – June 2018)
