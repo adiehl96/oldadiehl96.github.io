@@ -13,7 +13,7 @@ M.Sc.-level
 
 * ‘Current topics in public management research: Behavioral Public Administration’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, visiting lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf)); at University of Hamburg.
 * ‘Advanced seminar in international management: Corporate governance from a behavioral perspective’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>); at Helmut-Schmidt-Universität, Hamburg.
-* ‘Philosophy of science and methods of empirical social research’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018); at Helmut-Schmidt-Universität, Hamburg.
+* ‘Philosophy of science and methods of empirical social research’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>); at Helmut-Schmidt-Universität, Hamburg.
 * ‘Interdisciplinary master course’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016); at University of Hamburg.
 
 
