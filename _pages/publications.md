@@ -86,7 +86,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A.  (2018). ‘The Parad
 
 **Weißmüller, K.** (2016). ‘Time perceptions and cross-sectoral team efficiency: Experimental evidence on sector-specific delay discounting behavior.’ *2016 IIAS-IASIA Joint Congress, 20.-23.09.2016, Chengdu, PR China*. 
 
-**Weißmüller, K.** (2016). ‘Delay and probability discounting in pathological gamblers with and without a history of mental disorder.’ *Deutscher Suchtkongress 2016, 05.-07.09.2016, Berlin, Germany*.
+**Weißmüller, K.** (2016). ‘Delay and probability discounting in pathological gamblers with and without a history of mental disorder.’ *Deutscher Suchtkongress 2016, 05.-07.09.2016, Berlin, Germany*, [Poster](https://ksweissmueller.github.io/files/2016_DGS_Poster_KW.pdf).
 
 **Weißmüller, K.** (2016). ‘Experimental evidence on asymmetries in delay discounting between public and private sector employees.’ *European Group for Public Administration (EGPA) Annual Conference, nominee for best paper award, 24.-26.08.2016, Utrecht, Netherlands*.
 
