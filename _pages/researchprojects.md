@@ -51,9 +51,9 @@ Risk in Public Private Partnerships (RiPPP)
 (May 2015 – June 2018)
 
 
-* *Principal researcher & project manager together with*:  	<a href="https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html">Rick Vogel</a>
-* *Other Collaborators*: Robin Bouwman.
-* *PhD-Project* at the  	<a href="https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/forschung/forschungsprojekte/rippp.html">Chair of Public Management</a> funded by University of Hamburg
+* *Principal researcher & project manager together with*: [Rick Vogel](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html).
+* *Other Collaborators*: [Robin Bouwman](https://www.uu.nl/staff/RBBouwman/Profile).
+* *PhD-Project* at the [Chair of Public Management](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/forschung/forschungsprojekte/rippp.html) funded by University of Hamburg
 * *Research Objectives*:
 Public organizations are often stigmatized in public opinion: Even though they are entrusted with the creation and maintenance of public goods and services, they are often perceived as slow and inefficient. This creates a number of issues for public agents especially in the complex setting of PPPs, ranging from practical challenges of cooperation to fundamental questions of legitimacy.
 Why do people behave differently toward public organizations compared to private organizations? What are the consequences of this behavior for strategy in PPPs and for society as a whole?
