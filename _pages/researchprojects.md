@@ -13,7 +13,7 @@ Public Sector Corruption (CorPuS)
 =======
 
 **A multi-country experimental study**      
-(Jan. 2018 – Dec. 2020)
+(Jan. 2018 – Dec. 2021)
 
 * *Principal researcher & project manager together with:*  	<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> & <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>.
 
