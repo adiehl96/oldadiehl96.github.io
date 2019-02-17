@@ -20,10 +20,10 @@ A copy of my most recent CV can be found <a href="https://ksweissmueller.github.
 
 Education
 ======
-* Dr. rer. pol (Ph.D.) Public Management *(pending)*
-* M.A. Higher Education *(pending)*
-* M.Sc. Business Administration
-* B.Sc. Industrial Engineering & Management
+* Dr. rer. pol (Ph.D.) [Public Management](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/vogel-rick.html) *(pending)*
+* M.A. [Higher Education](https://hul-master.blogs.uni-hamburg.de/konzept/ziele/) *(pending)*
+* M.Sc. [Business Administration](https://www.bwl.uni-hamburg.de/studium/master-studiengaenge/master-of-science-bwl.html)
+* B.Sc. [Industrial Engineering & Management](https://www.fh-wedel.de/bewerben/bachelor/wirtschaftsingenieurwesen/)
 
 
 Languages
