@@ -15,7 +15,7 @@ Public Sector Corruption (CorPuS)
 **A multi-country experimental study**      
 (Jan. 2018 – Dec. 2020)
 
-* *Principal researcher & project manager together with:*  	<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> & <a href="https://www.knaw.nl/nl/leden/leden/14889">Arjen van Witteloostuijn</a>.
+* *Principal researcher & project manager together with:*  	<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> & <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>.
 
 * *Other Collaborators:* Catherine Althaus, Ting GONG, Dennis Hilgers, Fabian Homberg, Mei-Jen HUNG, KIM Sangmook, Ming-feng KUO, Jenny Lewis, Trang LINH, Davor Mance, Fabio Monteduro, Janine O’Flynn, Guillem Ripoll Pascual, Adrian Ritz, Lisa Schmidthuber, SHIM Dong Chul, Tsai-tsu SU, Jeannette Taylor, Richard Walker, Bradley Wright, & Hanyu XIAO.
 
