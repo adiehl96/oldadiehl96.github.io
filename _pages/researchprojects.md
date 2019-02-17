@@ -17,7 +17,7 @@ Public Sector Corruption (CorPuS)
 
 * *Principal researcher & project manager together with:*  	<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> & <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>.
 
-* *Other Collaborators:* Catherine Althaus, Ting GONG, Dennis Hilgers, Fabian Homberg, Mei-Jen HUNG, KIM Sangmook, Ming-feng KUO, Jenny Lewis, Trang LINH, Davor Mance, Fabio Monteduro, Janine O’Flynn, Guillem Ripoll Pascual, Adrian Ritz, Lisa Schmidthuber, SHIM Dong Chul, Tsai-tsu SU, Jeannette Taylor, Richard Walker, Bradley Wright, & Hanyu XIAO.
+* *Other Collaborators:* Catherine Althaus, Ting GONG, Dennis Hilgers, Fabian Homberg, Mei-Jen HUNG, Sangmook KIM, Ming-feng KUO, Jenny Lewis, Trang LINH, Davor Mance, Fabio Monteduro, Janine O’Flynn, Guillem Ripoll Pascual, Adrian Ritz, Lisa Schmidthuber, SHIM Dong Chul, Tsai-tsu SU, Jeannette Taylor, Richard Walker, Bradley Wright, & Hanyu XIAO.
 
 * *Research Objectives:*
 Public sector corruption is a common, but severely understudied, phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously together seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
@@ -59,10 +59,10 @@ Public organizations are often stigmatized in public opinion: Even though they a
 Why do people behave differently toward public organizations compared to private organizations? What are the consequences of this behavior for strategy in PPPs and for society as a whole?
 In this project, we explore behavioral biases in the interaction of individual and corporate actors in the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’ on strategic behavior in PPPs with a special focus on riks behavior, partner coordination, collaboration efficiency, and institutional compliance.
 
-* The findings of the *RiPPP* project
+The findings of the *RiPPP* project
 
-** will increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
-** will help to identify both favorable and unfavorable mechanisms of behavior and coordination and, based on these findings, to deduce practical strategic and operative advice for public managers – especially when put under pressure and in inferior negotiation positions;
-** help actors to understand and cope with the emergence of irrational heuristic behavior in PPPs and cross-sectoral collaborations;
-** shed light onto the cause and effects of latent micro-level aspects of coordination under risk asymmetry with a special focus on aagents’ individual characteristics;
-** introduce novel psychological and neuro-economic research methods such as zTree experiments and economic experiments into behavioral public administration research.
+* will increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
+* will help to identify both favorable and unfavorable mechanisms of behavior and coordination and, based on these findings, to deduce practical strategic and operative advice for public managers – especially when put under pressure and in inferior negotiation positions;
+* help actors to understand and cope with the emergence of irrational heuristic behavior in PPPs and cross-sectoral collaborations;
+* shed light onto the cause and effects of latent micro-level aspects of coordination under risk asymmetry with a special focus on aagents’ individual characteristics;
+* introduce novel psychological and neuro-economic research methods such as zTree experiments and economic experiments into behavioral public administration research.
