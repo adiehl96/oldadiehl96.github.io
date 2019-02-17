@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-… (coming soon) …
+A copy of my most recent CV can be found here: a href="https://ksweissmueller.github.io/files/CV_Acad_KW_Feb2019.pdf">here</a>
 
 Education
 ======
