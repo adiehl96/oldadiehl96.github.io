@@ -10,6 +10,24 @@ redirect_from:
 
 … (coming soon) …
 
+Education
+======
+* Dr. rer. pol (Ph.D.) Public Management *(pending)*
+* M.A. Higher Education *(pending)*
+* M.Sc. Business Administration
+* B.Sc. Industrial Engineering & Management
+
+
+Languages
+======
+* German (native speaker)
+* English (C2)
+* Chinese (普通话, HSK4)
+* Latin (B2)
+* Spanish (A2)
+* French (A1)
+
+
 Awards
 ======
 * *EURAM 2018* <a href="https://euramonline.org/programme2018/strategic-interest-groups/sig-11-public-and-non-profit-management-pm-npm.html">SIG Public and Non-Profit Management </a> Best Paper Award
