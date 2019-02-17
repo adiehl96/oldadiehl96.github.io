@@ -58,9 +58,11 @@ Risk in Public Private Partnerships (RiPPP)
 Public organizations are often stigmatized in public opinion: Even though they are entrusted with the creation and maintenance of public goods and services, they are often perceived as slow and inefficient. This creates a number of issues for public agents especially in the complex setting of PPPs, ranging from practical challenges of cooperation to fundamental questions of legitimacy.
 Why do people behave differently toward public organizations compared to private organizations? What are the consequences of this behavior for strategy in PPPs and for society as a whole?
 In this project, we explore behavioral biases in the interaction of individual and corporate actors in the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’ on strategic behavior in PPPs with a special focus on riks behavior, partner coordination, collaboration efficiency, and institutional compliance.
-** The findings of the *RiPPP* project
-*** will increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
-*** will help to identify both favorable and unfavorable mechanisms of behavior and coordination and, based on these findings, to deduce practical strategic and operative advice for public managers – especially when put under pressure and in inferior negotiation positions;
-*** help actors to understand and cope with the emergence of irrational heuristic behavior in PPPs and cross-sectoral collaborations;
-*** shed light onto the cause and effects of latent micro-level aspects of coordination under risk asymmetry with a special focus on aagents’ individual characteristics;
-*** introduce novel psychological and neuro-economic research methods such as zTree experiments and economic experiments into behavioral public administration research.
+
+* The findings of the *RiPPP* project
+
+** will increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
+** will help to identify both favorable and unfavorable mechanisms of behavior and coordination and, based on these findings, to deduce practical strategic and operative advice for public managers – especially when put under pressure and in inferior negotiation positions;
+** help actors to understand and cope with the emergence of irrational heuristic behavior in PPPs and cross-sectoral collaborations;
+** shed light onto the cause and effects of latent micro-level aspects of coordination under risk asymmetry with a special focus on aagents’ individual characteristics;
+** introduce novel psychological and neuro-economic research methods such as zTree experiments and economic experiments into behavioral public administration research.
