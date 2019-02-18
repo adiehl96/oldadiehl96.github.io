@@ -27,16 +27,6 @@ Education
 * B.Sc. [Industrial Engineering & Management](https://www.fh-wedel.de/bewerben/bachelor/wirtschaftsingenieurwesen/)
 
 
-Languages
-======
-* German (native speaker)
-* English (C2)
-* Chinese (普通话, HSK4)
-* Latin (B2)
-* Spanish (A2)
-* French (A1)
-
-
 Awards
 ======
 * *EURAM 2018* <a href="https://euramonline.org/programme2018/strategic-interest-groups/sig-11-public-and-non-profit-management-pm-npm.html">SIG Public and Non-Profit Management </a> Best Paper Award
@@ -62,3 +52,12 @@ Ad-hoc Reviewer for:
 * *Public Administration* (PA)
 * *Public Administration Review* (PAR).
 
+
+Languages
+======
+* German (native speaker)
+* English (C2)
+* Chinese (普通话, HSK4)
+* Latin (B2)
+* Spanish (A2)
+* French (A1)
