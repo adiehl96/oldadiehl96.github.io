@@ -29,13 +29,11 @@ Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambl
   
 De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
 
-
+**Weißmüller, K.** & Vogel, R. (2018) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Journal of Public Administration Research and Theory* (3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>]
 
 <h2>Working Papers</h2>
 
 1. **Weißmüller, K.** (2018) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812). [<a href="https://ksweissmueller.github.io/files/20190217_Wei%C3%9Fm%C3%BCller_2019_Leadership%20in%20HE_COCOPS.pdf">Preliminary version</a>]
-
-2. **Weißmüller, K.** & Vogel, R. (2018) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Public Policy and Administration* (3-yr IF: 2.365).
 
 3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
