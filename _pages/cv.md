@@ -55,9 +55,4 @@ Ad-hoc Reviewer for:
 
 Languages
 ======
-* German (native speaker)
-* English (C2)
-* Chinese (普通话, HSK4)
-* Latin (B2)
-* Spanish (A2)
-* French (A1)
+German (native speaker), English (C2), Chinese (普通话, HSK4), Latin (B2), Spanish (A2), French (A1)
