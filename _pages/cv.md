@@ -29,7 +29,7 @@ Education
 
 Awards
 ======
-* *EURAM 2018* <a href="https://euramonline.org/programme2018/strategic-interest-groups/sig-11-public-and-non-profit-management-pm-npm.html">SIG Public and Non-Profit Management </a> Best Paper Award
+* *EURAM 2018* <a href="https://euramonline.org/programme2018/strategic-interest-groups/sig-11-public-and-non-profit-management-pm-npm.html"> SIG Public and Non-Profit Management </a> Best Paper Award
 * *Summer Interactive <a href="http://www.concordia.ca/cunews/main/stories/2015/06/03/gambling-gaming-explored-summer-research-symposium.html">Symposium</a>* – Research 2.0 2015 Best Poster Award
 
 
