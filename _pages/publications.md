@@ -28,7 +28,7 @@ Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambl
 
 **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
   
-De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
+De Waele, L. & **Weißmüller, K.** (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
 
 **Weißmüller, K.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Journal of Public Administration Research and Theory* (3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
@@ -39,7 +39,7 @@ De Waele, L., **Weißmüller, K.**, & Berghman, L. (2018) ‘Over de bureaucrati
 
 3. Van de Walle, S. & **Weißmüller, K.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
 
-4. **Weißmüller, K.**, De Waele, L., & Vanderstraeten, J. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
+4. **Weißmüller, K.** & De Waele, L. ‘Would you bribe your lecturer? An international experimental study on corruption in higher education.’ Working paper prepared for *Journal of Educational Psychology* (3-yr IF: 3.459). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
   
 5. Maasland, C. & **Weißmüller, K.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
 
