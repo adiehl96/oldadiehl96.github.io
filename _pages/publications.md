@@ -14,6 +14,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ *Journal of Business Research 98* (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a> (3-yr IF: 4.476).
+
+De Waele, L. & **Weißmüller, K.** (forthcoming) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)*.
      
 
 
@@ -28,8 +30,6 @@ Fiedler, I., Kairouz, S., Costes, J.-M., & **Weißmüller, K.** (2019). ‘Gambl
 
 **Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
   
-De Waele, L. & **Weißmüller, K.** (2018) ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal for Public Management)* (accepted with minor revision).
-
 **Weißmüller, K.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ Working paper prepared for *Journal of Public Administration Research and Theory* (3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
 
