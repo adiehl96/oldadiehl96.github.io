@@ -22,7 +22,7 @@ A copy of my most recent CV can be found <a href="https://ksweissmueller.github.
 Education
 ======
 * Dr. rer. pol (Ph.D.) Public Management *(pending)*
-* M.A. Higher Education *(pending)*
+* M.A. Higher Education
 * M.Sc. Business Administration
 * B.Sc. Industrial Engineering & Management
 
