@@ -10,11 +10,11 @@ author_profile: true
 M.Sc.-level
 -------------
 
-* ‘Empirical research project in administrative science’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-* ‘Current topics in public management research: Behavioral Public Administration’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘Advanced seminar in international management: Corporate governance from a behavioral perspective’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘Philosophy of science and methods of empirical social research’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘Interdisciplinary master course’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
+* ‘**Current topics in public management research: Behavioral Public Administration**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Interdisciplinary master course**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 
 
@@ -22,9 +22,9 @@ B.A.-level
 -------------
 
 
-* ‘Behavioral public administration: Psychology in public management research’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘Public and nonprofit management’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017; class size: 380 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘Planning, decision, control: Normative decision theory’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Public and nonprofit management**’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017; class size: 380 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Planning, decision, control: Normative decision theory**’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 
 
