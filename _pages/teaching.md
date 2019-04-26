@@ -39,7 +39,7 @@ Teaching philosophy
 
 All of my courses are specifically designed in an interdisciplinary way synthesizing perspectives from micro- and macro-economics, management studies, sociology, and psychology to specifically accommodate the beauties and challenges of teaching in interdisciplinary educational programs. Creating an engaging, innovative, respectful and student-centered teaching environment is essential to foster students’ learning success.
 
-I believe that teaching is as much an *essential a part of the profession of science* as is conducting original research. Only by openly and pro-actively sharing our scientific insights with both students and practitioners, researchers can hope to make a meaningful contribution to the sustainable development of society and make a difference.
+I believe that teaching is as much an *essential a part of the profession of science* as is conducting original research and I follow the principles of *research-oriented teaching* in my lectures and seminars. Only by openly and pro-actively sharing our scientific insights with both students and practitioners, researchers can hope to make a meaningful contribution to the sustainable development of society and make a difference.
 
 Teaching is a *collaborative process of knowledge generation* and sharing that should engage students and lecturer(s) on equal terms and without hierarchy. Taking into account the heterogeneity of students, I believe that teaching university courses should be designed as an open process continuously striving for improvement through a *culture of respect and creativity* between learners and lecturers. Knowledge is a living thing and teaching without learning is futile.
 
