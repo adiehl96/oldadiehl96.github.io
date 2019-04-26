@@ -35,23 +35,23 @@ Consortium
 
 **Partners**
 
-* *Australia & New Zealand*
-** University of Western Australia
-***	Jeannette Taylor	jeannette.taylor@uwa.edu.au
-** University of Melbourne
-*** Jenny Lewis  jmlewis@unimelb.edu.au
-** ANZSOG (Australia and New Zealand School of Government)
-***	Catherine Althaus (c.althaus@ANZSOG.edu.au)
-***	Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
+*Australia & New Zealand* 
+* University of Western Australia
+**	Jeannette Taylor	jeannette.taylor@uwa.edu.au
+* University of Melbourne
+** Jenny Lewis  jmlewis@unimelb.edu.au
+* ANZSOG (Australia and New Zealand School of Government)
+**	Catherine Althaus (c.althaus@ANZSOG.edu.au)
+**	Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
 
-* *Austria*
-** Johannes Keppler Universität Linz
-*** Dennis Hilgers (dennis.hilgers@jku.at)
-*** Lisa Schmidthuber (lisa.schmidthuber@jku.at)
+ *Austria*
+* Johannes Keppler Universität Linz
+** Dennis Hilgers (dennis.hilgers@jku.at)
+** Lisa Schmidthuber (lisa.schmidthuber@jku.at)
 
-* *Belgium*
-** Universiteit Antwerpen
-*** Lode De Weale (lode.dewaele@uantwerpen.be)
+ *Belgium*
+* Universiteit Antwerpen
+** Lode De Weale (lode.dewaele@uantwerpen.be)
 
 
 
