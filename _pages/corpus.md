@@ -37,80 +37,79 @@ Principal researchers & project managers
 Partners
 --------
 
-Australia & New Zealand* 
-### University of Western Australia
+### Australia & New Zealand 
+* University of Western Australia
 - Jeannette Taylor	(jeannette.taylor@uwa.edu.au)
-### University of Melbourne
+* University of Melbourne
 - Jenny Lewis (jmlewis@unimelb.edu.au)
-### ANZSOG (Australia and New Zealand School of Government):
+* ANZSOG (Australia and New Zealand School of Government):
 - Catherine Althaus (c.althaus@ANZSOG.edu.au) 
 - Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
 
- *Austria*
-* Johannes Keppler Universität Linz:
+### Austria
+*Johannes Keppler Universität Linz*
 - Dennis Hilgers (dennis.hilgers@jku.at)
 - Lisa Schmidthuber (lisa.schmidthuber@jku.at)
 
-*Belgium*
-* Universiteit Antwerpen
+### Belgium
+*Universiteit Antwerpen*
 - Lode De Weale (lode.dewaele@uantwerpen.be)
 
-*Germany*
-* Universität Hamburg
+### Germany
+*Universität Hamburg*
 - Kristina S. Weißmüller (Kristina.weissmueller@uni-hamburg.de) 
 
-*Hong Kong*
-*	City University of Hong Kong
+### Hong Kong
+*City University of Hong Kong*
 -	Ting GONG (tgong2@cityu.edu.hk)
 -	Sunny Litianqing Yang (yl_tq@126.com)
 -	Richard Walker (rmwalker@cityu.edu.hk)
 -	Wenyan TU (wenyantu2-c@my.cityu.edu.hk)
-*	The Education University of Hong Kong 
+*The Education University of Hong Kong*
 -	XIAO Hanyu (hxiao@eduhk.hk)
 
-*Italy*
-* Università Tor Vergata, Rome 
+### Italy
+*Università Tor Vergata, Rome*
 - Fabio Monteduro (fabio.monteduro@uniroma2.it)
-* LUISS University
+*LUISS University*
 - Fabian Hoimberg (fhomberg@luiss.it)
 
-*The Netherlands*
-* Vrije Universiteit Amsterdam
+### The Netherlands
+*Vrije Universiteit Amsterdam*
 - Arjen van Witteloostuijn (a.van.witteloostuijn@vu.nl)
 
-*Norway*
-* University of Oslo
+### Norway
+*University of Oslo*
 -	Kristoffer Kolltveit (kristoffer.kolltveit@stv.uio.no)
 
-*Spain*
-* Universitat Autònoma de Barcelona
+### Spain
+*Universitat Autònoma de Barcelona*
 - Guillem Ripoll Pascual (Guillem.Ripoll@uab.cat)
 
-*South Korea*
-*	Korea University
+### South Korea
+*Korea University*
 - SHIM Dong Chul (dcshim@korea.ac.kr)
 *	Seoul National University of Science & Technology
 - KIM Sangmook (smook@seoultech.ac.kr)
 
-*Switzerland*
-* Universität Bern
+### Switzerland
+*Universität Bern*
 -	Adrian Ritz (adrian.ritz@kpm.unibe.ch)
 -	Kristina S. Weißmüller (kristina.weissmueller@kpm.unibe.ch) 
 
-*Taiwan*
-* Taiwan University
+### Taiwan
+*Taiwan University*
 -	Tsai-tsu SU (tsaitsu@ntu.edu.tw)
 -	Mei-Jen HUNG (meijhung@ntu.edu.tw)
 -	Ming-Feng KUO (mingfeng.kuo@gmail.com)
 
-
-*United Kingdom (UK)*:
-* University of Southampton
+### United Kingdom (UK)
+*University of Southampton*
 -	Fabian Homberg (fhomberg@luiss.it)
 
 
-*United States (US)*
-* Brigham Young University
+### United States (US)
+*Brigham Young University*
 - Robert K. Christensen (rkc@byu.edu) 
 
 
