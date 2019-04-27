@@ -37,12 +37,12 @@ Principal researchers & project managers
 Partners
 --------
 
-*Australia & New Zealand* 
-* University of Western Australia
+Australia & New Zealand* 
+### University of Western Australia
 - Jeannette Taylor	(jeannette.taylor@uwa.edu.au)
-* University of Melbourne
+### University of Melbourne
 - Jenny Lewis (jmlewis@unimelb.edu.au)
-* ANZSOG (Australia and New Zealand School of Government):
+### ANZSOG (Australia and New Zealand School of Government):
 - Catherine Althaus (c.althaus@ANZSOG.edu.au) 
 - Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
 
