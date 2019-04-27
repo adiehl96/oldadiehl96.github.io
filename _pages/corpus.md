@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-About CorPuS
+Project Goals and Objectives
 =======
 
 Public sector corruption is a common, but severely understudied, phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously together seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
@@ -30,6 +30,7 @@ Consortium
 * <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
 * <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
+
 * <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>
 
 
@@ -37,21 +38,79 @@ Consortium
 
 *Australia & New Zealand* 
 * University of Western Australia
-**	Jeannette Taylor	jeannette.taylor@uwa.edu.au
+- Jeannette Taylor	(jeannette.taylor@uwa.edu.au)
 * University of Melbourne
-** Jenny Lewis  jmlewis@unimelb.edu.au
-* ANZSOG (Australia and New Zealand School of Government)
-**	Catherine Althaus (c.althaus@ANZSOG.edu.au)
-**	Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
+- Jenny Lewis (jmlewis@unimelb.edu.au)
+* ANZSOG (Australia and New Zealand School of Government):
+- Catherine Althaus (c.althaus@ANZSOG.edu.au) 
+- Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
 
  *Austria*
-* Johannes Keppler Universität Linz
-** Dennis Hilgers (dennis.hilgers@jku.at)
-** Lisa Schmidthuber (lisa.schmidthuber@jku.at)
+* Johannes Keppler Universität Linz:
+- Dennis Hilgers (dennis.hilgers@jku.at)
+- Lisa Schmidthuber (lisa.schmidthuber@jku.at)
 
- *Belgium*
+*Belgium*
 * Universiteit Antwerpen
-** Lode De Weale (lode.dewaele@uantwerpen.be)
+- Lode De Weale (lode.dewaele@uantwerpen.be)
+
+*Germany*
+* Universität Hamburg
+- Kristina S. Weißmüller (Kristina.weissmueller@uni-hamburg.de) 
+
+*Hong Kong*
+*	City University of Hong Kong
+-	Ting GONG (tgong2@cityu.edu.hk)
+-	Sunny Litianqing Yang (yl_tq@126.com)
+-	Richard Walker (rmwalker@cityu.edu.hk)
+-	Wenyan TU (wenyantu2-c@my.cityu.edu.hk)
+*	The Education University of Hong Kong 
+-	XIAO Hanyu (hxiao@eduhk.hk)
+
+*Italy*
+* Università Tor Vergata, Rome 
+- Fabio Monteduro (fabio.monteduro@uniroma2.it)
+* LUISS University
+- Fabian Hoimberg (fhomberg@luiss.it)
+
+*The Netherlands*
+* Vrije Universiteit Amsterdam
+- Arjen van Witteloostuijn (a.van.witteloostuijn@vu.nl)
+
+*Norway*
+* University of Oslo
+-	Kristoffer Kolltveit (kristoffer.kolltveit@stv.uio.no)
+
+*Spain*
+* Universitat Autònoma de Barcelona
+- Guillem Ripoll Pascual (Guillem.Ripoll@uab.cat)
+
+*South Korea*
+*	Korea University
+- SHIM Dong Chul (dcshim@korea.ac.kr)
+*	Seoul National University of Science & Technology
+- KIM Sangmook (smook@seoultech.ac.kr)
+
+*Switzerland*
+* Universität Bern
+-	Adrian Ritz (adrian.ritz@kpm.unibe.ch)
+-	Kristina S. Weißmüller (kristina.weissmueller@kpm.unibe.ch) 
+
+*Taiwan*
+* Taiwan University
+-	Tsai-tsu SU (tsaitsu@ntu.edu.tw)
+-	Mei-Jen HUNG (meijhung@ntu.edu.tw)
+-	Ming-Feng KUO (mingfeng.kuo@gmail.com)
+
+
+*United Kingdom (UK)*:
+* University of Southampton
+-	Fabian Homberg (fhomberg@luiss.it)
+
+
+*United States (US)*
+* Brigham Young University
+- Robert K. Christensen (rkc@byu.edu) 
 
 
 
