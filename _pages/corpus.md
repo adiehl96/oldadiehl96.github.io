@@ -31,6 +31,16 @@ Principal researchers & project managers
 * <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
 
+Kristina S. Weissmüller is a Research Associate at the KPM Center for Public Management. Before joining KPM, she was a doctoral candidate at Prof. Dr. Rick Vogel’s chair for Public Management as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
+
+Currently, Kristinas main focus lies on conducting the multi-national CorPuS project to reveal the micro-foundations of public sector corruption and institutional deviance (CorPuS). 
+
+Please follow this link for more information on Kristina’s publications, research projects and CV: http://ksweissmueller.com/
+
+
+
+
+
 * <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>
 
 
