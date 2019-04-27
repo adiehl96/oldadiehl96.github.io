@@ -25,8 +25,8 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 Consortium
 =======
 
-**Principal researchers & project managers** 
-
+Principal researchers & project managers
+--------
 * <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
 * <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
@@ -34,12 +34,13 @@ Consortium
 * <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>
 
 
-**Partners**
+Partners
+--------
 
 *Australia & New Zealand* 
-### University of Western Australia
+* University of Western Australia
 - Jeannette Taylor	(jeannette.taylor@uwa.edu.au)
-### University of Melbourne
+* University of Melbourne
 - Jenny Lewis (jmlewis@unimelb.edu.au)
 * ANZSOG (Australia and New Zealand School of Government):
 - Catherine Althaus (c.althaus@ANZSOG.edu.au) 
