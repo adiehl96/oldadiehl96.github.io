@@ -110,7 +110,7 @@ Partners
 
 ### The Netherlands
 *Vrije Universiteit Amsterdam*
-- Arjen van Witteloostuijn (a.van.witteloostuijn@vu.nl)
+- <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a> (a.van.witteloostuijn@vu.nl)
 
 ### Norway
 *University of Oslo*
