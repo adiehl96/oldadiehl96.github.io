@@ -104,7 +104,7 @@ Partners
 
 ### Italy
 *Università Tor Vergata, Rome*
-- <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a> (fabio.monteduro@uniroma2.it)
+- <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a> (fabio.monteduro@uniroma2.it)<a/>
 *LUISS University*
 - <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it)
 
@@ -147,7 +147,7 @@ Partners
 
 
 
-Work Packages *(work in progress)*
+Work Packages *(coming soon)*
 =======
 
 **1. Work Package**
