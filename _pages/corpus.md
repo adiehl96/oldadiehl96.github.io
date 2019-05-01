@@ -97,7 +97,8 @@ Partners
 -	<a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a> (tgong2@cityu.edu.hk)
 -	<a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a> (yl_tq@126.com)
 -	<a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a> (rmwalker@cityu.edu.hk)
--	Wenyan TU (wenyantu2-c@my.cityu.edu.hk)
+-	<a href="https://scholars.cityu.edu.hk/en/persons/wenyan-tu(760b166d-d232-44ee-b266-d47026ce4c6c).html">Wenyan TU</a>  (wenyantu2-c@my.cityu.edu.hk)
+
 
 *The Education University of Hong Kong*
 -	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk)
