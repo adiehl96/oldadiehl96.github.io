@@ -55,7 +55,7 @@ In this project, we explore behavioral biases in the interaction of individual a
 
 The findings of the *RiPPP* project
 
-* will increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
+* will help increase public welfare by enabling both public and non-public actors in PPPs to improve coordination and collaboration efficacy;
 * will help to identify both favorable and unfavorable mechanisms of behavior and coordination and, based on these findings, to deduce practical strategic and operative advice for public managers – especially when put under pressure and in inferior negotiation positions;
 * help actors to understand and cope with the emergence of irrational heuristic behavior in PPPs and cross-sectoral collaborations;
 * shed light onto the cause and effects of latent micro-level aspects of coordination under risk asymmetry with a special focus on aagents’ individual characteristics;
