@@ -70,17 +70,17 @@ Partners
 
 ### Australia & New Zealand 
 *University of Western Australia*
-- Jeannette Taylor	(jeannette.taylor@uwa.edu.au)
+- <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a> (jeannette.taylor@uwa.edu.au)
 *University of Melbourne*
 - <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a> (jmlewis@unimelb.edu.au)
 *ANZSOG (Australia and New Zealand School of Government)*
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) 
-- Janine O’Flynn (j.oflynn@ANZSOG.edu.au)
+- <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au)
 
 ### Austria
 *Johannes Keppler Universität Linz*
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a> (dennis.hilgers@jku.at)
-- Lisa Schmidthuber (lisa.schmidthuber@jku.at)
+- <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at)
 
 ### Belgium
 *Universiteit Antwerpen*
@@ -93,11 +93,11 @@ Partners
 ### Hong Kong
 *City University of Hong Kong*
 -	<a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a> (tgong2@cityu.edu.hk)
--	Sunny Litianqing Yang (yl_tq@126.com)
--	Richard Walker (rmwalker@cityu.edu.hk)
+-	<a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a> (yl_tq@126.com)
+-	<a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a> (rmwalker@cityu.edu.hk)
 -	Wenyan TU (wenyantu2-c@my.cityu.edu.hk)
 *The Education University of Hong Kong*
--	XIAO Hanyu (hxiao@eduhk.hk)
+-	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk)
 
 ### Italy
 *Università Tor Vergata, Rome*
@@ -115,24 +115,24 @@ Partners
 
 ### Spain
 *Universitat Autònoma de Barcelona*
-- Guillem Ripoll Pascual (Guillem.Ripoll@uab.cat)
+- <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a> (Guillem.Ripoll@uab.cat)
 
 ### South Korea
 *Korea University*
-- SHIM Dong Chul (dcshim@korea.ac.kr)
+- <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr)
 *	Seoul National University of Science & Technology
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
 
 ### Switzerland
 *Universität Bern*
--	Adrian Ritz (adrian.ritz@kpm.unibe.ch)
--	Kristina S. Weißmüller (kristina.weissmueller@kpm.unibe.ch) 
+-	<a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a> (adrian.ritz@kpm.unibe.ch)
+-	<a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (kristina.weissmueller@kpm.unibe.ch) 
 
 ### Taiwan
 *Taiwan University*
--	Tsai-tsu SU (tsaitsu@ntu.edu.tw)
+-	<a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a> (tsaitsu@ntu.edu.tw)
 -	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a> (meijhung@ntu.edu.tw)
--	 <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a> (mingfeng.kuo@gmail.com)
+-	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a> (mingfeng.kuo@gmail.com)
 
 ### United Kingdom (UK)
 *University of Southampton*
@@ -145,7 +145,7 @@ Partners
 
 
 
-*  , , , , , , , ,, <, , <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
+*  , , , , , , , ,, <, , , , , , , , , , , & .
 
 
 
