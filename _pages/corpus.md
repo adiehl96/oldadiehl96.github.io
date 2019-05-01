@@ -132,7 +132,7 @@ Partners
 -	<a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (kristina.weissmueller@kpm.unibe.ch) 
 
 ### Taiwan
-*Taiwan University*
+*National Taiwan University*
 -	<a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a> (tsaitsu@ntu.edu.tw)
 -	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a> (meijhung@ntu.edu.tw)
 -	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a> (mingfeng.kuo@gmail.com)
