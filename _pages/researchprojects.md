@@ -9,7 +9,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 
-Public Sector Corruption (CorPuS)
+Corruption in the Public Sector (CorPuS)
 =======
 
 **A multi-country experimental study**      
