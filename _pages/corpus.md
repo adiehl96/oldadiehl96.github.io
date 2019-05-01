@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Public Sector Corruption (CorPuS)"
+title: "Corruption in the Public Sector (CorPuS)"
 permalink: /corpus/
 author_profile: true
 ---
