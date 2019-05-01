@@ -45,7 +45,7 @@ Kristina.weissmueller@kpm.ch
 Research Assistant & Lecturer at University of Antwerp, Belgium.
 
 Universiteit Antwerpen<br/>
-Department of Management, S.C.445 <br/>
+Department of Management<br/>
 Prinsstraat 13<br/>
 2000 Antwerpen, België<br/>
 Tel. +32 (0)32 654 890<br/>
