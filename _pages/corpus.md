@@ -19,6 +19,13 @@ The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insi
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
 
 
+Universität Bern
+KPM Center for Public Management
+Schanzeneckstrasse 1
+CH-3012 Bern, Switzerland
+Tel. +41 (0)31 631 4768
+Kristina.weissmueller@kpm.ch  
+
 
 
 
@@ -41,6 +48,7 @@ Please follow this link for more information on Kristina’s publications, resea
 
 Research Assistant & Lecturer at University of Antwerp, Belgium.
 
+Universiteit Antwerpen
 Department of Management, S.C.445 
 Prinsstraat 13
 2000 Antwerpen, België
@@ -53,6 +61,7 @@ lode.dewaele@uantwerpen.be
 "Prof. Dr. Arjen van Witteloostuijn is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastrich University, the University of Durham, the Utrecht University, Cardiff Business School.
 As of 2015, he is a member of the Royal Netherlands Academy of Sciences (Koninklijke Nederlandse Academie van Wetenschappen, or KNAW). As of 2016, Head of the Economics Section of the KNAW. As of 2017, Chair of the Department of Business, Economics, Law & Social Sciences of the KNAW." (https://research.vu.nl/en/persons/a-van-witteloostuijn)
 
+Vrije Universiteit Amsterdam
 School of Business and Economics
 De Boelelaan 1105
 1081 HV Amsterdam, the Netherlands
