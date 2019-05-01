@@ -86,11 +86,11 @@ Partners
 
 ### Belgium
 *Universiteit Antwerpen*
-- Lode De Weale (lode.dewaele@uantwerpen.be)
+- <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> (lode.dewaele@uantwerpen.be)
 
 ### Germany
 *Universität Hamburg*
-- Kristina S. Weißmüller (Kristina.weissmueller@uni-hamburg.de) 
+- <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (Kristina.weissmueller@uni-hamburg.de) 
 
 ### Hong Kong
 *City University of Hong Kong*
@@ -122,8 +122,7 @@ Partners
 
 ### South Korea
 *Korea University*
-- <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr)
-
+- <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr)<a/>
 *	Seoul National University of Science & Technology
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
 
