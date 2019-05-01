@@ -19,11 +19,11 @@ The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insi
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
 
 
-Universität Bern
-KPM Center for Public Management
-Schanzeneckstrasse 1
-CH-3012 Bern, Switzerland
-Tel. +41 (0)31 631 4768
+Universität Bern<br/>
+KPM Center for Public Management<br/>
+Schanzeneckstrasse 1<br/>
+CH-3012 Bern, Switzerland<br/>
+Tel. +41 (0)31 631 4768<br/>
 Kristina.weissmueller@kpm.ch  
 
 
