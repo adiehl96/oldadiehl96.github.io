@@ -147,12 +147,7 @@ Partners
 
 
 
-
-*  , , , , , , , ,, <, , , , , , , , , , , & .
-
-
-
-Work Packages
+Work Packages *(work in progress)*
 =======
 
 **1. Work Package**
