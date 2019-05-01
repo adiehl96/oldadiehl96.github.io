@@ -8,7 +8,7 @@ author_profile: true
 **A multi-country experimental study (Jan. 2018 – Dec. 2021)**
 
 
-<br/><br/>
+<br/>
 Project Goals and Objectives
 =======
 
