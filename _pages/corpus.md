@@ -42,9 +42,13 @@ Please follow this link for more information on Kristina’s publications, resea
 Research Assistant & Lecturer at University of Antwerp, Belgium.
 
 Department of Management, S.C.445 
+
 Prinsstraat 13
+
 2000 Antwerpen, België
+
 Tel. +32 (0)32 654 890
+
 lode.dewaele@uantwerpen.be
 
 
