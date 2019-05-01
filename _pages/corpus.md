@@ -71,8 +71,10 @@ Partners
 ### Australia & New Zealand 
 *University of Western Australia*
 - <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a> (jeannette.taylor@uwa.edu.au)
+
 *University of Melbourne*
 - <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a> (jmlewis@unimelb.edu.au)
+
 *ANZSOG (Australia and New Zealand School of Government)*
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) 
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au)
@@ -96,6 +98,7 @@ Partners
 -	<a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a> (yl_tq@126.com)
 -	<a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a> (rmwalker@cityu.edu.hk)
 -	Wenyan TU (wenyantu2-c@my.cityu.edu.hk)
+
 *The Education University of Hong Kong*
 -	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk)
 
