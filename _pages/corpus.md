@@ -18,6 +18,7 @@ The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insi
 
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
 
+</br></br>
 
 Consortium
 =======
@@ -64,7 +65,7 @@ De Boelelaan 1105<br/>
 Tel. +31 (0)20 598 5230<br/>
 a.van.witteloostuijn@vu.nl
 
-
+</br></br>
 Partners
 --------
 
@@ -98,7 +99,6 @@ Partners
 -	<a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a> (yl_tq@126.com)
 -	<a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a> (rmwalker@cityu.edu.hk)
 -	<a href="https://scholars.cityu.edu.hk/en/persons/wenyan-tu(760b166d-d232-44ee-b266-d47026ce4c6c).html">Wenyan TU</a>  (wenyantu2-c@my.cityu.edu.hk)
-
 
 *The Education University of Hong Kong*
 -	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk)
@@ -146,7 +146,7 @@ Partners
 *Brigham Young University*
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) 
 
-
+</br></br>
 
 Work Packages *(coming soon)*
 =======
