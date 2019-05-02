@@ -27,7 +27,7 @@ B.A.-level
 * ‘**Planning, decision, control: Normative decision theory**’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 
-
+<a/><a/>
 
 
 Teaching philosophy
