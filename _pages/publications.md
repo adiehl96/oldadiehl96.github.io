@@ -28,7 +28,7 @@ De Waele, L. & **Weißmüller, K.** (forthcoming) ‘Over de bureaucratische par
      
 **Weißmüller, K.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
-**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Journal of Public Administration Research and Theory* (revised & resubmitted 4th round, 3-yr IF: 4.024). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Public Administration* (under review, 3-yr IF: 3.035). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
   
 **Weißmüller, K.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
