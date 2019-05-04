@@ -64,7 +64,7 @@ De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A., Cannaerts, N., Corey
 
 **Weißmüller, K.**, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland*.
 
-**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘ 	<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
+**Weißmüller, K.**, De Waele, L., van Witteloostuijn, A.  (2018). ‘<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ *ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany*.
 
 De Waele, L., **Weißmüller, K.**, van Witteloostuijn, A. (2018). ‘The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.’ *78th Annual Meeting of the Academy of Management (AoM), 10.08.-14.08.2018, Chicago, Illinois, USA*. <a href="https://doi.org/10.5465/AMBPP.2018.12966abstract">https://doi.org/10.5465/AMBPP.2018.12966abstract</a>.
 
