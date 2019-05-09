@@ -37,7 +37,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
-1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812). 
+1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812). 
 
 2. Van de Walle, S. & **Weißmüller, K.S.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
  
