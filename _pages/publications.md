@@ -55,7 +55,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-<h2>Other Manuscripts</h2>
+<h2>Other Publications</h2>
 
 **Weißmüller, K.S.** (2018) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Masterthesis in Higher Education (M.A., *with distinction*) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, supervised by Prof. Dr. K. Mayerberger & Prof. Dr. C. Bohndick. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2018_Leadership in HE_COCOPS.pdf">Full Version</a>]
 
