@@ -21,10 +21,10 @@ A copy of my most recent CV can be found <a href="https://ksweissmueller.github.
 
 Education
 ======
-* 2019 Dr. rer. pol (Ph.D.) Public Management *(pending)*, *Universität Hamburg*
-* 2019 M.A. Higher Education with distinction, *Universität Hamburg*
-* 2014 M.Sc. Business Administration, *Universität Hamburg* & *Zhejang University (浙江大学)* 
-* 2011 B.Sc. Industrial Engineering & Management, *University of Applied Sciences Wedel* & *Edinburgh Napier University* 
+* 2019 Dr. rer. pol (Ph.D.) Public Management *(pending)*, Universität Hamburg
+* 2019 M.A. Higher Education with distinction, Universität Hamburg
+* 2014 M.Sc. Business Administration, Universität Hamburg* & Zhejang University (浙江大学)
+* 2011 B.Sc. Industrial Engineering & Management, University of Applied Sciences Wedel & Edinburgh Napier University 
 
 
 Awards
