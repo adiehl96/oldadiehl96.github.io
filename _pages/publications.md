@@ -65,6 +65,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
+**Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘Strategic Negotiation Behavior in Public-Private Partnerships.’ *VHB Pfingsttagung, WK ÖBWL, 13.-14.06.2019, Rostock, Germany*.
+
 De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ *23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand*.
 
 **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland*.
