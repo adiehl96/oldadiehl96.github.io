@@ -23,7 +23,7 @@ Education
 ======
 * 2019 Dr. rer. pol (Ph.D.) Public Management *(pending)*, Universität Hamburg
 * 2019 M.A. Higher Education with distinction, Universität Hamburg
-* 2014 M.Sc. Business Administration, Universität Hamburg & Zhejang University (浙江大学)
+* 2014 M.Sc. Business Administration, Universität Hamburg & Zhejiang University (浙江大学)
 * 2011 B.Sc. Industrial Engineering & Management, University of Applied Sciences Wedel & Edinburgh Napier University 
 
 
@@ -38,7 +38,7 @@ Memberships
 * *Academy of Management* (AoM)
 * *Europeam Consortium for Political Research* (ECPR)
 * *European Group for Public Administration* (EGPA)
-* *European Academy of Management* (EURAM; topic co-chair of T04 ‘<a href="http://euramonline.org/component/phocadownload/category/43-2019-conference.html?download=782:cfp-2019">Behavioral Public Administration & Behavioral Accounting</a>’ in SIG11 ‘*Public and Non-Profit Management*’)
+* *European Academy of Management* (EURAM; in SIG11 ‘*Public and Non-Profit Management*’)
 * *International Institute of Administrative Sciences* (IASIA)
 * *International Political Science Association* (IPSA; officer of RC 29 ‘<a href="https://www.ipsa.org/research-committees/rclist/RC29">Political Psychology</a>’)
 * *International Research Society for Public Management* (IRSPM; panel co-chair of P2 ‘ 	<a href="http://irspm2019.com/files/docs/irspm18/gregg%20g.%20van%20ryzin.pdf">Behavioral and experimental public administration</a>’)
