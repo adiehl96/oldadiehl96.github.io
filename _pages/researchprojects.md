@@ -9,7 +9,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 
-3. Corruption in the Public Sector (CorPuS)
+3 Corruption in the Public Sector (CorPuS)
 =======
 
 **A multi-country experimental study**      
@@ -24,7 +24,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 
-2. Public Service Motivation in University Students
+2 Public Service Motivation in University Students
 =======
 
 **A multi-wave study on the role of PSM as a success factor in higher education**
@@ -38,7 +38,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 
-1. Risk in Public Private Partnerships (RiPPP)
+1 Risk in Public Private Partnerships (RiPPP)
 =======
 
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
