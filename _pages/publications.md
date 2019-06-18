@@ -28,8 +28,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
      
 **Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
-**Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Public Administration* (under review, 3-yr IF: 3.035). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
-  
+ 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
 **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
@@ -53,6 +52,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 8. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
 
+9. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper prepared for *Administrative Science Quarterly* (3-yr IF: 5.878). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
 
 <h2>Other Publications</h2>
