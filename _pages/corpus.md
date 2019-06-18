@@ -132,7 +132,7 @@ Guillem Ripoll (guillem.ripoll@uab.cat) is a Ph.D. researcher at the Autonomous 
 *Korea University*
 - <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr) <a/>
 
-*	Seoul National University of Science & Technology
+*Seoul National University of Science & Technology*
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
 
 ### Switzerland
