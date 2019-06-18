@@ -39,7 +39,7 @@ KPM Center for Public Management<br/>
 Schanzeneckstrasse 1<br/>
 CH-3012 Bern, Switzerland<br/>
 Tel. +41 (0)31 631 4768<br/>
-Kristina.weissmueller@kpm.ch  
+Kristina.weissmueller@kpm.unibe.ch  
 
 
 ### <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
