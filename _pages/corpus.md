@@ -80,12 +80,16 @@ Partners
 
 *ANZSOG (Australia and New Zealand School of Government)*
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) 
+Catherine Althaus is the Associate Professor in the School of Social and Political Sciences, Faculty of Arts, University of Melbourne and ANZSOG Deputy Dean (Teaching and Learning). She has a passion for creatively serving the public interest as a practitioner-academic. Her academic training is in economics and politics and public policy. Before coming to ANZSOG, she spent nine years teaching and researching in Canada, culminating in her position as Director of the School of Public Administration at the University of Victoria, British Columbia. Prior to that, she was a post-doctoral fellow at the Australian National University, and she held a number of policy posts with the Queensland Treasury department and Queensland Office of the Cabinet.
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au)
+Professor Janine O’Flynn - Janine is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
 
 ### Austria
 *Johannes Keppler Universität Linz*
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a> (dennis.hilgers@jku.at)
+Dennis Hilgers is a professor of Public and Nonprofit Management at Johannes Kepler University (JKU) Linz and head of the Institute for Public and Nonprofit Management. His research focuses on managing innovation and performance in public administrations. 
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at)
+Lisa Schmidthuber is a post‐doctoral researcher in the Institute for Public and Nonprofit Management at JKU Linz. She obtained her doctoral degree in business administration from JKU in 2018 with a paper-based dissertation on open government and the exploration and exploitation of external knowledge in the public sector. Her research interests include public innovation management, digital transformation, and accounting innovation.
 
 ### Belgium
 *Universiteit Antwerpen*
@@ -118,10 +122,17 @@ Partners
 ### Norway
 *University of Oslo*
 -	<a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a> (kristoffer.kolltveit@stv.uio.no)
+Kristoffer Kolltveit, Associate Professor, Department of Political Science, University of Oslo. "My main research interest has been how values and norms guide the decisions of bureaucrats. The CorPus-project gave me the opportunity the explore related issues through experimental research. In addition, CorPus enables research cooperation across the world, and to establish ties with new colleagues."
+
+### People's Republic of China
+*Renmin University of China, Beijing*
+- <a href="http://nads.ruc.edu.cn/en/index.php?s=/Index/news_cont/id/305.html">Liang Ma</a> (liangma@ruc.edu.cn)
+Liang Ma, Associate Professor at the School of Public Administration and Policy. "My research interests include organizational learning and innovation, performance measurement and management, and policy diffusion, with a specific focus on China. I am interested in joining this project for two reasons, substantive and methodological. I believe the China story should be part of the comparative study on corruption and anticorruption. Also, I want to learn cross-cultural experimental methods from this collaborative research."
 
 ### Spain
 *Universitat Autònoma de Barcelona*
 - <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a> (Guillem.Ripoll@uab.cat)
+Guillem Ripoll (guillem.ripoll@uab.cat) is a Ph.D. researcher at the Autonomous University of Barcelona (Politics, Policies and International Relations). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He has been involved in CorPuS since April 2018 because the topic is interesting, the methodological approach novel, and the colleagues terrific. In particular, he contributed in providing feedback for the design of the survey and vignettes, and setting (translation and recollection process) the survey in Spain.
 
 ### South Korea
 *Korea University*
@@ -133,6 +144,7 @@ Partners
 ### Switzerland
 *Universität Bern*
 -	<a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a> (adrian.ritz@kpm.unibe.ch)
+Adrian Ritz is professor of Public Management at the KPM Center for Public Management at the University of Bern in Switzerland. His current research interests include leadership, motivation, performance, and human resource management in the public sector. His work has been published in journals such as e.g. Public Administration Review, Journal of Public Administration Theory and Research, Public Administration or Human Resource Management. He joined the project because of its comparative approach and his interest in experimental research in the field of motivation and behaviour in the public sector.
 -	<a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (kristina.weissmueller@kpm.unibe.ch) 
 
 ### Taiwan
@@ -148,6 +160,7 @@ Partners
 ### United States (US)
 *Brigham Young University*
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) 
+Robert K. Christensen (rkc@byu.edu)  is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School.  Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
 
 <br/><br/>
 
