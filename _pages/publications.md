@@ -44,7 +44,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
-5. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper for *Public Administration Review* (3-yr IF: 3.473).
+5. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
 6. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
