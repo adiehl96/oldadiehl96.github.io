@@ -30,7 +30,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 **A multi-wave study on the role of PSM as a success factor in higher education**
 (Jul. 2018 – Jan. 2021)
 
-* *Principal researcher & project manager together with*: <a href="https://www.hsu-hh.de/marketing/team#details-0-0">Claudia Fantapie Altobelli</a>
+* *Principal researcher & project manager together with*: <a href="https://www.hsu-hh.de/marketing/team#details-0-0">Claudia Fantapie Altobelli</a>.
 * *Other Collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
 * Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
 
@@ -53,7 +53,7 @@ PPPs are extremely powerful organizational arrangements that allow the sharing o
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
 
 * *Related publications*: 
-1. **Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (under review, 3-yr IF: 3.394). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">Preliminary version</a>].
-2. **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
-3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
-4. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper prepared for *Administrative Science Quarterly* (3-yr IF: 5.878). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+1. **Weißmüller, K.S.** (2019). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR</a>].
+2. **Weißmüller, K.S.** & Vogel, R. (2019) [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">TRUST IN PPPs</a>]
+3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019) RISK SHARING IN PUBLIC-PRIVATE PARTNERSHIPS.
+4. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING</a>].
