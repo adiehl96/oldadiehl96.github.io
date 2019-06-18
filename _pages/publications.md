@@ -22,13 +22,12 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h3>...(under review)... </h3>
 
 
-**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (under review, 3-yr IF: 3.394). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (under review, 3-yr IF: 3.394). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">Preliminary version</a>].
      
 **Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
      
 **Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
- 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
 **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
@@ -44,7 +43,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
-5. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
+5. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘RISK SHARING IN PUBLIC-PRIVATE PARTNERSHIPS – An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
 6. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
