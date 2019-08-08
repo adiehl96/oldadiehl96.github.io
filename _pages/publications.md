@@ -37,6 +37,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
+1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
+
 1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812). 
 
 2. Van de Walle, S. & **Weißmüller, K.S.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
@@ -63,6 +65,11 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
+
+
+Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *(accepted for presentation) European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
+
+**Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classical vs. Public value-oriented paradigms of leadershipwith senior executives across 18 European countries.’ *(accepted for presentation) European Group for Public Administration (EGPA) Annual Conference, PSG XX, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
 
 **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘Strategic Negotiation Behavior in Public-Private Partnerships.’ *VHB Pfingsttagung, WK ÖBWL, 13.-14.06.2019, Rostock, Germany*.
 
