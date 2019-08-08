@@ -32,6 +32,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
+**Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">Preliminary version</a>].
+
 
 <h2>Working Papers</h2>
 
@@ -43,15 +45,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 3.191). [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
-5. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘RISK SHARING IN PUBLIC-PRIVATE PARTNERSHIPS – An Experimental Study on Negotiation Behavior and the Publicness Bias.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
+5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
 
-6. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
+6. **Weißmüller, K.S.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper prepared for *International Journal of Public Sector Management* (3-yr IF: 0.889).
 
-7. **Weißmüller, K.S.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper prepared for *International Journal of Public Sector Management* (3-yr IF: 0.889).
+7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
 
-8. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
-
-9. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper prepared for *Administrative Science Quarterly* (3-yr IF: 5.878). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper prepared for *Administrative Science Quarterly* (3-yr IF: 5.878). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
 
 <h2>Other Publications</h2>
