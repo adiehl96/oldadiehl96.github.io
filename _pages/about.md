@@ -22,9 +22,9 @@ Kristina
 
 Research interests
 -------------------
-* Public sectro corruption & motivation 
-* Public-private partnerships, trust, & negotiation.
-* Strategic management and choice under risk and complexity.
+* Public sector corruption & motivation.
+* Public-private partnerships, trust, & public sector negotiation.
+* Strategic management, leadership, and choice under risk and complexity.
 * Law and economics of policy, higher education, and consumption.
 * Behavioral public administration; experimental and psycho-physiological research methods.
 
