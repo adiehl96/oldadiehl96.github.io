@@ -37,7 +37,7 @@ Please follow this link for more information on Kristina’s publications, resea
 Universität Bern<br/>
 KPM Center for Public Management<br/>
 Schanzeneckstrasse 1<br/>
-CH-3012 Bern, Switzerland<br/>
+CH-3001 Bern, Switzerland<br/>
 Tel. +41 (0)31 631 4768<br/>
 Kristina.weissmueller@kpm.unibe.ch  
 
