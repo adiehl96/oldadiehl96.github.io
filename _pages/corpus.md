@@ -47,7 +47,7 @@ Kristina.weissmueller@kpm.unibe.ch
 
 ### <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
 
-Research Assistant & Lecturer at University of Antwerp, Belgium.
+Research assistant & lecturer at University of Antwerp, Belgium.
 
 Universiteit Antwerpen<br/>
 Department of Management<br/>
