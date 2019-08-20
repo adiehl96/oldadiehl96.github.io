@@ -10,7 +10,7 @@ author_profile: true
 
 ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
 
-<br/><br/>
+<br/>
 
 Project Goals and Objectives
 =======
