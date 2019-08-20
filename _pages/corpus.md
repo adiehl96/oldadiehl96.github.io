@@ -5,8 +5,10 @@ permalink: /corpus/
 author_profile: true
 ---
 
-**A multi-country experimental study (Jan. 2018 – Dec. 2021)**
 
+**A multi-country experimental study researching corruption in the public sector worldwide**     
+
+![alt text](https://ksweissmueller.github.io/files/corpus-logo.png "CorPuS logo")
 
 <br/><br/>
 
