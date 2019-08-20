@@ -8,7 +8,8 @@ author_profile: true
 
 **A multi-country experimental study researching corruption in the public sector worldwide**     
 
-![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
+![alt text](https://ksweissmueller.github.io/files/corpus-logo_300.png "CorPuS logo")
+<br/>
 
 Project Goals and Objectives
 =======
@@ -19,7 +20,7 @@ The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insi
 
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
 
-<br/><br/>
+<br/>
 
 Consortium
 =======
@@ -30,7 +31,7 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
 
 
-
+<br/>
 
 Principal researchers & project managers
 --------
