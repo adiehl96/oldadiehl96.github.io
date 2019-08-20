@@ -12,7 +12,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 Corruption in the Public Sector (CorPuS)
 =======
 
-**A multi-country experimental study**      
+**A multi-country experimental study researching corruption in the public sector worldwide**      
 (Jan. 2018 – Dec. 2021)
 
 * *Principal researcher & project manager together with:*  	<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> & <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>.
