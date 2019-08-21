@@ -25,7 +25,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 Consortium
 =======
 
-The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and finding effective solutions to it for practice. The CorPuS was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries <a href="https://ksweissmueller.github.io/files/CorPuS_world.png" style="text-decoration:underline;" target="_blank" >worldwide</a>.
+The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries <a href="https://ksweissmueller.github.io/files/CorPuS_world.png" style="text-decoration:underline;" target="_blank" >worldwide</a>.
 
 
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
@@ -39,7 +39,7 @@ Principal researchers & project managers
 
 Kristina S. Weissmüller is a research associate and lecturer at the KPM Center for Public Management. Before joining KPM, she was a doctoral candidate at Prof. Dr. Rick Vogel’s chair for Public Management as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
 
-Currently, Kristinas main focus lies on conducting the multi-national CorPuS project to reveal the micro-foundations of public sector corruption and institutional deviance (CorPuS). 
+Currently, Kristinas main focus lies on conducting the multi-national CorPuS project to reveal the micro-foundations of public sector corruption and institutional deviance. 
 
 Please follow this link for more information on Kristina’s publications, research projects and CV: <a href="http://ksweissmueller.com/">http://ksweissmueller.com/</a>
 
