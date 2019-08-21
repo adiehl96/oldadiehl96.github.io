@@ -133,8 +133,7 @@ Partners
 
 ### Spain
 *Universitat Autònoma de Barcelona*
-- <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a> (Guillem.Ripoll@uab.cat)
-Guillem Ripoll (guillem.ripoll@uab.cat) is a Ph.D. researcher at the Autonomous University of Barcelona (Politics, Policies and International Relations). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He is actively involved in the CorPuS project since April 2018 because "the topic is interesting, the methodological approach novel, and the colleagues terrific."
+- <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a> (Guillem.Ripoll@uab.cat) is a Ph.D. researcher at the Autonomous University of Barcelona (Politics, Policies and International Relations). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He is actively involved in the CorPuS project since April 2018 because "the topic is interesting, the methodological approach novel, and the colleagues terrific."
 
 ### South Korea
 *Korea University*
