@@ -39,21 +39,21 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
-1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper prepared for *Leadership Quarterly* (3-yr IF: 4.812). 
+1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
 
-2. Van de Walle, S. & **Weißmüller, K.S.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper prepared for *Public Administration* (3-yr IF: 2.959).
+2. Van de Walle, S. & **Weißmüller, K.S.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper.
  
-3. Maasland, C. & **Weißmüller, K.S.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper prepared for *Organizational Behavior and Human Decision Processes* (3-yr IF: 3.098).
+3. Maasland, C. & **Weißmüller, K.S.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper prepared for *Journal of Business Ethics* (3-yr IF: 4.764). [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
+4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
-5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper prepared for *Public Administration Review* (3-yr IF: 3.473).
+5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
-6. **Weißmüller, K.S.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper prepared for *International Journal of Public Sector Management* (3-yr IF: 0.889).
+6. **Weißmüller, K.S.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper.
 
-7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper prepared for *Psychopharmacology (Berl.)* (3-yr IF: 3.454).
+7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper.
 
-8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper prepared for *Administrative Science Quarterly* (3-yr IF: 5.878). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
 
 <h2>Other Publications</h2>
@@ -65,7 +65,6 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
-
 
 Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *(accepted for presentation) European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
 
