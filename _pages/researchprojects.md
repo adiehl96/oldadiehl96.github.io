@@ -7,8 +7,8 @@ author_profile: true
 
 I believe that the purpose of scholarship is to generate usable knowledge to solve real-life problems. In the spirit of open science, please feel free to contact me if you are interested in any of our projects!
 
-
 <br/>
+
 Corruption in the Public Sector (CorPuS)
 =======
 
