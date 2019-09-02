@@ -37,7 +37,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
-1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
+1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
 1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
 
