@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am a scholar of public administration with a hot love for behavioral economics and strategic management, specialized in quantitative-experimental and qualitative mixed-methods research. Specifically, my research interest lies in issues of sustainable public management under risk (uncertainty & complexity), fallacies of dysfunctional collaboration across sectors, and the micro-foundations of organizational corruption. For instance, I research the psychological effects of public sector idiosyncrasies on individuals’ strategic choice – i.e. in situations of negotiation and accountability – to find out why, too often, public-private partnerships fail and what can be done about it.
+I am a scholar and lecturer of public administration with a hot love for behavioral economics and strategic management, specialized in quantitative-experimental and qualitative mixed-methods research. Specifically, my research interest lies in issues of sustainable public management under risk (uncertainty & complexity), fallacies of dysfunctional collaboration across sectors, and the micro-foundations of organizational corruption. For instance, I research the psychological effects of public sector idiosyncrasies on individuals’ strategic choice – i.e. in situations of negotiation and accountability – to find out why, too often, public-private partnerships fail and what can be done about it.
 
 Currently, I am conducting a multi-national study to reveal the micro-foundations of public sector corruption and institutional deviance (<a href="http://www.ksweissmueller.com/corpus/" title="http://www.ksweissmueller.com/corpus/" style="text-decoration:underline;" target="_blank" >CorPuS</a>).
 
