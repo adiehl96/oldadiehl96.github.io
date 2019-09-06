@@ -165,7 +165,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 <br/><br/>
 
-Work Packages *(work in progress)*
+Work Packages
 =======
 
 **1st Work package: Preparation & Team Consolidation**
