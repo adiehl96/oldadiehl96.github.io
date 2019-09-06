@@ -169,8 +169,6 @@ Work Packages *(work in progress)*
 =======
 
 **1. Preparation & Team Consolidation**
-
-
 1. Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental procedure. The data were raised from May 2017 to August 2017 and resulted in 4 sceintific studies.     
 2. Assemble an excellent team of awesome and highly-motivated international researchers worldwide. 
 3. Joint development of advanced survey questionnaire, study design, and experimental vignettes.
@@ -185,7 +183,6 @@ Work Packages *(work in progress)*
 1. Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
 2. Work description *(work in progress)*
 3. Work package 2 publications *(work in progress)*
-
     1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
 
 **3. Meso-level Studies**
