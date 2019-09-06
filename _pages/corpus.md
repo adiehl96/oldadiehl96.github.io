@@ -151,9 +151,9 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 ### Taiwan
 *National Taiwan University*
--	<a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a> (tsaitsu@ntu.edu.tw)
--	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a> (meijhung@ntu.edu.tw)
--	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a> (mingfeng.kuo@gmail.com)
+-	<a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a> (tsaitsu@ntu.edu.tw) is Professor at the Department of Political Science at the National Taiwan University.
+-	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a> (meijhung@ntu.edu.tw) is Assistant Professor at the Department of Political Science & Graduate Institute of Public Affairs at National Taiwan University.
+-	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO (郭銘峰)</a> (mingfeng.kuo@gmail.com) is a full-time Assistant Professor at the Department of Political Science and Public Affairs at National Taiwan University.
 
 ### United Kingdom (UK)
 *University of Southampton*
