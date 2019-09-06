@@ -13,7 +13,8 @@ author_profile: true
 
 
 
-# Table of contents
+Table of contents
+__________________
 1. [Project Goals and Objectives](#project_goal)
 2. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
