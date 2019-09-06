@@ -55,6 +55,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
+9. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
+
+10. Seidemann, I., & **Weißmüller, K.S.** (2019). ‘Causes and Consequences of Workforce homogeneity in the public sector.’ Working paper.
 
 <h2>Other Publications</h2>
 
