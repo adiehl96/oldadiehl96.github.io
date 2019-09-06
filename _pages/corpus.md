@@ -171,26 +171,31 @@ Work Packages *(work in progress)*
 **1. Preparation & Team Consolidation**
 ____________
 1. Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental procedure. Pilot study papers: 
-* De Waele, L. & **Weißmüller, K.S.** (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
-* **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">under review</a>.
-* **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">Working paper</a>.
-* De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ <a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Working paper</a>.
+> * De Waele, L. & **Weißmüller, K.S.** (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
+> * **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">under review</a>.
+> * **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">Working paper</a>.
+> * De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ <a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Working paper</a>.
+
 2. Assemble an excellent team of awesome and highly-motivated international researchers worldwide. 
 3. Joint development of advanced survey questionnaire, study design, and experimental vignettes.
 4. Implement the experiment in 16 countries and in 10 languages.	
 
 **2. Micro-level Studies**
+_____________
 * Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
 * Work description
 
 **3. Meso-level Studies**
+_____________
 * Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
 * Work description
 
 **4. Macro-level Studies**
+_____________
 * Exploring the effects of national cultures and administrative traditions on public sector corruption.
 * Work description
 
 **5. Documentation and Dissemination**
+_____________
 * In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
 * This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
