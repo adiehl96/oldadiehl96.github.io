@@ -180,10 +180,10 @@ Work Packages *(work in progress)*
 * Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
 * Work description
 
-**4. Macro-level Studies***
+**4. Macro-level Studies**
 * Exploring the effects of national cultures and administrative traditions on public sector corruption.
 * Work description
 
-**5. Documentation and Dissemination***
+**5. Documentation and Dissemination**
 * In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
 * This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
