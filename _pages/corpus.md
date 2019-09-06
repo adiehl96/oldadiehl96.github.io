@@ -186,16 +186,19 @@ Work Packages *(work in progress)*
 2. Work description *(work in progress)*
 3. Work package 2 publications *(work in progress)*
 
+    1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
 
 **3. Meso-level Studies**
 1. Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
 2. Work description *(work in progress)*
 3. Work package 3 publications *(work in progress)*
 
-**4. Macro-level Studies**
+**4. Macro-level & Meta-Studies**
 1. Exploring the effects of national cultures and administrative traditions on public sector corruption.
 2. Work description *(work in progress)*
 3. Work package 4 publications *(work in progress)*
+    1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper. 
+
 
 **5. Documentation and Dissemination**
 1. In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
