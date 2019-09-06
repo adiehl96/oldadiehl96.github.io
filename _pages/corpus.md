@@ -165,17 +165,25 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 <br/><br/>
 
-Work Packages *(coming soon)*
+Work Packages *(work in progress)*
 =======
 
-**1. Work Package**
-* Objectives
+**1. Preparation & Team Consolidation**
+* Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental design. 
+* Assemble an awesome team of international researchers worldwide to replicate experiment in 16 countries.  
+
+**2. Micro-level Studies**
+* Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
 * Work description
 
-**2. Work Package**
-* Objectives
+**3. Meso-level Studies**
+* Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
 * Work description
 
-**3. Work Package**
-* Objectives
+**4. Macro-level Studies***
+* Exploring the effects of national cultures and administrative traditions on public sector corruption.
 * Work description
+
+**5. Documentation and Dissemination***
+* In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
+* This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
