@@ -10,8 +10,6 @@ author_profile: true
 --------
  ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
 
-<br/>
-
 Table of contents
 --------
 1. [Project Goals and Objectives](#project_goal)
@@ -179,11 +177,11 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 Work Packages <a name="work_packages"></a>
 =======
 
-**I Work package: Preparation & Team Consolidation**
+**I: Work package: Preparation & Team Consolidation**
 1. Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental procedure. The data were raised from May 2017 to August 2017 and resulted in 4 sceintific studies.     
 2. Assemble an excellent team of awesome and highly-motivated international researchers worldwide. 
 3. Joint development of advanced survey questionnaire, study design, and experimental vignettes.
-4. Implement the experiment in 16 countries and in 10 languages.	Raising data from March and September 2019
+4. Implement the experiment in 16 countries and in 10 languages.	Data collection from March to September 2019
 5. Work package I (pilot study) publications: 
     1. De Waele, L. & Weißmüller, K.S. (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
     2. Weißmüller, K.S. & De Waele, L. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’</a>.
