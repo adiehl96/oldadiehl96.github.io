@@ -15,12 +15,12 @@ author_profile: true
 
 # Table of contents
 1. [Project Goals and Objectives](#project_goal)
-2. [Some paragraph](#consortium)
-    1. [Sub paragraph](#PRs)
-    2. [Sub paragraph](#partners)
-3. [Another paragraph](#workpackages)
+2. [Consortium](#consortium)
+    1. [Principal researchers & project managers](#principal_researchers)
+    2. [Partners](#partners)
+3. [Work Packages](#work_packages)
 
-
+<br/>
 
 Project Goals and Objectives <a name="project_goal"></a>
 =======
@@ -44,7 +44,7 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 
 <br/>
 
-Principal researchers & project managers <a name="PRs"></a>
+Principal researchers & project managers <a name="principal_researchers"></a>
 --------
 ### <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
@@ -176,7 +176,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 <br/><br/>
 
-Work Packages <a name="workpackages"></a>
+Work Packages <a name="work_packages"></a>
 =======
 
 **1st Work package: Preparation & Team Consolidation**
