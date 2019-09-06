@@ -168,7 +168,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 Work Packages *(work in progress)*
 =======
 
-**1. Preparation & Team Consolidation**
+**1st Work package: Preparation & Team Consolidation**
 1. Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental procedure. The data were raised from May 2017 to August 2017 and resulted in 4 sceintific studies.     
 2. Assemble an excellent team of awesome and highly-motivated international researchers worldwide. 
 3. Joint development of advanced survey questionnaire, study design, and experimental vignettes.
@@ -179,25 +179,24 @@ Work Packages *(work in progress)*
     3. Weißmüller, K.S., De Waele, L., van Witteloostuijn, A. (2018). <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’</a>.
     4. De Waele, L., Weißmüller, K.S., van Witteloostuijn, A., & Vanderstraeten, J. (2018). <a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">'Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.'</a>
 
-**2. Micro-level Studies**
+**2nd Work package: Micro-level Studies**
 1. Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
 2. Work description *(work in progress)*
 3. Work package 2 publications *(work in progress)*
     1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
 
-**3. Meso-level Studies**
+**3rd Work package: Meso-level Studies**
 1. Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
 2. Work description *(work in progress)*
 3. Work package 3 publications *(work in progress)*
 
-**4. Macro-level & Meta-Studies**
+**4th Work package: Macro-level & Meta-Studies**
 1. Exploring the effects of national cultures and administrative traditions on public sector corruption.
-2. Work description *(work in progress)*
+2. Work package description *(work in progress)*
 3. Work package 4 publications *(work in progress)*
     1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper. 
 
-
-**5. Documentation and Dissemination**
+**5th Work package: Documentation and Dissemination**
 1. In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
 2. This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
 3. Work package 5 publications *(work in progress)*
