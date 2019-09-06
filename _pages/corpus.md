@@ -111,18 +111,19 @@ Partners
 
 
 *The Education University of Hong Kong*
--	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk)
+-	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk) is "Assistant Professor in the Department of Asian and Policy Studies (APS) of the Faculty of Liberal Arts and Social Sciences (FLASS) at The Education University of Hong Kong (EdUHK). Previously, he was a Visiting Fellow and Postdoctoral Fellow at City University of Hong Kong. Dr. Xiao’s current research interests include corruption and anti-corruption reform, public budgeting and the management of financial resources. He uses both qualitative and quantitative methods in conducting research. His recent publications appear in Governance, Social Indicators Research, Policy & Society, Public Administration and Development, Public Money & Management, and some Chinese journals. He obtained his PhD degree from City University of Hong Kong, and MA and BA degrees from Sun Yat-sen University in Guangzhou, China."
 
 ### Italy
 *Università Tor Vergata, Rome*
-- <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a> (fabio.monteduro@uniroma2.it)<a/>
+- <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a> (fabio.monteduro@uniroma2.it)<a/> is Associate Professor at Faculty of Economics at Università Tor Vergata.
 
 *LUISS University*
-- <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it)
+- <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) "is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance.
+He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office."
 
 ### The Netherlands
 *Vrije Universiteit Amsterdam*
-- <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a> (a.van.witteloostuijn@vu.nl)
+- <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a> (a.van.witteloostuijn@vu.nl) "is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastrich University, the University of Durham, the Utrecht University, Cardiff Business School. As of 2015, he is a member of the Royal Netherlands Academy of Sciences (KNAW). He is a multitalented and highly productive researcher who is also active in political debate. The question that runs through all his work is why some institutions (in the broad sense of the word) are successful while others are not. Van Witteloostuijn’s interdisciplinary approach is unique; he combines insights from general economics, business economics, business science, and the social sciences in innovative studies that examine the behaviour and structure of organisations."
 
 ### Norway
 *University of Oslo*
@@ -138,7 +139,7 @@ Partners
 
 ### South Korea
 *Korea University*
-- <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr) <a/>
+- <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr) <a/> is Assistant Professor at the Department of Public Administration at Korea University.
 
 *Seoul National University of Science & Technology*
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
