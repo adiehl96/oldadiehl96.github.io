@@ -11,7 +11,18 @@ author_profile: true
  ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
 <br/>
 
-Project Goals and Objectives
+
+
+# Table of contents
+1. [Project Goals and Objectives](#project_goal)
+2. [Some paragraph](#consortium)
+    1. [Sub paragraph](#PRs)
+    2. [Sub paragraph](#partners)
+3. [Another paragraph](#workpackages)
+
+
+
+Project Goals and Objectives <a name="project_goal"></a>
 =======
 
 Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously together seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
@@ -22,7 +33,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 
 <br/>
 
-Consortium
+Consortium <a name="consortium"></a>
 =======
 
 The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries <a href="https://ksweissmueller.github.io/files/CorPuS_world.png" style="text-decoration:underline;" target="_blank" >worldwide</a>.
@@ -33,7 +44,7 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 
 <br/>
 
-Principal researchers & project managers
+Principal researchers & project managers <a name="PRs"></a>
 --------
 ### <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
@@ -75,7 +86,7 @@ a.van.witteloostuijn@vu.nl
 
 <br/><br/>
 
-Partners
+Partners <a name="partners"></a>
 --------
 
 ### Australia & New Zealand 
@@ -165,7 +176,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 <br/><br/>
 
-Work Packages
+Work Packages <a name="workpackages"></a>
 =======
 
 **1st Work package: Preparation & Team Consolidation**
