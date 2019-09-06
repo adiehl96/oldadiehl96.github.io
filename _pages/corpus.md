@@ -169,8 +169,14 @@ Work Packages *(work in progress)*
 =======
 
 **1. Preparation & Team Consolidation**
-* Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental design. 
-* Assemble an excellent team of awesome international researchers worldwide to replicate experiment in 16 countries.  
+* Conducting Pilot Studies in Germany, Belgium, and the Netherlands to validate methods, vignettes, and experimental procedure. Pilot studies: 
+- 
+- 
+- 
+
+* Assemble an excellent team of awesome and highly-motivated international researchers worldwide. 
+* Joint development of advanced survey questionnaire, study design, and experimental vignettes.
+* Replicate the experiment in 16 countries and in 10 languages.	
 
 **2. Micro-level Studies**
 * Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
