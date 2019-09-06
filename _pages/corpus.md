@@ -10,15 +10,12 @@ author_profile: true
 --------
  ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
 
-Table of contents
---------
 1. [Project Goals and Objectives](#project_goal)
 2. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
     2. [Partners](#partners)
 3. [Work Packages](#work_packages)
 
-<br/>
 
 Project Goals and Objectives <a name="project_goal"></a>
 =======
