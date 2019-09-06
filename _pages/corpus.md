@@ -176,10 +176,10 @@ Work Packages *(work in progress)*
 3. Joint development of advanced survey questionnaire, study design, and experimental vignettes.
 4. Implement the experiment in 16 countries and in 10 languages.	
 5. Work package 1 (pilot study) publications: 
-    1. De Waele, L. & **Weißmüller, K.S.** (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
-    2. **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">under review</a>.
-    3. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">Working paper</a>.
-    4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. (2018). <a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">'Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.'</a>
+    1. De Waele, L. & Weißmüller, K.S. (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
+    2. Weißmüller, K.S. & De Waele, L. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’</a>.
+    3. Weißmüller, K.S., De Waele, L., van Witteloostuijn, A. (2018). <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’</a>.
+    4. De Waele, L., Weißmüller, K.S., van Witteloostuijn, A., & Vanderstraeten, J. (2018). <a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">'Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.'</a>
 
 **2. Micro-level Studies**
 1. Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
