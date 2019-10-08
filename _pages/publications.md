@@ -30,7 +30,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
-**Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
 **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">Preliminary version</a>].
 
@@ -67,11 +67,11 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h2>Conference Papers & Presentations</h2>
 
 
-Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *(accepted for presentation) ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
+Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
-Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *(accepted for presentation) European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
+Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
 
-**Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classical vs. Public value-oriented paradigms of leadershipwith senior executives across 18 European countries.’ *(accepted for presentation) European Group for Public Administration (EGPA) Annual Conference, PSG XX, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
+**Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classical vs. Public value-oriented paradigms of leadershipwith senior executives across 18 European countries.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XX, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
 
 **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘Strategic Negotiation Behavior in Public-Private Partnerships.’ *VHB Pfingsttagung, WK ÖBWL, 13.-14.06.2019, Rostock, Germany*.
 
