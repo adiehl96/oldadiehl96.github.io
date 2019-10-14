@@ -69,7 +69,7 @@ lode.dewaele@uantwerpen.be
 
 ### <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>
 
-"Prof. Dr. Arjen van Witteloostuijn is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastrich University, the University of Durham, the Utrecht University, Cardiff Business School.
+"Prof. Dr. Arjen van Witteloostuijn is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastricht University, the University of Durham, the Utrecht University, Cardiff Business School.
 As of 2015, he is a member of the Royal Netherlands Academy of Sciences (Koninklijke Nederlandse Academie van Wetenschappen, or KNAW). As of 2016, Head of the Economics Section of the KNAW. As of 2017, Chair of the Department of Business, Economics, Law & Social Sciences of the KNAW." (Source: <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">https://research.vu.nl/en/persons/a-van-witteloostuijn</a>)
 
 Vrije Universiteit Amsterdam<br/>
