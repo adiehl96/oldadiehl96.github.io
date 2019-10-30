@@ -24,7 +24,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.394). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">Preliminary version</a>].
      
-**Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Research & Development* (revise & resubmit; 3-yr IF: 1.619). [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
+**Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435). [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
      
 **Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
@@ -32,32 +32,31 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
-**Weißmüller, K.S.**, Bouwman, R., & Vogel, R. ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">Preliminary version</a>].
+8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
 
 <h2>Working Papers</h2>
 
-1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
+1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">Preliminary version</a>].
+
+1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
 1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
 
-2. Van de Walle, S. & **Weißmüller, K.S.** (2018) ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper.
+2. Van de Walle, S. & **Weißmüller, K.S.** (2018). ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper.
  
-3. Maasland, C. & **Weißmüller, K.S.**, ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
+3. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
 4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
-5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. ‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
+5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
-6. **Weißmüller, K.S.** ‘Activation of Negativity toward the Public Sector: The Role of Prior Work Experience.’ Working paper.
-
-7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper.
-
-8. **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. (2017). ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper.
 
 9. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
 
 10. Seidemann, I., & **Weißmüller, K.S.** (2019). ‘Causes and Consequences of Workforce homogeneity in the public sector.’ Working paper.
+
 
 <h2>Other Publications</h2>
 
@@ -65,7 +64,6 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 <h2>Conference Papers & Presentations</h2>
-
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
