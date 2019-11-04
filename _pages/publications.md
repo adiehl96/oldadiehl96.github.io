@@ -24,15 +24,15 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.394). [<a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">Preliminary version</a>].
      
-**Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435). [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
+**Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
      
-**Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882). [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
-**Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409). [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
+**Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
-**Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
-**Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327). [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
+**Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">Preliminary version</a>].
 
 
 <h2>Working Papers</h2>
@@ -47,7 +47,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
  
 3. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-4. De Waele, L., **Weißmüller, K.S.**, van Witteloostuijn, A., & Vanderstraeten, J. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
+4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
 
 5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
