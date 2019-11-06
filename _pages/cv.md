@@ -18,6 +18,24 @@ Please find a copy of my extensive adacemic CV <a href="https://ksweissmueller.g
 </object>
 -->
 
+Academic Appointments
+======
+* *University of Bern, KPM Center for Public Management, Switzerland*
+Research Associate & Executive Lecturer Feb. 2019 – Jan. 2022
+
+* *Helmut Schmidt University, Faculty of Economics and Social Sciences, Germany∙*
+Research Assistant (Chair of Corporate Governance & Corporate Theories) May 2018 – Jan. 2019 
+Research Assistant (Chair of Marketing) July 2018 – Jan. 2019
+
+* *University of Hamburg, Faculty of Business, Economics and Social Sciences, Germany* 
+External Lecturer (Department of Socioeconomics) Oct. 2018 – Mar. 2019 ∙ 
+Research Assistant (Chair of Public Management) May 2015 – Apr. 2018∙ 
+Student Assistant (Institute of Law & Economics) July 2014 – Feb. 2015∙ 
+Student Assistant (Chair of Marketing & Innovation) Oct. 2012 – Mar. 2013
+
+* University of Antwerp, Faculty of Applied Economics, Belgium∙ 
+Visiting Researcher (Department of Management) Oct. 2017 & Jan. 2018 
+
 
 Education
 ======
@@ -41,7 +59,7 @@ Memberships
 * *European Academy of Management* (EURAM; in SIG11 ‘*Public and Non-Profit Management*’)
 * *International Institute of Administrative Sciences* (IASIA)
 * *International Political Science Association* (IPSA; officer of RC 29 ‘<a href="https://www.ipsa.org/research-committees/rclist/RC29">Political Psychology</a>’)
-* *International Research Society for Public Management* (IRSPM; panel co-chair of P2 ‘ 	<a href="http://irspm2019.com/files/docs/irspm18/gregg%20g.%20van%20ryzin.pdf">Behavioral and experimental public administration</a>’)
+* *International Research Society for Public Management* (IRSPM; panel co-chair of P3 ‘ 	<a href="http://irspm2019.com/files/docs/irspm18/gregg%20g.%20van%20ryzin.pdf">Behavioral and experimental public administration</a>’)
 * *Public Management Research Association* (PMRA).
   
   
