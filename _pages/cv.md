@@ -21,20 +21,20 @@ Please find a copy of my extensive adacemic CV <a href="https://ksweissmueller.g
 Academic Appointments
 ======
 * *University of Bern, KPM Center for Public Management, Switzerland*
-Research Associate & Executive Lecturer Feb. 2019 – Jan. 2022
+∙ Research Associate & Executive Lecturer Feb. 2019 – Jan. 2022
 
-* *Helmut Schmidt University, Faculty of Economics and Social Sciences, Germany∙*
-Research Assistant (Chair of Corporate Governance & Corporate Theories) May 2018 – Jan. 2019 
-Research Assistant (Chair of Marketing) July 2018 – Jan. 2019
+* *Helmut Schmidt University, Faculty of Economics and Social Sciences, Germany*
+∙ Research Assistant (Chair of Corporate Governance & Corporate Theories) May 2018 – Jan. 2019 
+∙ Research Assistant (Chair of Marketing) July 2018 – Jan. 2019
 
 * *University of Hamburg, Faculty of Business, Economics and Social Sciences, Germany* 
-External Lecturer (Department of Socioeconomics) Oct. 2018 – Mar. 2019 ∙ 
-Research Assistant (Chair of Public Management) May 2015 – Apr. 2018∙ 
-Student Assistant (Institute of Law & Economics) July 2014 – Feb. 2015∙ 
-Student Assistant (Chair of Marketing & Innovation) Oct. 2012 – Mar. 2013
+∙ External Lecturer (Department of Socioeconomics) Oct. 2018 – Mar. 2019  
+∙ Research Assistant (Chair of Public Management) May 2015 – Apr. 2018
+∙ Student Assistant (Institute of Law & Economics) July 2014 – Feb. 2015
+∙ Student Assistant (Chair of Marketing & Innovation) Oct. 2012 – Mar. 2013
 
-* University of Antwerp, Faculty of Applied Economics, Belgium∙ 
-Visiting Researcher (Department of Management) Oct. 2017 & Jan. 2018 
+* *University of Antwerp, Faculty of Applied Economics, Belgium*
+∙ Visiting Researcher (Department of Management) Oct. 2017 & Jan. 2018 
 
 
 Education
