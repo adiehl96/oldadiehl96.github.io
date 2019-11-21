@@ -42,12 +42,10 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
 1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
-
-2. Van de Walle, S. & **Weißmüller, K.S.** (2018). ‘Motivating civil servants – intrinsic or extrinsic mechanisms?’ Working paper.
  
 3. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper, [<a href="https://ksweissmueller.github.io/files/2019_Bribery_PA_Complete_unblinded.pdf">Preliminary version</a>].
+4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper.
 
 5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
