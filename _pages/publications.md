@@ -37,7 +37,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
-1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">Preliminary version</a>].
+1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper.
 
 1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
