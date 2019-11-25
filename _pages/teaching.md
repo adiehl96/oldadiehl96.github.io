@@ -10,9 +10,8 @@ author_profile: true
 M.A.-level
 -------------
 
-* ‘**Leadership & motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-* ‘**Methods & rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-
+* ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
+* ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Current topics in public management research: Behavioral Public Administration**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
