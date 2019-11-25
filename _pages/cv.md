@@ -40,7 +40,7 @@ Memberships
 * *European Academy of Management* (EURAM; in SIG11 ‘*Public and Non-Profit Management*’)
 * *International Institute of Administrative Sciences* (IASIA)
 * *International Political Science Association* (IPSA; officer of RC 29 ‘<a href="https://www.ipsa.org/research-committees/rclist/RC29">Political Psychology</a>’)
-* *International Research Society for Public Management* (IRSPM; panel co-chair of P3 ‘Behavioral and experimental public administration’)
+* *International Research Society for Public Management* (IRSPM; panel co-chair of P3 ‘<a href="https://events.tuni.fi/irspm2020/panels/p3/https://events.tuni.fi/irspm2020/panels/p3/">Behavioral and experimental public administration</a>’)
 * *Public Management Research Association* (PMRA).
   
   
