@@ -191,8 +191,8 @@ Work Packages <a name="work_packages"></a>
     1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
 
 **III: Meso-level Studies**
-1. Exploring the role of sectoral context: Does public-private-hybrid matter for the likelihood of public sector corruption?
-2. Work description *(work in progress)*
+1. Exploring the role of sectoral context: Does public-private-hybrid context matter for the likelihood of public sector corruption?
+2. Work package description *(work in progress)*
 3. Work package III publications *(work in progress)*
 
 **IV: Macro-level & Meta-Studies**
