@@ -189,21 +189,22 @@ Work Packages <a name="work_packages"></a>
 **II: Micro-level Studies**
 1. Exploring the influence of individual motives, attitudes, and idiosyncratic biases. 
 2. Work description *(work in progress)*
-3. Work package II publications *(work in progress)*
+3. Work package II publications: *(work in progress)*
     1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
 
 **III: Meso-level Studies**
 1. Exploring the role of sectoral context: Does public-private-hybrid context matter for the likelihood of public sector corruption?
 2. Work package description *(work in progress)*
-3. Work package III publications *(work in progress)*
+3. Work package III publications: *(work in progress)*
 
 **IV: Macro-level & Meta-Studies**
 1. Exploring the effects of national cultures and administrative traditions on public sector corruption.
 2. Work package description *(work in progress)*
-3. Work package IV publications *(work in progress)*
+3. Work package IV publications: *(work in progress)*
     1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper. 
 
 **V: Documentation and Dissemination**
 1. In addition to the scientific journal-based publications, we will publish a full project report in a book format accessible to practitioners to facilitate the transfer and diffusion of our results into practice. In this way, we hope that the *CorPuS* project will help PA and PM professionals implement meaningful anti-corruption policies and strategies.
 2. This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
-3. Work package V publications *(work in progress)*
+3. Work package V publications: *(work in progress)*
+   1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
