@@ -38,6 +38,10 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Working Papers</h2>
 
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
+
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
+
 1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper.
 
 1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
@@ -65,6 +69,10 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 <h2>Conference Papers & Presentations</h2>
+
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2019) ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
+
+Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
