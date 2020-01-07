@@ -26,11 +26,11 @@ An overview of my publications can also be found on <a href="https://scholar.goo
      
 **Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Manuscript_Nudging_(unblinded).pdf">Preliminary version</a>].
      
-**Weißmüller, K.S.** (2017) ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_HE_Leadership_SR.pdf">Preliminary version</a>].
 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
-**Weißmüller, K.S.** & De Waele, L. (2019) ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
 **Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (revise & resubmit, 3-yr IF: 3.327), XX(X), XX-XX.
 
@@ -39,19 +39,19 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 <h2>Working Papers</h2>
 
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. (2020). ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
 
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. (2020). ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
 
 1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper.
 
 1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
 
-1. **Weißmüller, K.S.** & Ritz, A. (2019) ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
+1. **Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
  
 3. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper.
+4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (2018). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper.
 
 5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
@@ -71,7 +71,7 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 <h2>Conference Papers & Presentations</h2>
 
-**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2019) ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2019). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
 
 Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
 
