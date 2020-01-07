@@ -59,8 +59,6 @@ Kristina.weissmueller@kpm.unibe.ch
 
 ### <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
 
-Research assistant & lecturer at University of Antwerp, Belgium.
-
 Lode De Waele has obtained his PhD at the faculty of Business and Economics of the University of Antwerp (Belgium). He started his PhD in 2013, after being employed in the public sector for several years as an accountant, cabinet member, and senior consultant. His main research interests focus on hybridity, performance management, public service motivation, dark triad personalities and corruption. He teaches courses such as Strategic Management and European and International Environments, in which he addresses the functioning of NGO’s and the European Union. In addition, he gives guest lectures about Sino-European trade relations to both European and Chinese students. Furthermore, he supervises postgraduate students in the Master of Public Management program at the Antwerp Management School and has a post-doc position at the Vrije Universiteit Amsterdam.
 
 Universiteit Antwerpen<br/>
