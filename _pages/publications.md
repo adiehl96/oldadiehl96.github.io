@@ -59,7 +59,6 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 9. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
 
-10. Seidemann, I., & **Weißmüller, K.S.** (2019). ‘Causes and Consequences of Workforce homogeneity in the public sector.’ Working paper.
 
 
 <h2>Other Publications</h2>
