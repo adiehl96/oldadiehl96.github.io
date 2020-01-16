@@ -66,13 +66,13 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 <h2>Conference Papers & Presentations</h2>
 
-**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2019). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2020). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
 
 Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
-Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
+Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Northern Ireland*.
 
 **Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classical vs. Public value-oriented paradigms of leadershipwith senior executives across 18 European countries.’ *European Group for Public Administration (EGPA) Annual Conference, PSG XX, 11.09.-13.09.2018, Belfast, Republic of Ireland*.
 
