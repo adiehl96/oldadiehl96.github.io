@@ -49,15 +49,13 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 1. **Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
  
-3. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
+1. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-4. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (2018). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper.
+1. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (2018). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ Working paper.
 
-5. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
+1. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
-7. **Weißmüller, K.S.**, Fiedler, I., Rumpf, H.-J., Bischof, A., John, U., & Meyer, C. (2017). ‘Delay and Probability Discounting in Pathological Gamblers with and without a History of Mental Disorder.’ Working paper.
-
-9. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
+1. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
 
 
 
