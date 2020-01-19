@@ -32,16 +32,16 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
 
-**Weißmüller, K.S.**, De Waele, L., van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (revise & resubmit, 3-yr IF: 3.327), XX(X), XX-XX.
+**Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (revise & resubmit, 3-yr IF: 3.327), XX(X), XX-XX.
 
 Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Workforce Homogeneity in the Public Sector - A Systematic Review and Call for Research.’ *Perspectives on Public Management and Governance* (under review), XX(X), XX-XX.
 
 
 <h2>Working Papers</h2>
 
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. (2020). ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., & De Waele, L. & et al. (2020). ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
 
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & et al. (2020). ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., & De Waele, L. & et al. (2020). ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
 
 1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper.
 
@@ -68,7 +68,7 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 
 **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2020). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
 
-Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
+Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2020). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
