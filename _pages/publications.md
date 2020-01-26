@@ -30,7 +30,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">Preliminary version</a>]
 
-**Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (major revision, 3-yr IF: 2.207), XX(X), XX-XX. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">Preliminary version</a>].
+**Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review after major revision, 3-yr IF: 2.207), XX(X), XX-XX.
 
 **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (revise & resubmit, 3-yr IF: 3.327), XX(X), XX-XX.
 
