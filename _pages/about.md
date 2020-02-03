@@ -32,7 +32,7 @@ Research interests
 
 Contact
 --------
-Kristina S. Weißmüller <br>
+Dr. Kristina S. Weißmüller <br>
 Universität Bern <br>
 KPM Center for Public Management <br>
 Schanzeneckstrasse 1 <br>
