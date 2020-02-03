@@ -20,7 +20,7 @@ Please find a copy of my extensive adacemic CV <a href="https://ksweissmueller.g
 
 Education
 ======
-* 2019 Dr. rer. pol (Ph.D.) Public Management *(pending)*, Universität Hamburg
+* 2020 Dr. rer. pol (Ph.D.) Public Management, Universität Hamburg
 * 2019 M.A. Higher Education with distinction, Universität Hamburg
 * 2014 M.Sc. Business Administration, Universität Hamburg & Zhejiang University (浙江大学)
 * 2011 B.Sc. Industrial Engineering & Management, University of Applied Sciences Wedel & Edinburgh Napier University 
