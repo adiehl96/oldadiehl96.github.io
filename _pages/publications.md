@@ -62,6 +62,7 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
 <h2>Other Publications</h2>
 
 **Weißmüller, K.S.** (2019) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Master's thesis in Higher Education (M.A., *with distinction*) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]
+
 **Weißmüller, K.S.** (2019). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ Doctoral thesis at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange. 
 
 
