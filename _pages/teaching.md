@@ -10,7 +10,7 @@ author_profile: true
 M.A.-level
 -------------
 
-* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
+* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.iofiles/Comparative PA_Curriculum.pdf)); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
