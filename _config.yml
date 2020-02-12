@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
-name                     : &name "Kristina S. Wei&szligm&uumlller"
+name                     : &name "Dr. Kristina S. Wei&szligm&uumlller"
 description              : &description "Personal website"
 url                      : https://ksweissmueller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
