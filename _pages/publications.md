@@ -22,7 +22,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h3>...(under review)... </h3>
 
 
-**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.394).
+**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Administration Review* (revise & resubmit, 3-yr IF: 3.473).
      
 **Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435), XX(X), XX-XX.
      
