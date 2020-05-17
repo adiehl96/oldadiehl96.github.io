@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please find a copy of my extensive adacemic CV <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">here</a>.
+Please find my full adacemic CV <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">here</a>.
 
 
 <!--
