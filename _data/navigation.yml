@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
        
-   - title: "Research Projects"
+  - title: "Research Projects"
     url: /researchprojects/  
 
   - title: "CorPuS Project"
     url: /corpus/   
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
