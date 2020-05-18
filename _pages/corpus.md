@@ -233,7 +233,7 @@ Partners<a name="partners"></a>
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
 
 </details>
-<br></br>
+<br>
 
 
 
