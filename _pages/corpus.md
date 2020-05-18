@@ -101,6 +101,7 @@ Partners<a name="partners"></a>
 *ANZSOG (Australia and New Zealand School of Government)*
 
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) is the Associate Professor in the School of Social and Political Sciences, Faculty of Arts, University of Melbourne and ANZSOG Deputy Dean (Teaching and Learning). She has a passion for creatively serving the public interest as a practitioner-academic. Her academic training is in economics and politics and public policy. Before coming to ANZSOG, she spent nine years teaching and researching in Canada, culminating in her position as Director of the School of Public Administration at the University of Victoria, British Columbia. Prior to that, she was a post-doctoral fellow at the Australian National University, and she held a number of policy posts with the Queensland Treasury department and Queensland Office of the Cabinet.
+
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au) is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
 </details>
 
