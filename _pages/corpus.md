@@ -11,11 +11,12 @@ author_profile: true
  ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
 
 1. [Project Goals and Objectives](#project_goal)
-2. [Consortium](#consortium)
+2. [Publications](#publications)
+3. [Data](#data)
+4. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
     2. [Other Collaborators](#collaborators)
-3. [Publications](#publications)
-4. [Data](#data)
+
 <br/>
 
 Project Goals and Objectives <a name="project_goal"></a>
@@ -27,6 +28,39 @@ The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insi
 
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
 <br/>
+
+
+Publications <a name="publications"></a>
+=======
+
+**Pilot Studies**
+
+1. De Waele, L. & Weißmüller, K.S. (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
+2. Weißmüller, K.S. & De Waele, L. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’</a>.
+3. Weißmüller, K.S., De Waele, L., van Witteloostuijn, A. (2018). <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’</a>.
+4. De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). 'BRIBERY TOLERANCE: THE ROLE OF IMPLICIT AND EXPLICIT SOCIAL MOTIVATIONS A multi-site experimental study in Belgium, Germany, and the Netherlands.'
+
+**II: Micro-level Studies**
+
+1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
+
+**III: Macro-level & Meta-Studies**
+
+1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper. 
+2. Matić, M. & Weißmüller, K.S. (2019). ‘Pro-social Rule Breaking in Street-level Bureaucrats: Antecentes and Motives.’ Working paper.
+
+**IV: Documentation and Dissemination**
+
+1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
+<br/>
+
+Data <a name="data"></a>
+=======
+1. Data Governance 
+2. Repository *Coming soon.*
+
+<br/>
+
 
 Consortium <a name="consortium"></a>
 =======
@@ -92,9 +126,6 @@ a.van.witteloostuijn@vu.nl
 Collaborators<a name="collaborators"></a>
 --------
 <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a>, <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a>, <a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a>, <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a>, <a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a>, <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a>, <a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a>, <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a>, <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a>, <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a>, <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
-
-
-<details><summary>Click here for more information on collaborators & institutions involved.</summary><br> 
 
 ## Australia & New Zealand
 
@@ -231,39 +262,3 @@ Collaborators<a name="collaborators"></a>
 *Brigham Young University*
 
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
-
-</details>
-<br>
-
-
-
-Publications <a name="publications"></a>
-=======
-
-**Pilot Studies**
-
-1. De Waele, L. & Weißmüller, K.S. (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
-2. Weißmüller, K.S. & De Waele, L. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’</a>.
-3. Weißmüller, K.S., De Waele, L., van Witteloostuijn, A. (2018). <a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’</a>.
-4. De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). 'BRIBERY TOLERANCE: THE ROLE OF IMPLICIT AND EXPLICIT SOCIAL MOTIVATIONS A multi-site experimental study in Belgium, Germany, and the Netherlands.'
-
-**II: Micro-level Studies**
-
-1. Weißmüller, K.S., Ritz, A., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
-
-**III: Macro-level & Meta-Studies**
-
-1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper. 
-2. Matić, M. & Weißmüller, K.S. (2019). ‘Pro-social Rule Breaking in Street-level Bureaucrats: Antecentes and Motives.’ Working paper.
-
-**IV: Documentation and Dissemination**
-
-1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
-<br/>
-
-Data <a name="data"></a>
-=======
-1. Data Governance 
-2. Repository *Coming soon.*
-
-<br/>
