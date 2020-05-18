@@ -145,7 +145,6 @@ Partners<a name="partners"></a>
 *The Education University of Hong Kong*
 
 -	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk) is Assistant Professor in the Department of Asian and Policy Studies (APS) of the Faculty of Liberal Arts and Social Sciences (FLASS) at The Education University of Hong Kong (EdUHK). Previously, he was a Visiting Fellow and Postdoctoral Fellow at City University of Hong Kong. Dr. Xiao’s current research interests include corruption and anti-corruption reform, public budgeting and the management of financial resources. He uses both qualitative and quantitative methods in conducting research. His recent publications appear in Governance, Social Indicators Research, Policy & Society, Public Administration and Development, Public Money & Management, and some Chinese journals. He obtained his PhD degree from City University of Hong Kong, and MA and BA degrees from Sun Yat-sen University in Guangzhou, China.
-</details>
 
 
 ## Italy
