@@ -35,7 +35,7 @@ B.A.-level
 
 
 Teaching philosophy
-========================== 
+-------------
 
 
 *“Teaching without learning is futile”*
