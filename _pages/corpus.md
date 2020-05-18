@@ -43,8 +43,10 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
-### <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>
 
+<details open>
+<summary>### <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a></summary>
+<br>
 Kristina S. Weissmüller is a postdoc researcher and lecturer at the KPM Center for Public Management, University of Bern, Switzerland. Before joining KPM, she obtained her PhD (Dr. rer. pol.) at Prof. Dr. Rick Vogel’s chair for Public Management, University of Hamburg. She was a research associate at Helmut-Schmidt-Universität Hamburg, as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
 
 Currently, Kristina's main focus lies on conducting the CorPuS project.
@@ -55,7 +57,7 @@ Schanzeneckstrasse 1<br/>
 CH-3001 Bern, Switzerland<br/>
 Tel. +41 (0)31 631 4768<br/>
 Kristina.weissmueller@kpm.unibe.ch  
-
+</details>
 
 ### <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
 
