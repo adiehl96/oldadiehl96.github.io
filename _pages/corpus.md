@@ -98,7 +98,6 @@ Partners<a name="partners"></a>
 
 ## Australia & New Zealand
 
-
 *University of Western Australia*
 
 - <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a> (jeannette.taylor@uwa.edu.au) is Associate Professor at the School of Social Sciences. Jeannette’s research aims to promote a better understanding and an improvement of the operations of public organisations and governments. Her research focuses on public administration and policy. Jeannette’s research on the public service in Australia and to a lesser extent, East Asia, is largely divided into two streams. The first focuses on productivity and performance matters. She has analysed the effects of performance measurement and reporting systems on employees’ behaviour and organisational outcomes, the utilisation of performance information for decision making within public organisations, and the productivity of the public sector. The second stream of research relates to human resource management issues. Jeannette has examined the effects of the government workplace on its employees’ work attitudes and actions, and they include recruitment, retention, and motivation issues. The second stream also include corruption and whistleblowing in the public sector.
@@ -124,11 +123,13 @@ Partners<a name="partners"></a>
 
 
 ## Belgium
+
 *Universiteit Antwerpen*
 - <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> (lode.dewaele@uantwerpen.be)
 
 
 ## Germany
+
 *Universität Hamburg*
 - <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (Kristina.weissmueller@uni-hamburg.de) 
 
