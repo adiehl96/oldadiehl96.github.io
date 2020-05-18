@@ -10,6 +10,7 @@ author_profile: true
 M.A.-level
 -------------
 
+* ‘**Deviant behavior and Corruption in the Public Sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall2020; class size: 30students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany
 * ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf)); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
 * ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
