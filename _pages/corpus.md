@@ -36,6 +36,8 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
 <br/>
+Please don't hestitate to contact Kristina.weissmueller@kpm.unibe.ch if you want to know more!
+
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
