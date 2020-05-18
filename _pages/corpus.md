@@ -88,6 +88,10 @@ a.van.witteloostuijn@vu.nl
 
 Partners<a name="partners"></a>
 --------
+Catherine Althaus, Robert K. Christensen, Ting GONG, Dennis Hilgers, Fabian Homberg, Mei-Jen HUNG, Sang-Mook KIM , Kristoffer Kolltveit, Ming-Feng KUO, Jenny Lewis, Fabio Monteduro, Janine O’Flynn, Guillem Ripoll Pascual, Adrian Ritz, Lisa Schmidthuber, Dong Chul SHIM , Tsai-tsu SU, Jeannette Taylor, Richard Walker, Hanyu XIAO, & Sunny Litianqing YANG.
+
+
+
 <details><summary>Australia & New Zealand</summary><br>
  
 *University of Western Australia*
