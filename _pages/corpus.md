@@ -44,7 +44,7 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
 
-<details open>
+<details>
 <summary> <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a> KPM Center for Public Management, Universität Bern, Switzerland<br/></summary>
 <br>
 Kristina S. Weissmüller is a postdoc researcher and lecturer at the KPM Center for Public Management, University of Bern, Switzerland. Before joining KPM, she obtained her PhD (Dr. rer. pol.) at Prof. Dr. Rick Vogel’s chair for Public Management, University of Hamburg. She was a research associate at Helmut-Schmidt-Universität Hamburg, as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
@@ -60,9 +60,8 @@ Kristina.weissmueller@kpm.unibe.ch
 </details>
 
 
-
-### <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>
-
+<details>
+<summary><a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele, Universiteit Antwerpen, Belgium</a></summary>
 Lode De Waele has obtained his PhD at the faculty of Business and Economics of the University of Antwerp (Belgium). He started his PhD in 2013, after being employed in the public sector for several years as an accountant, cabinet member, and senior consultant. His main research interests focus on hybridity, performance management, public service motivation, dark triad personalities and corruption. He teaches courses such as Strategic Management and European and International Environments, in which he addresses the functioning of NGO’s and the European Union. In addition, he gives guest lectures about Sino-European trade relations to both European and Chinese students. Furthermore, he supervises postgraduate students in the Master of Public Management program at the Antwerp Management School and has a post-doc position at the Vrije Universiteit Amsterdam.
 
 Universiteit Antwerpen<br/>
@@ -71,9 +70,11 @@ Prinsstraat 13<br/>
 2000 Antwerpen, België<br/>
 Tel. +32 (0)32 654 890<br/>
 lode.dewaele@uantwerpen.be
+</details>
 
 
-### <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>
+<details>
+<summary><a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn, School of Business and Economics, Vrije Universiteit Amsterdam, The Netherlands</a></details>
 
 Arjen van Witteloostuijn is Professor of Business and Economics at the Vrije Universiteit (VU) Amsterdam and Dean of the VU School of Business and Economics in the Netherlands, as well as Research Professor in Business, Economics and Governance at the University of Antwerp and Antwerp Management School in Belgium. He was/is member of the Executive Committee of the European Association for Research in Industrial Economics (EARIE), President of the Dutch-Flemish Academy of Management (NVAM), Chairman of the Board of the Council for Economic, Social and Regional Sciences (ESR) of the Dutch National Science Foundation (NWO), member of the Economic Advisory Council of the Dutch Parliament, and member of the Royal Netherlands Academy of Sciences (KNAW). Apart from many (chapters in) books, he has published widely in such international journals as the *Academy of Management Executive, Academy of Management Journal, Academy of Management Review, Accounting, Organizations & Society, American Journal of Political Science, American Journal of Sociology, American Sociological Review, Economica, Economics of Education Review, European Journal of Political Economy, History of Political Economy, Industrial Relations, International Journal of Industrial Organization, Journal of Business Ethics, Journal of Economic Behavior and Organization, Journal of Economic Psychology, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Public Administration Research and Theory, Management Science, Metroeconomica, Organization Science, Organization Studies, Party Politics, Personality and Individual Differences, Public Administration Review, Strategic Management Journal and Weltwirtschaftliches Archiv*. On a regular basis, he is involved in consultancy and training activities for private and public organizations. His research interests range from international macroeconomics and personality psychology to industrial economics and organizational behavior.
 
@@ -83,8 +84,10 @@ De Boelelaan 1105<br/>
 1081 HV Amsterdam, the Netherlands<br/>
 Tel. +31 (0)20 598 5230<br/>
 a.van.witteloostuijn@vu.nl
+</details>
 
 <br/><br/>
+
 
 Partners <a name="partners"></a>
 --------
