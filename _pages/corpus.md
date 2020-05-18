@@ -141,8 +141,8 @@ Partners<a name="partners"></a>
 - <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a> (fabio.monteduro@uniroma2.it)<a/> is Associate Professor at Faculty of Economics at Università Tor Vergata.
 
 *LUISS University*
-- <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) "is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance.
-He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office."
+- <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance.
+He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office.
 </details>
 
 <details><summary>The Netherlands</summary><br>
@@ -196,7 +196,8 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 <details><summary>United Kingdom (UK)</summary><br>
  
 *University of Southampton*
--	<a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it)
+- <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance.
+He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office.
 </details>
 
 
