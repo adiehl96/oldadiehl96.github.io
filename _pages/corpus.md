@@ -14,7 +14,8 @@ author_profile: true
 2. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
     2. [Partners](#partners)
-3. [Work Packages](#work_packages)
+3. [Publications](#publications)
+4. [Data & Governance](#data)
 
 
 <br/>
@@ -37,8 +38,6 @@ The CorPuS project is a non-commercial, non-commissioned pro-bono scientific res
 
 
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
-
-
 <br/>
 
 Principal researchers & project managers <a name="principal_researchers"></a>
@@ -85,13 +84,10 @@ De Boelelaan 1105<br/>
 Tel. +31 (0)20 598 5230<br/>
 a.van.witteloostuijn@vu.nl
 </details>
-
-<br/><br/>
-
+<br/>
 
 Partners<a name="partners"></a>
 --------
-
 <details><summary>Australia & New Zealand</summary><br>
  
 *University of Western Australia*
@@ -212,7 +208,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 
 <br/><br/>
 
-Work Packages <a name="work_packages"></a>
+Publications <a name="publications"></a>
 =======
 
 **I: Work package: Preparation & Team Consolidation**
@@ -248,3 +244,10 @@ Work Packages <a name="work_packages"></a>
 2. This project will generate a rich and worldwide unique multi-national dataset that will be the foundation for many more future studies on public sector corruption to come. In the spirit of open science, this we will store this data in an save data repository that is accessible for international researchers to facilitate both future replication studies as well as further data exploitation in follow-up studies. 
 3. Work package V publications: *(work in progress)*
    1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
+
+
+<br/><br/>
+
+Data & Governance <a name="data"></a>
+=======
+XXX
