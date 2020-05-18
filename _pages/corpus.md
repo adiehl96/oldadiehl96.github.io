@@ -16,9 +16,8 @@ author_profile: true
     2. [Partners](#partners)
 3. [Publications](#publications)
 4. [Data](#data)
-
-
 <br/>
+
 Project Goals and Objectives <a name="project_goal"></a>
 =======
 
@@ -27,8 +26,8 @@ Public sector corruption is a critical yet severely understudied phenomenon in P
 The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insights and collect rich evidence about a few of the main underlying mechanisms of corruption and their interaction at the micro, meso, and macro level of behavior by conducting rigorous experimental research in fifteen countries.
 
 Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
-
 <br/>
+
 Consortium <a name="consortium"></a>
 =======
 
