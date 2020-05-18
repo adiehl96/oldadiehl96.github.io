@@ -203,8 +203,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 *Brigham Young University*
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
 </details>
-
-<br/><br/>
+<br/>
 
 Publications <a name="publications"></a>
 =======
@@ -228,9 +227,7 @@ Publications <a name="publications"></a>
 **IV: Documentation and Dissemination**
 
 1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
-
-
-<br/><br/>
+<br/>
 
 Data <a name="data"></a>
 =======
