@@ -45,7 +45,7 @@ Principal researchers & project managers <a name="principal_researchers"></a>
 --------
 
 <details>
-<summary> <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a> KPM Center for Public Management, Universität Bern, Switzerland<br/></summary>
+<summary><a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a> KPM Center for Public Management, Universität Bern, Switzerland<br/></summary>
 <br>
 Kristina S. Weissmüller is a postdoc researcher and lecturer at the KPM Center for Public Management, University of Bern, Switzerland. Before joining KPM, she obtained her PhD (Dr. rer. pol.) at Prof. Dr. Rick Vogel’s chair for Public Management, University of Hamburg. She was a research associate at Helmut-Schmidt-Universität Hamburg, as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
 
@@ -89,8 +89,9 @@ a.van.witteloostuijn@vu.nl
 <br/><br/>
 
 
-Partners <a name="partners"></a>
+<details><summary>Partners</summary> <a name="partners"></a>
 --------
+<summary>
 
 ### Australia & New Zealand 
 *University of Western Australia*
@@ -176,6 +177,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 ### United States (US)
 *Brigham Young University*
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
+</details>
 
 <br/><br/>
 
