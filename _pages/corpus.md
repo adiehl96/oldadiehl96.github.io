@@ -15,7 +15,7 @@ author_profile: true
     1. [Principal researchers & project managers](#principal_researchers)
     2. [Partners](#partners)
 3. [Publications](#publications)
-4. [Data & Governance](#data)
+4. [Data](#data)
 
 
 <br/>
@@ -233,6 +233,6 @@ Publications <a name="publications"></a>
 
 <br/><br/>
 
-Data & Governance <a name="data"></a>
+Data <a name="data"></a>
 =======
-XXX
+*Coming soon.*
