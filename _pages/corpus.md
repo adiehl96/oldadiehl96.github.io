@@ -89,11 +89,10 @@ a.van.witteloostuijn@vu.nl
 <br/><br/>
 
 
-<details><summary>Partners</summary> <a name="partners"></a>
+Partners<a name="partners"></a>
 --------
-<summary>
 
-### Australia & New Zealand 
+<details><summary>Australia & New Zealand</summary>  
 *University of Western Australia*
 - <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a> (jeannette.taylor@uwa.edu.au) is Associate Professor at the School of Social Sciences. “Jeannette’s research aims to promote a better understanding and an improvement of the operations of public organisations and governments. Her research focuses on public administration and policy. Jeannette’s research on the public service in Australia and to a lesser extent, East Asia, is largely divided into two streams. The first focuses on productivity and performance matters. She has analysed the effects of performance measurement and reporting systems on employees’ behaviour and organisational outcomes, the utilisation of performance information for decision making within public organisations, and the productivity of the public sector. The second stream of research relates to human resource management issues. Jeannette has examined the effects of the government workplace on its employees’ work attitudes and actions, and they include recruitment, retention, and motivation issues. The second stream also include corruption and whistleblowing in the public sector.”
 
@@ -103,6 +102,7 @@ a.van.witteloostuijn@vu.nl
 *ANZSOG (Australia and New Zealand School of Government)*
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) is the Associate Professor in the School of Social and Political Sciences, Faculty of Arts, University of Melbourne and ANZSOG Deputy Dean (Teaching and Learning). She has a passion for creatively serving the public interest as a practitioner-academic. Her academic training is in economics and politics and public policy. Before coming to ANZSOG, she spent nine years teaching and researching in Canada, culminating in her position as Director of the School of Public Administration at the University of Victoria, British Columbia. Prior to that, she was a post-doctoral fellow at the Australian National University, and she held a number of policy posts with the Queensland Treasury department and Queensland Office of the Cabinet.
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au) is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
+</details>
 
 ### Austria
 *Johannes Keppler Universität Linz*
@@ -177,7 +177,7 @@ He holds a doctorate from the University of Zurich, Switzerland. He has won seve
 ### United States (US)
 *Brigham Young University*
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
-</details>
+
 
 <br/><br/>
 
