@@ -16,9 +16,7 @@ Dr. Kristina S. Weißmüller (University of Bern & University of Bern), kristina
 Course Description
 --------
 
-Public sector corruption is a critical yet severely understudied phenomenon in public administration and public management. Studies worldwide have shown that public sector corruption – e.g., in the form of bribery, rule-breaking, and deviant behavior – causes inequality in access to public services leading to discrimination and an inefficient allocation of resources. This lack of access equity seriously undermines the general public’s trust in government and public institutions (Getz & Volkema 2001).
-
-Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
+Public sector corruption is a critical yet severely understudied phenomenon in public administration and public management. Studies worldwide have shown that public sector corruption – e.g., in the form of bribery, rule-breaking, and deviant behavior – causes inequality in access to public services leading to discrimination and an inefficient allocation of resources. This lack of access equity seriously undermines the general public’s trust in government and public institutions. 
 
 The course *“Deviant Behavior and Corruption in the Public Sector”* aims to advance students’ practical and theoretical insights into a critical issue for public management worldwide. Focusing on the underlying mechanisms of individuals’ motivation this course shows how micro, meso, and macro factors interact in shaping people’s willingness to engage in bribery and their perception of rules and ethical behavior in bureaucracies.
 
