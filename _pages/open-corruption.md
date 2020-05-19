@@ -72,9 +72,7 @@ Please find the course material for the open online seminar "Deviant Behavior an
 Kristina S. Weißmüller, KPM Center for Public Management, University of Bern, Switzerland
 
 [![Class #1](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 1#")
-
 [Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
-
 <details>
   <summary>Essential Readings & Assignments</summary>
 XXX
