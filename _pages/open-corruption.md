@@ -5,7 +5,9 @@ permalink: /open-corruption/
 author_profile: true
 ---
 
-Open online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies. Developed by Dr. Kristina S. Weißmüller (2020).
+Open online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies. 
+
+Developed by Dr. Kristina S. Weißmüller in 2020, CC-BY.
 
 
 
