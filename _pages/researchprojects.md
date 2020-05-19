@@ -52,7 +52,7 @@ PPPs are extremely powerful organizational arrangements that allow the sharing o
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
 
 * *Related publications*: 
-   1. **Weißmüller, K.S.** (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR</a>.
-   2. **Weißmüller, K.S.** & Vogel, R. (2019). <a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">TRUST IN PPPs</a>.
-   3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019) <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM</a>.
-   4. **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING</a>.
+   1. **Weißmüller, K.S.** (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_2019_Discounting_Publicness.pdf">PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR</a>. *Under review*.
+   2. **Weißmüller, K.S.** & Vogel, R. (2019). <a href="https://ksweissmueller.github.io/files/2019_02_Weissmueller_Vogel_TRUSTCentipede_JPART_full.pdf">TRUST IN PPPs</a>. *Under review*.
+   3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019) <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Negotiation.pdf">NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM</a>. *Under review*.
+   4. **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al._2019_PSM_Rulebreaking_Manuscript.pdf">PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING</a>. *Under review*.
