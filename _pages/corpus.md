@@ -19,7 +19,7 @@ author_profile: true
 
 <br/>
 
-1 Project Goals and Objectives <a name="project_goal"></a>
+Project Goals and Objectives <a name="project_goal"></a>
 =======
 
 Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously together seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
@@ -30,7 +30,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 <br/><br/>
 
 
-2 Publications <a name="publications"></a>
+Publications <a name="publications"></a>
 =======
 
 **Pilot Studies**
@@ -56,7 +56,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 <br/>
 
 
-3 Consortium <a name="consortium"></a>
+Consortium <a name="consortium"></a>
 =======
 
 The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide.
@@ -121,7 +121,7 @@ Collaborators<a name="collaborators"></a>
 --------
 <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a>, <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a>, <a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a>, <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a>, <a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a>, <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a>, <a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a>, <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a>, <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a>, <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a>, <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
 
-## Australia & New Zealand
+### Australia & New Zealand
 
 *University of Western Australia*
 
