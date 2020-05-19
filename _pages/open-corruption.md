@@ -10,7 +10,7 @@ Open access online seminar for Master Programs in Public & Nonprofit Management,
 Course Design
 -------
 
-Dr. Kristina S. Weißmüller (University of Bern & University of Bern), kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
+Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
 
 
 Course Description
