@@ -35,7 +35,7 @@ Please find the course material for the open online seminar "Deviant behavior an
 
 Kristina S. Weißmüller, KPM Center for Public Management, University of Bern, Switzerland
 
-[youtube link](https://xxx.com)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 [.pdf](https://xxx.com)
 [.pptx](https://xxx.com)
 
