@@ -38,14 +38,11 @@ Kristina S. Weißmüller, KPM Center for Public Management, University of Bern, 
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=StTqXEQ2l-Y" target="_blank"><img src="http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="277" height="155" border="10" /></a>
 
-<iframe width="277" height="155" src="https://www.youtube.com/embed/aRjyJJ-hWzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[.pdf](https://xxx.com)
-[.pptx](https://xxx.com)
-
-<details><summary>Essential reading & assignments</summary>
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com)
+<details><summary>Essential Readings & Assignments</summary>
 XXX
 XXX
 </details>
