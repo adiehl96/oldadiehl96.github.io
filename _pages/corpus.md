@@ -12,14 +12,13 @@ author_profile: true
 
 1. [Project Goals and Objectives](#project_goal)
 2. [Publications](#publications)
-3. [Data](#data)
-4. [Consortium](#consortium)
+3. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
     2. [Other Collaborators](#collaborators)
 
 <br/>
 
-Project Goals and Objectives <a name="project_goal"></a>
+1. Project Goals and Objectives <a name="project_goal"></a>
 =======
 
 Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously together seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
@@ -30,7 +29,7 @@ Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (
 <br/><br/>
 
 
-Publications <a name="publications"></a>
+2. Publications <a name="publications"></a>
 =======
 
 **Pilot Studies**
@@ -56,7 +55,7 @@ Publications <a name="publications"></a>
 <br/>
 
 
-Consortium <a name="consortium"></a>
+3. Consortium <a name="consortium"></a>
 =======
 
 The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide.
