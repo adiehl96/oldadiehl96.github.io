@@ -9,7 +9,8 @@ author_profile: true
 **A multi-country experimental study researching corruption in the public sector worldwide**    
 --------
  ![alt text](https://ksweissmueller.github.io/files/corpus-logo_90.png "CorPuS logo")
-
+ ![my image](https://ksweissmueller.github.io/files/corpus-logo_90.png#center)
+ 
 1. [Project Goals and Objectives](#project_goal)
 2. [Publications](#publications)
 3. [Consortium](#consortium)
