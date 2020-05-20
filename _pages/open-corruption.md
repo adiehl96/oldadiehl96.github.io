@@ -9,8 +9,10 @@ author_profile: true
 
 
  <p align="center">
-  <img width="256" src="https://tivnews.files.wordpress.com/2016/09/banner.jpg">
+  <img width="256" src="http://www.ksweissmueller.github.io/files/open-corr.jpg">
 </p>
+
+
 
 Course Design
 ======
