@@ -9,7 +9,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 <br/>
 
-1. [orruption in the Public Sector (CorPuS)](#corpus)
+1. [Corruption in the Public Sector (CorPuS)](#corpus)
 2. [Public Service Motivation in University Students](#PSM-students)
 3. [Risk in Public Private Partnerships (RiPPP)](#rippp)
 
