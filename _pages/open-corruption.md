@@ -8,13 +8,27 @@ author_profile: true
 Open access online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies. 
 
 Course Design
--------
+======
 
 Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
 
 
-Course Description
---------
+
+ ![alt text](https://tivnews.files.wordpress.com/2016/09/banner.jpg?w=1024#center "Public Sector Corruption")
+ 
+
+1. [Course Description](#description)
+2. [Learning objectives](#objectives)
+3. [Assignments & Grading](#assignments)
+4. [Course material](#material)
+
+
+<br/>
+
+
+
+Course Description <a name="description"></a>
+======
 
 Public sector corruption is a critical yet severely understudied phenomenon in public administration and public management. Studies worldwide have shown that public sector corruption – e.g., in the form of bribery, rule-breaking, and deviant behavior – causes inequality in access to public services leading to discrimination and an inefficient allocation of resources. This lack of access equity seriously undermines the general public’s trust in government and public institutions. 
 
@@ -34,8 +48,8 @@ All course materials are available open access (prerecorded lectures, lecture sl
 
 
 
-Learning objectives
---------
+Learning objectives <a name="objectives"></a>
+======
 
 By participating in this course, students …
 -	… will understand the origins and effects of different forms of deviant behavior and corruption in the public sector by identifying diverse current scientific positions on corruption, briber, discrimination, and (pro-social) rule-breaking.
@@ -45,8 +59,8 @@ By participating in this course, students …
 -	… will practice and improve their ability to write scientific essays. 
 
 
-Assignments and Grading
---------
+Assignments and Grading <a name="assignments"></a>
+======
 
 The workload for this course amounts to 6 ECTS, i.e it is similar to a 2 SWS seminar course. In order to receive these ECTS credit points, students need to register through STiNE (please make sure to complete registration within the official registration phases.
 
@@ -60,8 +74,8 @@ Check out recommendations on scientific essay writing by Leonhard Dobusch (Unive
 
 
 
-Course material
---------
+Course material <a name="material"></a>
+======
 
 Please find the course material for the open online seminar "Deviant Behavior and Corruption in the Public Sector" here. The material includes videos to short lectures, slides in PDF and editable formats, readings and assignments. All content is available under the *[Creative Commons Attribution license International 4.0 (CC BY)](https://www.wiwiss.fu-berlin.de/forschung/organized-creativity/index.html)*. 
 
