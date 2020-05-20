@@ -15,7 +15,7 @@ author_profile: true
 Course Design
 ======
 
-Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
+Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@kpm.unibe.ch & kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
 
 1. [Course Description](#description)
 2. [Learning objectives](#objectives)
