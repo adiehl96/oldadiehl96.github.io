@@ -44,7 +44,7 @@ Risk in Public Private Partnerships (RiPPP)
 (May 2015 – June 2018)
 
 <p align="center">
-  <img width="512" height="300" src="https://www.uci.ac.cr/wp-content/uploads/2016/08/risk-blocks.jpg">
+  <img width="512"  src="https://www.uci.ac.cr/wp-content/uploads/2016/08/risk-blocks.jpg">
 </p>
 
 
