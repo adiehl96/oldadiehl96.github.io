@@ -13,7 +13,7 @@ Corruption in the Public Sector (CorPuS)
 =======
 
 <p align="center">
-  <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png.png">
+  <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png">
 </p>
 
 
