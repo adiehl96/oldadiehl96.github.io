@@ -12,7 +12,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 Corruption in the Public Sector (CorPuS)
 =======
 
-<p align="center">
+<p align="left">
   <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png">
 </p>
 
@@ -48,7 +48,7 @@ Risk in Public Private Partnerships (RiPPP)
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
 (May 2015 – June 2018)
 
-<p align="center">
+<p align="left">
   <img width="256" src="https://www.uci.ac.cr/wp-content/uploads/2016/08/risk-blocks.jpg">
 </p>
 
