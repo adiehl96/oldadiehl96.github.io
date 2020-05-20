@@ -8,8 +8,8 @@ author_profile: true
 **Open access online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies** 
 
 
- <p align="center">
-  <img width="512" src="https://ksweissmueller.github.io/files/open-corr.png">
+ <p align="left">
+  <img src="https://ksweissmueller.github.io/files/open-corr.png">
 </p>
 
 
