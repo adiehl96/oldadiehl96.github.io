@@ -5,8 +5,8 @@ permalink: /open-corruption/
 author_profile: true
 ---
 
-Open access online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies. 
-------
+**Open access online seminar for Master Programs in Public & Nonprofit Management, Public Administration, and Business Studies** 
+
 
  <p align="center">
   <img width="512" src="https://tivnews.files.wordpress.com/2016/09/banner.jpg">
