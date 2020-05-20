@@ -9,8 +9,8 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 <br/>
 
-Corruption in the Public Sector (CorPuS)
-=======
+# Corruption in the Public Sector (CorPuS)
+
 
 <p align="left">
   <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png">
@@ -28,8 +28,8 @@ Corruption in the Public Sector (CorPuS)
 
 <br/>
 
-Public Service Motivation in University Students
-=======
+# Public Service Motivation in University Students
+
 
 **A multi-wave study on the role of PSM as a success factor in higher education**
 (Jul. 2018 – Jan. 2021)
@@ -42,8 +42,8 @@ Public Service Motivation in University Students
 
 <br/>
 
-Risk in Public Private Partnerships (RiPPP)
-=======
+# Risk in Public Private Partnerships (RiPPP)
+
 
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
 (May 2015 – June 2018)
