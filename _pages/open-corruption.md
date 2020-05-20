@@ -14,7 +14,7 @@ Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), krist
 
 
 
- ![alt text](https://tivnews.files.wordpress.com/2016/09/banner.jpg?w=1024#center "Public Sector Corruption")
+ ![alt text](https://tivnews.files.wordpress.com/2016/09/banner.jpg?w=512#center "Public Sector Corruption")
  
 
 1. [Course Description](#description)
