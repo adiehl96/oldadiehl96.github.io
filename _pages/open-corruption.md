@@ -9,20 +9,18 @@ author_profile: true
 
 
  <p align="center">
-  <img width="512" src="https://tivnews.files.wordpress.com/2016/09/banner.jpg">
+  <img width="256" src="https://tivnews.files.wordpress.com/2016/09/banner.jpg">
 </p>
 
 Course Design
 ======
 
-Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@kpm.unibe.ch & kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
+by Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@kpm.unibe.ch & kristina.weissmueller@uni-hamburg.de (CC-BY 2020)
 
 1. [Course Description](#description)
 2. [Learning objectives](#objectives)
 3. [Assignments & Grading](#assignments)
 4. [Course material](#material)
-
-<br/>
 
 
 Course Description <a name="description"></a>
