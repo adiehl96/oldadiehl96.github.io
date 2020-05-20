@@ -9,9 +9,8 @@ author_profile: true
 
 
  <p align="center">
-  <img width="256" src="http://www.ksweissmueller.github.io/files/open-corr.jpg">
+  <img width="256" src="https://ksweissmueller.github.io/files/open-corr.jpg">
 </p>
-
 
 
 Course Design
