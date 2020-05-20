@@ -12,6 +12,11 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 Corruption in the Public Sector (CorPuS)
 =======
 
+<p align="center">
+  <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_90.png">
+</p>
+
+
 **A multi-country experimental study researching corruption in the public sector worldwide**      
 (Jan. 2018 – Dec. 2021)
 
