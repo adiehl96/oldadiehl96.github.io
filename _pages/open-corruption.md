@@ -9,7 +9,7 @@ author_profile: true
 
 
  <p align="center">
-  <src="https://ksweissmueller.github.io/files/open-corr.png">
+  <img src="https://ksweissmueller.github.io/files/open-corr.png">
 </p>
 
 
