@@ -24,19 +24,23 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h2>...(under review)... </h2>
 
 
-**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.473).
+
      
 **Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435), XX(X), XX-XX.
      
 **Weißmüller, K.S.** (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882), XX(X), XX-XX.
 
-**Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (revise & resubmit, 3-yr IF: 4.409), XX(X), XX-XX. 
+**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.473).
 
-**Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review after major revision, 3-yr IF: 2.207), XX(X), XX-XX.
+**Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409), XX(X), XX-XX. 
 
-**Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (revise & resubmit, 3-yr IF: 3.327), XX(X), XX-XX.
+**Weißmüller, K.S.** & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ *Research in Higher Education* (under review, 3-yr IF: 2.207), XX(X), XX-XX.
 
-Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Workforce Homogeneity in the Public Sector - A Systematic Review and Call for Research.’ *Perspectives on Public Management and Governance* (under review), XX(X), XX-XX.
+**Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX.
+
+De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (20120). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ *Journal of Business Ethics* (under review, 3-yr IF: 3.796), XX(X), XX-XX.
+
+Ritz, A., Steijn, A., **Weißmüller, K.S.**, Alfes, K. (2020). ‘Critical Life Events as Antecedents of Engagement and Burnout among Public Employees.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX.
 
 
 <h2>Working Papers</h2>
@@ -53,11 +57,11 @@ Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Wor
  
 1. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
 
-1. De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (2018). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Working paper.
-
 1. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
 
-1. Rieger, V., & **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
+1. **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
+
+1. Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Workforce Homogeneity in the Public Sector - A Systematic Review and Call for Research.’ Working paper.
 
 
 
