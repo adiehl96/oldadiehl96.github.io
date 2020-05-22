@@ -8,8 +8,8 @@ author_profile: true
 
 **A multi-country experimental study researching corruption in the public sector worldwide**    
 --------
-  <p align="center">
-  <img width="512" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
+  <p align="left">
+  <img width="256" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
 </p>
 
 
