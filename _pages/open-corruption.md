@@ -34,7 +34,7 @@ The course *“Deviant Behavior and Corruption in the Public Sector”* aims to 
 This course comprises two topical focusses – *deviant behavior* and *corruption* – with 4 classes each, i.e. 8 classes in total. This course can be completed fully in a distance learning environment and it is mostly asynchronous as to be most inclusive for a broader audience of students by allowing for a self-controlled study experience that is flexible in time.
 Each class comprises a short, recorded lecture as an introduction to the central issues and theoretical concepts. The online lecture is complemented by a set of instructions to direct self-study and further immersion though suggested scientific reading and written assignments. 
 
-After each of the two topic blocks, course participants are invited to join the lecturer for a Zoom-meeting in a blended learning environment to discuss and reflect together on their findings in topical focus 1 and 2 respectively. This collaborative feedback will help prepare the consecutive short essays (5 pages + back and front matter), which are due 2 weeks later and which build upon the class assessments. 
+After each of the two topic blocks, course participants are invited to join the lecturer for a Zoom-meeting in a blended learning environment to discuss and reflect together on their findings in topical focus 1 and 2 respectively. This collaborative feedback will help prepare the consecutive short essays (5 pages + back and front matter *each*), which are due 2 weeks later and which build upon the class assessments. 
 
 -	First online session: 04th December 2020.
 -	Second online session: 05th February 2021.
