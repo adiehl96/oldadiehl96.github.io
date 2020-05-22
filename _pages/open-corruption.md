@@ -74,9 +74,10 @@ Check out recommendations on scientific essay writing by Leonhard Dobusch (Unive
 Course material <a name="material"></a>
 ======
 
-Please find the course material for the open online seminar "Deviant Behavior and Corruption in the Public Sector" here. The material includes videos to short lectures, slides in PDF and editable formats, readings and assignments. All content is available under the *[Creative Commons Attribution license International 4.0 (CC BY)](https://www.wiwiss.fu-berlin.de/forschung/organized-creativity/index.html)*. 
+Please find the course material for the open online seminar "Deviant Behavior and Corruption in the Public Sector" here. The material includes videos to short lectures, slides in PDF and editable formats, readings and assignments. All content is available under the *[Creative Commons Attribution license International 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)*. 
 
 
+## Deviant Behavior:
 
 ### Class #1: **XXX**
 
@@ -92,11 +93,80 @@ XXX
 </details>
 
 
+[![Class #2](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 2#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
+
+
+[![Class #3](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 3#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
+
+
+
+[![Class #4](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 4#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
+
+
+##Corruption:
+
+
+[![Class #5](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 5#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
+
+
+
+[![Class #6](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 6#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
 
 
 
 
+[![Class #7](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 7#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
 
 
 
+[![Class #8](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 8#")
+
+[Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
+<details>
+  <summary>Essential Readings & Assignments</summary>
+XXX
+XXX
+</details>
 
