@@ -93,6 +93,8 @@ XXX
 </details>
 
 
+### Class #2: **XXX**
+
 [![Class #2](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 2#")
 
 [Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
@@ -102,6 +104,8 @@ XXX
 XXX
 </details>
 
+
+### Class #3: **XXX**
 
 [![Class #3](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 3#")
 
@@ -114,6 +118,8 @@ XXX
 
 
 
+### Class #4: **XXX**
+
 [![Class #4](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 4#")
 
 [Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
@@ -124,8 +130,10 @@ XXX
 </details>
 
 
-##Corruption:
+## Corruption:
 
+
+### Class #5: **XXX**
 
 [![Class #5](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 5#")
 
@@ -138,6 +146,8 @@ XXX
 
 
 
+### Class #6: **XXX**
+
 [![Class #6](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 6#")
 
 [Video](https://youtu.be/StTqXEQ2l-Y?t=35s) / [PDF](https://xxx.com) / [PPT](https://xxx.com) 
@@ -148,7 +158,7 @@ XXX
 </details>
 
 
-
+### Class #7: **XXX**
 
 [![Class #7](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 7#")
 
@@ -160,6 +170,7 @@ XXX
 </details>
 
 
+### Class #8: **XXX**
 
 [![Class #8](http://xxx.png)](https://youtu.be/XXX?t=35s "Class 8#")
 
