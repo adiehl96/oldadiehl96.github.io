@@ -66,7 +66,7 @@ Students are required to submit **two (!) essays** (5 pages + back and front mat
 -	Deadline for submitting the first essay: 18th December 2020, 23h55.
 -	Deadline for submitting the second essay: 19th February 2021, 23:55h. 
 
-Check out recommendations on scientific essay writing by Leonhard Dobusch (University of Innsbruck). 2020: [https://youtu.be/BpzShqbRkt8](https://youtu.be/BpzShqbRkt8).
+Consider checking out these very helpful recommendations on scientific essay writing by Leonhard Dobusch (University of Innsbruck). 2020: [https://youtu.be/BpzShqbRkt8](https://youtu.be/BpzShqbRkt8).
 
 
 
@@ -74,7 +74,7 @@ Check out recommendations on scientific essay writing by Leonhard Dobusch (Unive
 Course material <a name="material"></a>
 ======
 
-Please find the course material for the open online seminar "Deviant Behavior and Corruption in the Public Sector" here. The material includes videos to short lectures, slides in PDF and editable formats, readings and assignments. All content is available under the *[Creative Commons Attribution license International 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)*. 
+Please find the course material for the open online seminar "Deviant Behavior and Corruption in the Public Sector" here. The material includes videos to short lectures, slides in PDF and editable formats, readings and assignments. All content is available under the *[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)*. 
 
 
 ## Deviant Behavior:
