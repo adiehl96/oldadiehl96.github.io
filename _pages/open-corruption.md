@@ -13,11 +13,7 @@ author_profile: true
 </p>
 
 
-Course design by Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@kpm.unibe.ch & kristina.weissmueller@uni-hamburg.de ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)), 2020.
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+Course design by Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), kristina.weissmueller@kpm.unibe.ch & kristina.weissmueller@uni-hamburg.de, 2020. <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
 
 
