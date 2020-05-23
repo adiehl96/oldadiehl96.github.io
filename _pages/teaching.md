@@ -20,6 +20,7 @@ I regularly teach lectures and seminar courses in master-level programs of *Publ
 3. [B.A.-level Courses](#BA-level)
 
 
+<br><br/>
 
 Teaching Philosophy <a name="Teaching-philosophy"></a>
 =====
@@ -39,6 +40,7 @@ For me, *student-centered pedagogy* means not merely implementing best practices
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
 
 
+<br><br/>
 
 M.A.-level Courses <a name="MA-level"></a>
 ==========
