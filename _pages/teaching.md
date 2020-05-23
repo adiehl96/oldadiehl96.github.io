@@ -20,7 +20,6 @@ I hold a Master's degree in Higher Education and regularly teach lectures and se
 3. [B.A.-level Courses](#BA-level)
 
 
-<br><br/>
 
 Teaching Philosophy <a name="Teaching-philosophy"></a>
 =====
@@ -40,7 +39,6 @@ For me, *student-centered pedagogy* means not merely implementing best practices
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
 
 
-<br><br/>
 
 M.A.-level Courses <a name="MA-level"></a>
 ==========
@@ -55,7 +53,7 @@ M.A.-level Courses <a name="MA-level"></a>
 * ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Interdisciplinary master course**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
-<br><br/>
+
 
 B.A.-level Courses <a name="BA-level"></a>
 ========
@@ -63,11 +61,4 @@ B.A.-level Courses <a name="BA-level"></a>
 * ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Public and nonprofit management**’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017; class size: 380 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Planning, decision, control: Normative decision theory**’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
-
-
-<br><br/>
-
-
-
-
 
