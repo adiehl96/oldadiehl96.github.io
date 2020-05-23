@@ -9,10 +9,10 @@ author_profile: true
 2. [B.A.-level Courses](#BA-level)
 3. [Teaching Philosophy](#Teaching-philosophy)
 
+<br><br/>
 
-
-M.A.-level Courses <a name="MA-level"></a>
--------------
+1. M.A.-level Courses <a name="MA-level"></a>
+==========
 
 * ‘**Deviant behavior and Corruption in the public sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
 * ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf); class size: 15 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
@@ -24,10 +24,10 @@ M.A.-level Courses <a name="MA-level"></a>
 * ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Interdisciplinary master course**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
+<br><br/>
 
-
-B.A.-level Courses <a name="BA-level"></a>
--------------
+2. B.A.-level Courses <a name="BA-level"></a>
+========
 
 
 * ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
@@ -35,11 +35,11 @@ B.A.-level Courses <a name="BA-level"></a>
 * ‘**Planning, decision, control: Normative decision theory**’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 
-<a/><a/>
+<br><br/>
 
 
-Teaching Philosophy <a name="Teaching-philosophy"></a>
--------------
+3. Teaching Philosophy <a name="Teaching-philosophy"></a>
+=====
 
 
 *“Teaching without learning is futile”*
