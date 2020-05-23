@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Public Administration, Strategic Management, and Research Methods**
+**Teaching Public Administration & Management, Business Administration, and Applied Research Methods**
 
 <p align="left">
   <img src="https://ksweissmueller.github.io/files/teaching.png">
