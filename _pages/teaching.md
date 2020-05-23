@@ -10,9 +10,9 @@ author_profile: true
 I regularly teach lectures and seminar courses in master-level programs of *Public & Nonprofit Management*, *Public Management and Policy Policy*, and *Business Administration* as well as executive courses in professional further education (*Executive Master of Public Management*) at the University of Bern, Switzerland, the University of Lugano, Switzerland, the University of Lausanne, Switzerland, and the University of Hamburg, Germany.
 
 
-3. [Teaching Philosophy](#Teaching-philosophy)
-1. [M.A.-level Courses](#MA-level)
-2. [B.A.-level Courses](#BA-level)
+1. [Teaching Philosophy](#Teaching-philosophy)
+2. [M.A.-level Courses](#MA-level)
+3. [B.A.-level Courses](#BA-level)
 
 
 
