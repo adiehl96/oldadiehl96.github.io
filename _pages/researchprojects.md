@@ -52,9 +52,6 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
 (May 2015 – June 2018)
 
-<p align="left">
-  <img width="256" src="https://ksweissmueller.github.io/files/risk.jpg">
-</p>
 
 * *Principal researchers & project managers*: Kristina S. Weißmüller & [Rick Vogel](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html).
 * *Other collaborators*: [Robin Bouwman](https://www.uu.nl/staff/RBBouwman/Profile).
