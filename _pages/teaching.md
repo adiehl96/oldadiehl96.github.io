@@ -9,7 +9,6 @@ author_profile: true
 2. [B.A.-level Courses](#BA-level)
 3. [Teaching Philosophy](#Teaching-philosophy)
 
-<br><br/>
 
 1.M.A.-level Courses <a name="MA-level"></a>
 ==========
