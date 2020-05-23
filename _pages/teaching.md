@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I regularly teach lectures and seminar courses in master-level programs of Public & Nonprofit Management, Public Management & Policy, Public Administration, and Business Studies as well as Executive MPA courses in professional further education at the University of Bern, Switzerland, the University of Lugano, Switzerland, the University of Lausanne, Switzerland, and the University of Hamburg, Germany.
+
+
 1. [M.A.-level Courses](#MA-level)
 2. [B.A.-level Courses](#BA-level)
 3. [Teaching Philosophy](#Teaching-philosophy)
@@ -14,10 +17,10 @@ M.A.-level Courses <a name="MA-level"></a>
 ==========
 
 * ‘**Deviant behavior and Corruption in the public sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
-* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf); class size: 15 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-* ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-* ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
-* ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); at Universität Bern, KPM Center for Public Management, Bern, Switzerland.
+* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf); class size: 15 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
+* ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); Universities of Bern, Lausanne, and Lugano, Switzerland.
+* ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); Universities of Bern, Lausanne, and Lugano, Switzerland.
+* ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Current topics in public management research: Behavioral Public Administration**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); spring 2020, [syllabus](https://ksweissmueller.github.io/files/2020_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
@@ -51,7 +54,6 @@ I believe that teaching is as much an *essential a part of the profession of sci
 Teaching is a *collaborative process of knowledge generation* and sharing that should engage students and lecturer(s) on equal terms and without hierarchy. Taking into account the heterogeneity of students, I believe that teaching university courses should be designed as an open process continuously striving for improvement through a *culture of respect and creativity* between learners and lecturers. Knowledge is a living thing and teaching without learning is futile.
 
 For me, *student-centered pedagogy* means not merely implementing best practices and scientific insights on how university teaching works but actively recognizing students’ demands and challenges in order to design *courses that generate usable knowledge and relevant capabilities*. I believe in involving students in the process of scientific research from the very beginning of their degree programs – for instance, with seminars practically teaching the methods of social sciences by conducting actual research projects – *to help students develop a critical and open-minded perspective on the role of knowledge and science for society*, empowering students to think outside the box and realize the relevance of the contents taught.
-
 
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
 
