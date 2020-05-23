@@ -10,7 +10,7 @@ author_profile: true
 3. [Teaching Philosophy](#Teaching-philosophy)
 
 
-1.M.A.-level Courses <a name="MA-level"></a>
+M.A.-level Courses <a name="MA-level"></a>
 ==========
 
 * ‘**Deviant behavior and Corruption in the public sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
@@ -25,7 +25,7 @@ author_profile: true
 
 <br><br/>
 
-2.B.A.-level Courses <a name="BA-level"></a>
+B.A.-level Courses <a name="BA-level"></a>
 ========
 
 
@@ -37,7 +37,7 @@ author_profile: true
 <br><br/>
 
 
-3.Teaching Philosophy <a name="Teaching-philosophy"></a>
+Teaching Philosophy <a name="Teaching-philosophy"></a>
 =====
 
 
