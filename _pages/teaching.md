@@ -47,7 +47,7 @@ M.A.-level Courses <a name="MA-level"></a>
 * ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 <details>
-<summary>XXX</summary>
+<summary>* ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.</summary>
 XXX
 </details>
 
