@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Lecturer at University of Bern, Switzerland
+**Executive Lecturer at the KPM Center for Public Management, University of Bern, Switzerland
+**External Lecturer at Universtiy of Hamburg, Germany 
+
 
  <p align="left">
   <img src="https://ksweissmueller.github.io/files/teaching.png">
