@@ -16,7 +16,7 @@ I hold a Master's degree in Higher Education and regularly teach lectures and se
 
 
 1. [Teaching Philosophy](#Teaching-philosophy)
-2. [Essays on Teaching in Higher Education](#Teaching-essay)
+2. [Essays on Teaching](#Teaching-essay)
 2. [M.A.-level Courses](#MA-level)
 3. [B.A.-level Courses](#BA-level)
 
@@ -40,7 +40,7 @@ For me, *student-centered pedagogy* means not merely implementing best practices
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
 
 
-Essays on Teaching in Higher Education <a name="Teaching-essay"></a>
+Essays on Teaching <a name="Teaching-essay"></a>
 =====
 I wrote some opinion pieces on teaching in higher education: 
 
