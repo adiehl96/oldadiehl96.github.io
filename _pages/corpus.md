@@ -9,12 +9,6 @@ author_profile: true
 **A multi-country experimental study researching corruption in the public sector worldwide**    
 
 <img src="https://ksweissmueller.github.io/files/CorPuS.png">
-  <p align="left">
-  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
-</p>
-
-
-
 
 
 
@@ -30,6 +24,10 @@ Project Goals and Objectives <a name="project_goal"></a>
 =======
 
 Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
+
+  <p align="center">
+  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
+</p>
 
 The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insights and collect rich evidence about a few of the main underlying mechanisms of corruption and their interaction at the micro, meso, and macro level of behavior by conducting rigorous experimental research in fifteen countries.
 
