@@ -39,6 +39,7 @@ For me, *student-centered pedagogy* means not merely implementing best practices
 
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
 
+<b></br>
 
 Essays on Teaching <a name="Teaching-essay"></a>
 -------
@@ -50,7 +51,7 @@ I wrote some opinion pieces on teaching in higher education:
 
 Feel free to let me know what you think!  <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
 
-
+<b></br>
 
 M.A.-level Courses <a name="MA-level"></a>
 -------
@@ -65,7 +66,7 @@ M.A.-level Courses <a name="MA-level"></a>
 * ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Interdisciplinary master course**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
-
+<b></br>
 
 B.A.-level Courses <a name="BA-level"></a>
 -------
