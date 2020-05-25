@@ -10,8 +10,10 @@ author_profile: true
 
 
   <p align="left">
-  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo"><img src="ksweissmueller.github.io/files/CorPuS.png">
+  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
 </p>
+
+<img src="ksweissmueller.github.io/files/CorPuS.png">
 
 
 
