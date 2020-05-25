@@ -44,14 +44,10 @@ Essays on Teaching in Higher Education <a name="Teaching-essay"></a>
 =====
 I wrote some short essays and opinion pieces on teaching in higher education: 
 
-Weißmüller, K.S. (2020). Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität.[Essay](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
+* Weißmüller, K.S. (2020). *Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität.* [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
+* Weißmüller, K.S. (2020). *Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen.* [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_2_Thesen_OER.pdf).
 
-Weißmüller, K.S. (2020). Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen. [Essay](https://ksweissmueller.github.io/files/Weissmueller_2020_2_Thesen_OER.pdf).
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />
-
-Feel free to let me know what you think: kristina.weissmueller@kpm.unibe.ch!
+Feel free to let me know what you think at kristina.weissmueller@kpm.unibe.ch!
 
 
 
