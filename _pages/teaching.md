@@ -20,10 +20,10 @@ I hold a Master's degree in Higher Education and regularly teach lectures and se
 2. [M.A.-level Courses](#MA-level)
 3. [B.A.-level Courses](#BA-level)
 
-
+<b></br>
 
 Teaching Philosophy <a name="Teaching-philosophy"></a>
-=====
+-------
 
 
 *“Teaching without learning is futile”*
@@ -41,7 +41,8 @@ Ideally, courses and lectures should be specifically designed in an interdiscipl
 
 
 Essays on Teaching <a name="Teaching-essay"></a>
-=====
+-------
+
 I wrote some opinion pieces on teaching in higher education: 
 
 * Weißmüller, K.S. (2020). *Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität.* [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
@@ -52,7 +53,7 @@ Feel free to let me know what you think!  <a href="mailto:kristina.weissmueller@
 
 
 M.A.-level Courses <a name="MA-level"></a>
-==========
+-------
 
 * ‘**Deviant behavior and Corruption in the public sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
 * ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf); class size: 15 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
@@ -67,7 +68,7 @@ M.A.-level Courses <a name="MA-level"></a>
 
 
 B.A.-level Courses <a name="BA-level"></a>
-========
+-------
 
 * ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Public and nonprofit management**’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017; class size: 380 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
