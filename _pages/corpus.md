@@ -58,7 +58,6 @@ Publications <a name="publications"></a>
 
 1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
 <br/>
-<br/>
 
 
 Consortium <a name="consortium"></a>
