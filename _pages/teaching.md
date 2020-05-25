@@ -20,7 +20,7 @@ I hold a Master's degree in Higher Education and regularly teach lectures and se
 2. [M.A.-level Courses](#MA-level)
 3. [B.A.-level Courses](#BA-level)
 
-<b></br>
+<p></p>
 
 Teaching Philosophy <a name="Teaching-philosophy"></a>
 -------
