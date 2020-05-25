@@ -10,7 +10,7 @@ author_profile: true
 
 <img src="https://ksweissmueller.github.io/files/CorPuS.png">
 
-
+<br/>
 
 1. [Project Goals and Objectives](#project_goal)
 2. [Publications](#publications)
