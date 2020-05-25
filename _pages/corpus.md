@@ -52,7 +52,7 @@ Publications <a name="publications"></a>
 **III: Macro-level & Meta-Studies**
 
 1. Rieger, V., & Weißmüller, K.S. (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ *Working paper*. 
-2. Matić, M. & Weißmüller, K.S. (2019). ‘Pro-social Rule Breaking in Street-level Bureaucrats: Antecentes and Motives.’ *Working paper*.
+2. Matić, M. & Weißmüller, K.S. (2020). ‘Pro-social Rule Breaking in Street-level Bureaucrats: Antecentes and Motives.’ *Working paper*.
 
 **IV: Documentation and Dissemination**
 
