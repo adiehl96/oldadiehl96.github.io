@@ -13,7 +13,7 @@ author_profile: true
   <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
 </p>
 
-<img src="ksweissmueller.github.io/files/CorPuS.png">
+<img src="https://ksweissmueller.github.io/files/CorPuS.png">
 
 
 
