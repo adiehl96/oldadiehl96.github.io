@@ -16,6 +16,7 @@ I hold a Master's degree in Higher Education and regularly teach lectures and se
 
 
 1. [Teaching Philosophy](#Teaching-philosophy)
+2. [Essays on Teaching in Higher Education](#Teaching-essay)
 2. [M.A.-level Courses](#MA-level)
 3. [B.A.-level Courses](#BA-level)
 
@@ -37,6 +38,15 @@ Teaching is a *collaborative process of knowledge generation* and sharing that s
 For me, *student-centered pedagogy* means not merely implementing best practices and scientific insights on how university teaching works but actively recognizing students’ demands and challenges in order to design *courses that generate usable knowledge and relevant capabilities*. I believe in involving students in the process of scientific research from the very beginning of their degree programs – for instance, with seminars practically teaching the methods of social sciences by conducting actual research projects – *to help students develop a critical and open-minded perspective on the role of knowledge and science for society*, empowering students to think outside the box and realize the relevance of the contents taught.
 
 Ideally, courses and lectures should be specifically designed in an interdisciplinary way and be co-taught by lecturers with diverse but complementary scientific backgrounds to contrast and synthesize the many theoretical perspectives of (social) sciences and teach relevant knowledge to solve the challenges of our times.
+
+
+Essays on Teaching in Higher Education <a name="Teaching-essay"></a>
+=====
+I wrote some short essays and opinion pieces on teaching in higher education: 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+Feel free to let me know what you think: kristina.weissmueller@kpm.unibe.ch!
 
 
 
