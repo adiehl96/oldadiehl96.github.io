@@ -42,7 +42,7 @@ Ideally, courses and lectures should be specifically designed in an interdiscipl
 
 Essays on Teaching in Higher Education <a name="Teaching-essay"></a>
 =====
-I wrote some short essays and opinion pieces on teaching in higher education: 
+I wrote some opinion pieces on teaching in higher education: 
 
 * Weißmüller, K.S. (2020). *Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität.* [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
 * Weißmüller, K.S. (2020). *Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen.* [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_2_Thesen_OER.pdf).
