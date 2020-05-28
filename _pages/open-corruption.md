@@ -38,8 +38,8 @@ Each class comprises a short, recorded lecture as an introduction to the central
 
 After each of the two topic blocks, course participants are invited to join the lecturer for a Zoom-meeting in a blended learning environment to discuss and reflect together on their findings in topical focus 1 and 2 respectively. This collaborative feedback will help prepare the consecutive short essays (5 pages + back and front matter *each*), which are due 2 weeks later and which build upon the class assessments. 
 
--	First online session: 04th December 2020.
--	Second online session: 05th February 2021.
+-	First online session: 04th December 2020
+-	Second online session: 05th February 2021
 
 The Zoom-login data will be published through STiNE.
 
@@ -68,7 +68,7 @@ Students are required to submit **two (!) short essays** (5 pages + back and fro
 -	Deadline for submitting the first essay: 18th December 2020, 23h55.
 -	Deadline for submitting the second essay: 19th February 2021, 23h5h. 
 
-Consider checking out these very helpful recommendations on scientific essay writing by Leonhard Dobusch (University of Innsbruck). 2020: [https://youtu.be/BpzShqbRkt8](https://youtu.be/BpzShqbRkt8).
+Consider checking out these very helpful recommendations on scientific essay writing by Leonhard Dobusch (University of Innsbruck, 2020): [https://youtu.be/BpzShqbRkt8](https://youtu.be/BpzShqbRkt8).
 
 
 
