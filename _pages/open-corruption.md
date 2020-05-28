@@ -61,7 +61,7 @@ By participating in this course, students …
 Assignments and Grading <a name="assignments"></a>
 ======
 
-The workload for this course amounts to 6 ECTS, i.e it is similar to a 2 SWS seminar course. In order to receive these ECTS credit points, students need to register through STiNE (please make sure to complete registration within the official registration phases).
+The workload for this course amounts to 6 ECTS, i.e it is similar to a 2 SWS seminar course. In order to receive these ECTS credit points, students need to register through STiNE (please make sure to complete registration within the official registration phases) and submit two written pieces of work. Attending the live online sessions is adviced but not mandatory. 
 
 Students are required to submit **two (!) short essays** (5 pages + back and front matter *each*); this is one essay for each topical focus point each, i.e. one essay on deviant behavior in the public sector and another essay on corruption in the public sector. Please submit the essays to the [Academic Office](https://www.wiso.uni-hamburg.de/en/studienbuero-sozialoekonomie/service/service-studierende/abgabe-pruefungsunterlagen.html) as well as in .docx and .pdf-format to kristina.weissmueller@uni-hamburg.de. Please note that in accordance with WiSo examination regulations, plagiarism software might be used to evaluate the authenticity of the coursework submissions.
 
