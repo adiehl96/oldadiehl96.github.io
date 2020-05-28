@@ -14,6 +14,7 @@ author_profile: true
 
 
 Course design by Dr. Kristina S. Weißmüller (University of Bern & University of Hamburg), 2020.
+
 Contact me at: kristina.weissmueller@kpm.unibe.ch or kristina.weissmueller@uni-hamburg.de.
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>. 
@@ -65,7 +66,7 @@ The workload for this course amounts to 6 ECTS, i.e it is similar to a 2 SWS sem
 Students are required to submit **two (!) short essays** (5 pages + back and front matter *each*); this is one essay for each topical focus point each, i.e. one essay on deviant behavior in the public sector and another essay on corruption in the public sector. Please submit the essays to the [Academic Office](https://www.wiso.uni-hamburg.de/en/studienbuero-sozialoekonomie/service/service-studierende/abgabe-pruefungsunterlagen.html) as well as in .docx and .pdf-format to kristina.weissmueller@uni-hamburg.de. Please note that in accordance with WiSo examination regulations, plagiarism software might be used to evaluate the authenticity of the coursework submissions.
 
 -	Deadline for submitting the first essay: 18th December 2020, 23h55.
--	Deadline for submitting the second essay: 19th February 2021, 23:55h. 
+-	Deadline for submitting the second essay: 19th February 2021, 23h5h. 
 
 Consider checking out these very helpful recommendations on scientific essay writing by Leonhard Dobusch (University of Innsbruck). 2020: [https://youtu.be/BpzShqbRkt8](https://youtu.be/BpzShqbRkt8).
 
