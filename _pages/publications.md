@@ -47,9 +47,9 @@ Ritz, A., Steijn, A., **Weißmüller, K.S.**, Alfes, K. (2020). ‘Critical Life
 <h2>Other Publications</h2>
 
 <ol reversed>
-  <li><b>Weissmüller, K.S.</b> (forthcoming). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, Wiesbaden: Springer-Gabler.</li>
+  <li><b>Weissmüller, K.S.</b> (in print). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, Wiesbaden: Springer-Gabler.</li>
 
-  <li><b>Weissmüller, K.S.</b> & Künzler, P.(forthcoming). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, Wiesbaden: Springer-Gabler.</li>
+  <li><b>Weissmüller, K.S.</b> & Künzler, P.(in print). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, Wiesbaden: Springer-Gabler.</li>
 
   <li><b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ Doctoral thesis at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
 
