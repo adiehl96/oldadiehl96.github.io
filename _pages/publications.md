@@ -44,29 +44,6 @@ De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (20120). ‘Bribe
 
 Ritz, A., Steijn, A., **Weißmüller, K.S.**, Alfes, K. (2020). ‘Critical Life Events as Antecedents of Engagement and Burnout among Public Employees.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX.
 
-
-<h2>Working Papers</h2>
-
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., & De Waele, L. & et al. (2020). ’REGIMES OF RULE BREAKING - A 15-country experimental study on the effect of politico-administrative traditions on deviant behavior.’ Working paper.
-
-1. **Weißmüller, K.S.**, van Witteloostuijn, A., & De Waele, L. & et al. (2020). ’CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ Working paper.
-
-1. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). ‘NEGOTIATION IN PUBLIC-PRIVATE PARTNERSHIPS - A laboratory experiment on context, domain, and PSM.’ Working paper.
-
-1. Ritz, A., A. J. (Bram) Steijn, **Weißmüller, K.S.**, & Alfes, K. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ Working paper.
-
-1. **Weißmüller, K.S.** & Ritz, A. (2019). ‘New Public Management in Higher Education – Exploring the role of neo-classic vs. public value-oriented paradigms of leadership with senior executives across 18 European countries.’ Working paper.
- 
-1. Maasland, C. & **Weißmüller, K.S.** (2018). ‘Algorithm aversion and blame avoidance: A framing experiment on the use of micro-level HR decision support systems’ Working paper.
-
-1. **Weißmüller, K.S.**, Hensel, D., & Hattke, J. (2017).‘Unconscious Bias in PPP performance evaluation. A framing experiment on the adverse effects of affect misattribution.’ Working paper.
-
-1. **Weißmüller, K.S.** (2019). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ Working paper.
-
-1. Seidemann, I. & **Weißmüller, K.S.** (2020). ‘Causes and Consequences of Workforce Homogeneity in the Public Sector - A Systematic Review and Call for Research.’ Working paper.
-
-
-
 <h2>Other Publications</h2>
 
 <ol reversed>
