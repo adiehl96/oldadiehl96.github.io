@@ -47,7 +47,7 @@ Essays on Teaching <a name="Teaching-essay"></a>
 I wrote some opinion pieces on teaching in higher education: 
 
 * Weißmüller, K.S. (2020). "Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität" [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
-* Weißmüller, K.S. (2020). "Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen" *Impact Free: Journal für freie Bildungswissenschaftler, 28*, 1-9, Hamburg [Link](https://ksweissmueller.github.io/files/Impact_Free_28.pdf).
+* Weißmüller, K.S. (2020). "Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen" *Impact Free: Journal für freie Bildungswissenschaftler, 28*, 1-9, Hamburg [Link](https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf).
 
 Feel free to let me know what you think!  <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
 
@@ -57,13 +57,13 @@ M.A.-level Courses <a name="MA-level"></a>
 -------
 
 * ‘**Corruption & Deviant Behavior in the Public Sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
-* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020, [syllabus](https://ksweissmueller.github.io/files/Comparative_PA_Curriculum.pdf); class size: 15 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
+* ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020; class size: 15 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Empirical research project in administrative science**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2019; class size: 30 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
-* ‘**Current topics in public management research: Behavioral Public Administration**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018, [syllabus](https://ksweissmueller.github.io/files/2018_10_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); spring 2020, [syllabus](https://ksweissmueller.github.io/files/2020_DruckfrischePuMA_Seminarplan_&_Literaturliste.pdf); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018, <a href="https://ksweissmueller.github.io/files/20180522_LVA_Master_Seminar_Internationales_Management_KW.pdf ">syllabus</a>; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
-* ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018, <a href="https://ksweissmueller.github.io/files/2018_Master_Wissenschaftstheorie_EmpSozialforschung_KW.pdf">syllabus</a>; class size: 120 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Current topics in public management research: Behavioral Public Administration**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, external lectureship, full seminar teaching (fall 2018; spring 2020); class size: 15 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Advanced seminar in international management: Corporate governance from a behavioral perspective**’, *M.Sc. Business Administration*, full seminar teaching (summer 2018; class size: 30 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Philosophy of science and methods of empirical social research**’, *M.Sc. Business Administration*, lecture co-teaching (spring 2018; at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Interdisciplinary master course**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, co-teaching lecture and tutorial (fall 2016; class size: 50 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
 <p></p>
@@ -71,7 +71,7 @@ M.A.-level Courses <a name="MA-level"></a>
 B.A.-level Courses <a name="BA-level"></a>
 -------
 
-* ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017, [syllabus](https://ksweissmueller.github.io/files/2017_18_UHH_BPA_Seminarplan_&_Literaturliste.pdf); class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
+* ‘**Behavioral public administration: Psychology in public management research**’, *B.A. Socioeconomics*, full seminar teaching (fall 2017; class size: 25 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Public and nonprofit management**’, *B.A. Socioeconomics*, lecture and tutorial co-teaching (spring 2015 and 2016, fall 2015 and 2017; class size: 380 students); at University of Hamburg, Faculty of Economics and Social Sciences, Hamburg, Germany.
 * ‘**Planning, decision, control: Normative decision theory**’, *B.Sc. Business Administration*, lecture co-teaching (fall 2018; class size: 240 students); at Helmut-Schmidt-Universität, Faculty of Economics and Social Sciences, Hamburg, Germany.
 
