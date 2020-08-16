@@ -49,7 +49,8 @@ Ad-hoc Reviewer for:
 * *Journal of Behavioral Public Administration* (JBPA)
 * *Journal of Public Administration Research and Theory* (JPART)
 * *Public Administration* (PA)
-* *Public Administration Review* (PAR).
+* *Public Administration Review* (PAR)
+* *Public Management Review* (PMR)
 
 
 Languages
