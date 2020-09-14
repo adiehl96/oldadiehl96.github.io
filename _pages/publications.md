@@ -58,9 +58,13 @@ Ritz, A., Steijn, A., **Weißmüller, K.S.**, Alfes, K. (2020). ‘Critical Life
 
 <h2>Conference Papers & Presentations</h2>
 
-**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2020). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland*.
+Ritz, A., Meynhardt, T., & **Weißmüller, K.S.** (2020). ‘The public value of public organizations.’ *European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online*.
 
-Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2020). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland*.
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presenta-tion at the *24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online*.
+
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2020). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ *23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland & online*.
+
+Ritz, A., Steijn, A. J. (Bram), **Weißmüller, K.**, & Kerstin Alfes (2020). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ *23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland & online*.
 
 Ritz, A., **Weißmüller, K.S.**, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> *‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA*.
 
