@@ -41,6 +41,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
+**Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020) ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409), XX(X), XX-XX. 
+
 **Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (under review, 3-yr IF: 3.473).
 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409), XX(X), XX-XX. 
@@ -49,7 +51,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX.
 
-De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (20120). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ *Journal of Business Ethics* (under review, 3-yr IF: 3.796), XX(X), XX-XX.
+
+De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ *Journal of Business Ethics* (under review, 3-yr IF: 3.796), XX(X), XX-XX.
 
 
 
