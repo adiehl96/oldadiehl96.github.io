@@ -16,7 +16,7 @@ author_profile: true
 2. [Publications](#publications)
 3. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
-    2. [Other Collaborators](#collaborators)
+    2. [Collaborators (First wave 2018 - 2021)](#collaborators)
 
 
 
@@ -123,9 +123,7 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a>, <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a>, <a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a>, <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a>, <a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a>, <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a>, <a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a>, <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a>, <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a>, <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a>, <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
 
 
-<details>
-    <summary><b>Australia & New Zealand</b></summary>
-<p>
+###Australia & New Zealand</b>
     
 <i>University of Western Australia </i>
 
@@ -140,14 +138,11 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a> (c.althaus@ANZSOG.edu.au) is the Associate Professor in the School of Social and Political Sciences, Faculty of Arts, University of Melbourne and ANZSOG Deputy Dean (Teaching and Learning). She has a passion for creatively serving the public interest as a practitioner-academic. Her academic training is in economics and politics and public policy. Before coming to ANZSOG, she spent nine years teaching and researching in Canada, culminating in her position as Director of the School of Public Administration at the University of Victoria, British Columbia. Prior to that, she was a post-doctoral fellow at the Australian National University, and she held a number of policy posts with the Queensland Treasury department and Queensland Office of the Cabinet.
 
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au) is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
-</p>
-</details>
+
 <img width="150" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="University of Southampton"> <img width="150" src="https://ksweissmueller.github.io/images/Australia_Melbourne.jpg" alt="University of Southampton"><img width="150" src="https://ksweissmueller.github.io/images/Australia_Anzog.png" alt="University of Southampton">
 
 
-<details>
-    <summary><b>Austria</b></summary>
-<p>
+###Austria
     
 <i>Johannes Keppler Universität Linz</i>
 
@@ -157,25 +152,19 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <img width="150" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="Austria_JKULinz.jpg">
 
 
-<details>
-    <summary><b>Belgium</b></summary>
-    <p>
+###Belgium
+
 <i>Universiteit Antwerpen</i>
 - <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a> (lode.dewaele@uantwerpen.be)
-</p>
-</details>
 
-<details>
-    <summary><b>Germany</b></summary>
-<p>
+
+###Germany
+
 <i>Universität Hamburg</i>
 - <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (Kristina.weissmueller@uni-hamburg.de) 
-</p>
-</details>
 
-<details>
-    <summary><b>Hong Kong</b></summary>
-<p>
+
+###Hong Kong
 
 <i>City University of Hong Kong</i>
 -	<a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG (公婷)</a> (tgong2@cityu.edu.hk) is Professor of Political Science. She earned her MA and PhD from the Maxwell School of Citizenship and Public Affairs of Syracuse University, USA. Before joining City University of Hong Kong, she taught in the United States for more than a dozen years. Her research interests cover corruption and anti-corruption reform, post-communist transformation, and integrity management. She is the author of the first English book-length study of China’s corruption, The Politics of Corruption in Contemporary China: An Analysis of Policy Outcomes. Her most recent book, Preventing Corruption in Asia: Institutional Design and Policy Capacity (co-edited with Stephen K. Ma) was published by Routledge (UK) in 2009. She has also published extensively in political science and public administration journals. She was the recipient of grants and awards from the University Grants Committee of Hong Kong (RGC), J. William Fulbright Foundation, National Endowment for the Humanities, American Political Science Association, and American Association of University Women.
@@ -189,12 +178,8 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <i>The Education University of Hong Kong</i>
 
 -	<a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a> (hxiao@eduhk.hk) is Assistant Professor in the Department of Asian and Policy Studies (APS) of the Faculty of Liberal Arts and Social Sciences (FLASS) at The Education University of Hong Kong (EdUHK). Previously, he was a Visiting Fellow and Postdoctoral Fellow at City University of Hong Kong. Dr. Xiao’s current research interests include corruption and anti-corruption reform, public budgeting and the management of financial resources. He uses both qualitative and quantitative methods in conducting research. His recent publications appear in Governance, Social Indicators Research, Policy & Society, Public Administration and Development, Public Money & Management, and some Chinese journals. He obtained his PhD degree from City University of Hong Kong, and MA and BA degrees from Sun Yat-sen University in Guangzhou, China.
-</p>
-</details>
 
-<details>
-    <summary><b>Italy</b></summary>
-<p>
+###Italy
 
 <i>Università Tor Vergata, Rome</i>
 
@@ -203,53 +188,37 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <i>LUISS University</i>
 
 - <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance. He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office.
-</p>
-</details>
 
-<details>
-    <summary><b>The Netherlands</b></summary>
-<p>
+
+###The Netherlands
  
 <i>Vrije Universiteit Amsterdam</i>
 
 - <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a> (a.van.witteloostuijn@vu.nl) is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastrich University, the University of Durham, the Utrecht University, Cardiff Business School. As of 2015, he is a member of the Royal Netherlands Academy of Sciences (KNAW). He is a multitalented and highly productive researcher who is also active in political debate. The question that runs through all his work is why some institutions (in the broad sense of the word) are successful while others are not. Van Witteloostuijn’s interdisciplinary approach is unique; he combines insights from general economics, business economics, business science, and the social sciences in innovative studies that examine the behaviour and structure of organisations.
-</p>
-</details>
 
-<details>
-    <summary><b>Norway</b></summary>
-<p>
+###Norway
 
 <i>University of Oslo</i>
 
 -	<a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a> (kristoffer.kolltveit@stv.uio.no) is Associate Professor at the Department of Political Science, University of Oslo. "My main research interest has been how values and norms guide the decisions of bureaucrats. The CorPus-project gave me the opportunity the explore related issues through experimental research. In addition, CorPuS enables research cooperation across the world, and to establish ties with new colleagues."
-</p>
-</details>
 
-<details>
-    <summary><b>People's Republic of China</b></summary>
-<p>
+
+###People's Republic of China
  
 <i>Renmin University of China, Beijing</i>
 
 - <a href="http://nads.ruc.edu.cn/en/index.php?s=/Index/news_cont/id/305.html">Liang MA</a> (liangma@ruc.edu.cn) is Associate Professor at the School of Public Administration and Policy. "My research interests include organizational learning and innovation, performance measurement and management, and policy diffusion, with a specific focus on China. I am interested in joining this project for two reasons, substantive and methodological. I believe the China story should be part of the comparative study on corruption and anticorruption. Also, I want to learn cross-cultural experimental methods from this collaborative research."
-</p>
-</details>
 
-<details>
-    <summary><b>Spain</b></summary>
-<p>
- 
+
+###Spain
+
 <i>Universidad de Navarra</i>
 
 - <a href="https://sites.google.com/view/guillem-ripoll/home">Guillem Ripoll Pascual</a> (Guillem.Ripoll@unav.es) is an Assitant Professor at the University of Navarra (School of Economics and Business). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He is actively involved in the CorPuS project since April 2018 because “the topic is interesting, the methodological approach novel, and the colleagues terrific.”
-</p>
-</details>
 
-<details>
-    <summary><b>South Korea</b></summary>
-<p>
- 
+
+###South Korea
+
 <i>Korea University</i>
 
 - <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM </a> (dcshim@korea.ac.kr) <a/> is Assistant Professor at the Department of Public Administration at Korea University.
@@ -257,24 +226,18 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <i>Seoul National University of Science & Technology</i>
 
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
-</p>
-</details>
 
-<details>
-    <summary><b>Switzerland</b></summary>
-<p>
+
+###Switzerland
 
 <i>Universität Bern</i>
 
 -	<a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a> (adrian.ritz@kpm.unibe.ch) is Full Professor (Ordinarius) of Public Management at the KPM Center for Public Management at the University of Bern in Switzerland. His current research interests include leadership, motivation, performance, and human resource management in the public sector. His work has been published in journals such as e.g. Public Administration Review, Journal of Public Administration Theory and Research, Public Administration or Human Resource Management. He joined the project because of its comparative approach and his interest in experimental research in the field of motivation and behaviour in the public sector.
 
 -	<a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (kristina.weissmueller@kpm.unibe.ch) is a postdoc researcher and lecturer at the KPM Center for Public Management, University of Bern, Switzerland. Before joining KPM, she obtained her PhD (Dr. rer. pol.) at Prof. Dr. Rick Vogel’s chair for Public Management, University of Hamburg. She was a research associate at Helmut-Schmidt-Universität Hamburg, as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
-</p>
-</details>
 
-<details>
-    <summary><b>Taiwan</b></summary>
-<p>
+
+###Taiwan
 
 <i>National Taiwan University</i>
 
@@ -283,35 +246,19 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 -	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG (洪美仁)</a> (meijhung@ntu.edu.tw)  is Assistant Professor at the Department of Political Science and Graduate Institute of Public Affairs, National Taiwan University. Her teaching and research interests include bureaucracy, e-government, citizen participation, public private collaboration. She has served as a consultant to Taipei city government. Her publications appear in Australian Journal of Public Administration, Chinese Public Administration Review, and Journal of Dispute Resolution.
 
 -	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO (郭銘峰)</a> (mingfeng.kuo@gmail.com) is Assistant Professor at the Department of Political Science and Graduate Institute of Public Affairs, National Taiwan University, Taiwan. His research interests include public management, anticorruption studies, local governance, citizen participation, policy analysis, and applied econometrics. He received several academic awards in recent years, such as Best Article Awards in TASPAA and SCPA of ASPA. 
-</p>
-</details>
 
-<details>
-    <summary><b>United Kingdom (UK)</b></summary>
-<p>
+
+###United Kingdom (UK)
 
 <i>University of Southampton</i>
 
 - <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance. He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office.
-</p>
-</details>
-  <p align="left">
-  <img width="180" src="https://ksweissmueller.github.io/images/UK_Southampton.png" alt="University of Southampton">
-</p>
+  <p align="left"> <img width="150" src="https://ksweissmueller.github.io/images/UK_Southampton.png" alt="University of Southampton"></p>
 
 
-
-<details>
-    <summary><b>United States (US)</b></summary>
-<p>
+###United States (US)
 
 <i>Brigham Young University</i>
 
 - <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a> (rkc@byu.edu) is associate professor in Brigham Young University’s Romney Institute of Public Service and Ethics in the Marriott School. Rob’s research focuses on prosocial and antisocial behaviors in public service organizations. "I joined this project because my department has been working towards highlighting the critical intersection between public management and ethics. Government corruption remains one of the leading concerns in the world.  It is exciting to be part of work that seeks to understand and reduce public sector corruption."
-
-</p>
-</details>
-
-  <p align="left">
-  <img width="150" src="https://ksweissmueller.github.io/images/US_Brigham_Young_Uni.png" alt="Brigham Young University">
-</p>
+  <p align="left"> <img width="150" src="https://ksweissmueller.github.io/images/US_Brigham_Young_Uni.png" alt="Brigham Young University"></p>
