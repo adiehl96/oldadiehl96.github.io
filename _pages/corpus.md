@@ -145,7 +145,6 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 </p>
 </details>
 
-
 <details>
     <summary><b>Austria</b></summary>
 <p>
@@ -155,7 +154,6 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a> (dennis.hilgers@jku.at) is a professor of Public and Nonprofit Management at Johannes Kepler University (JKU) Linz and head of the Institute for Public and Nonprofit Management. His research focuses on managing innovation and performance in public administrations. 
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at) is a post‐doctoral researcher in the Institute for Public and Nonprofit Management at JKU Linz. She obtained her doctoral degree in business administration from JKU in 2018 with a paper-based dissertation on open government and the exploration and exploitation of external knowledge in the public sector. Her research interests include public innovation management, digital transformation, and accounting innovation.
 </details>
-
 
 <details>
     <summary><b>Belgium</b></summary>
@@ -245,7 +243,6 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://sites.google.com/view/guillem-ripoll/home">Guillem Ripoll Pascual</a> (Guillem.Ripoll@unav.es) is an Assitant Professor at the University of Navarra (School of Economics and Business). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He is actively involved in the CorPuS project since April 2018 because “the topic is interesting, the methodological approach novel, and the colleagues terrific.”
 </p>
 </details>
-
 
 <details>
     <summary><b>South Korea</b></summary>
