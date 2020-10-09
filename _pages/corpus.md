@@ -16,8 +16,8 @@ author_profile: true
 2. [Publications](#publications)
 3. [Consortium](#consortium)
     1. [Principal researchers & project managers](#principal_researchers)
-    2. [Collaborators (First wave 2018-)](#collaborators_wave1)
-    3. [Collaborators (Second wave 2020-)](#collaborators_wave2)
+    2. [Collaborators (first wave 2018- )](#collaborators_wave1)
+    3. [Collaborators (second wave 2020- )](#collaborators_wave2)
 
 
 
