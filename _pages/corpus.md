@@ -63,11 +63,12 @@ Publications <a name="publications"></a>
 Consortium <a name="consortium"></a>
 =======
 
-The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide.
+The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide in the first wave of the project. In 2020, we started raising data in five additional countries (second wave).
 
 
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
 <br/>
+The blue countries and regions are part of the first wave of the CorPuS project (2018-), the green countries joined for the second wave (2020-).
 
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
