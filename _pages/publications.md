@@ -20,6 +20,19 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   <li>De Waele, L. & <b>Weißmüller, K.S.</b> (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>].</li>
 </ol>  
 
+
+<h2>Other Publications</h2>
+
+<ol reversed>
+  <li><b>Weißmüller, K.S.</b> (2020). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+
+  <li><b>Weißmüller, K.S.</b> & Künzler, P. (2020). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+
+  <li><b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ Doctoral thesis at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
+
+  <li><b>Weißmüller, K.S.</b> (2019) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Master's thesis in Higher Education (M.A., *with distinction*) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
+</ol>
+
 <i>
   </i>
 <b>
@@ -28,12 +41,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-     
-**Weißmüller, K.S.** (2017). ‘Return of the Behavioral Paradigm? The Discourse on Nudging in Higher Education Research.’ *Higher Education Quarterly* (under review; 3-yr IF: 1.435), XX(X), XX-XX.
-     
-**Weißmüller, K.S.** (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ *Journal of Further and Higher Education* (revise & resubmit, 3-yr IF: 0.882), XX(X), XX-XX.
-
-**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (revise & resubmit, 3-yr IF: 3.473).
+**Weißmüller, K.S.** (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ *Public Management Review* (under review, 3-yr IF: 3.473).
 
 **Weißmüller, K.S.** & Vogel, R. (2019) ‘TRUST IN PPPs – A behavioral framing experiment on the effect of ‘publicness’ on strategic behavior.’ *Journal of Public Administration Research and Theory* (under review, 3-yr IF: 4.409), XX(X), XX-XX. 
 
@@ -43,19 +51,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 De Waele, L., **Weißmüller, K.S.**, & van Witteloostuijn, A. (20120). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ *Journal of Business Ethics* (under review, 3-yr IF: 3.796), XX(X), XX-XX.
 
-Ritz, A., Steijn, A., **Weißmüller, K.S.**, Alfes, K. (2020). ‘Critical Life Events as Antecedents of Engagement and Burnout among Public Employees.’ *Review of Public Personnel Administration* (under review, 3-yr IF: 3.327), XX(X), XX-XX.
 
-<h2>Other Publications</h2>
-
-<ol reversed>
-  <li><b>Weißmüller, K.S.</b> (in print). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
-
-  <li><b>Weißmüller, K.S.</b> & Künzler, P.(in print). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
-
-  <li><b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ Doctoral thesis at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
-
-  <li><b>Weißmüller, K.S.</b> (2019) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ Master's thesis in Higher Education (M.A., *with distinction*) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
-</ol>
 
 <h2>Conference Papers & Presentations</h2>
 
