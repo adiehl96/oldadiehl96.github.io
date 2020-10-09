@@ -119,7 +119,6 @@ a.van.witteloostuijn@vu.nl
 <br/>
 
 
-
 Collaborators (First wave 2018-) <a name="#collaborators_wave1"></a>
 --------
 <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a>, <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a>, <a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a>, <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a>, <a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a>, <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a>, <a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a>, <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a>, <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a>, <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a>, <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM</a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
@@ -268,6 +267,6 @@ Collaborators (First wave 2018-) <a name="#collaborators_wave1"></a>
 Collaborators (Second wave 2020-) <a name="#collaborators_wave2"></a>
 --------
 
-*work in progress*
+*(work in progress)*
 
 
