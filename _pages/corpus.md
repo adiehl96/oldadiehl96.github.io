@@ -302,3 +302,7 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 
 </p>
 </details>
+
+  <p align="left">
+  <img width="320" src="https://ksweissmueller.github.io/images/US_Brigham_Young_Uni.png" alt="Brigham Young University">
+</p>
