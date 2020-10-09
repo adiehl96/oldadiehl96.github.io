@@ -142,7 +142,7 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au) is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
 </p>
 </details>
-  <p align="left">  <img width="180" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="University of Southampton"></p>   <p align="left">  <img width="180" src="https://ksweissmueller.github.io/images/Australia_Melbourne.jpg" alt="University of Southampton"></p>   <p align="left">  <img width="180" src="https://ksweissmueller.github.io/images/Australia_Anzog.png" alt="University of Southampton"></p>
+<img width="150" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="University of Southampton"> <img width="150" src="https://ksweissmueller.github.io/images/Australia_Melbourne.jpg" alt="University of Southampton"><img width="150" src="https://ksweissmueller.github.io/images/Australia_Anzog.png" alt="University of Southampton">
 
 
 <details>
@@ -154,6 +154,8 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a> (dennis.hilgers@jku.at) is a professor of Public and Nonprofit Management at Johannes Kepler University (JKU) Linz and head of the Institute for Public and Nonprofit Management. His research focuses on managing innovation and performance in public administrations. 
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at) is a post‐doctoral researcher in the Institute for Public and Nonprofit Management at JKU Linz. She obtained her doctoral degree in business administration from JKU in 2018 with a paper-based dissertation on open government and the exploration and exploitation of external knowledge in the public sector. Her research interests include public innovation management, digital transformation, and accounting innovation.
 </details>
+<img width="150" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="Austria_JKULinz.jpg">
+
 
 <details>
     <summary><b>Belgium</b></summary>
@@ -311,5 +313,5 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 </details>
 
   <p align="left">
-  <img width="180" src="https://ksweissmueller.github.io/images/US_Brigham_Young_Uni.png" alt="Brigham Young University">
+  <img width="150" src="https://ksweissmueller.github.io/images/US_Brigham_Young_Uni.png" alt="Brigham Young University">
 </p>
