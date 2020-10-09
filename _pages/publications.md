@@ -24,9 +24,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h2>Other Publications</h2>
 
 <ol reversed>
-  <li><b>Weißmüller, K.S.</b> (2020). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li><b>Weißmüller, K.S.</b> (in print). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
-  <li><b>Weißmüller, K.S.</b> & Künzler, P. (2020). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li><b>Weißmüller, K.S.</b> & Künzler, P. (in print). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Fälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
   <li><b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
 
