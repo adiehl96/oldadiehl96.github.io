@@ -142,6 +142,17 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 - <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a> (j.oflynn@ANZSOG.edu.au) is Professor of Public Management at ANZSOG and the University of Melbourne. Her expertise is in public management, with particular focus on reform and relationships. This covers topics as diverse as the creation and evolution of public service markets to the design of performance management systems. Her latest work explores the intersection of public service markets and morality. Since 2015 she has been an editor of the Australian Journal of Public Administration. 
 </p>
 </details>
+  <p align="left">
+  <img width="180" src="https://ksweissmueller.github.io/images/Australia_UniWA.png" alt="University of Southampton">
+</p>
+  <p align="left">
+  <img width="180" src="https://ksweissmueller.github.io/images/Australia_Melbourne.jpg" alt="University of Southampton">
+</p>
+  <p align="left">
+  <img width="180" src="https://ksweissmueller.github.io/images/Australia_Anzog.png" alt="University of Southampton">
+</p>
+
+
 
 <details>
     <summary><b>Austria</b></summary>
