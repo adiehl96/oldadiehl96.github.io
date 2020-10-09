@@ -206,34 +206,50 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 </p>
 </details>
 
-### The Netherlands
+<details>
+    <summary><b>The Netherlands</b></summary>
+<p>
  
 <i>Vrije Universiteit Amsterdam</i>
 
 - <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a> (a.van.witteloostuijn@vu.nl) is Dean of the School of Business and Economics. He is also affiliated to the University of Antwerp. In his previous positions he has been affiliated to the Tilburg University, the University of Groningen, the Maastrich University, the University of Durham, the Utrecht University, Cardiff Business School. As of 2015, he is a member of the Royal Netherlands Academy of Sciences (KNAW). He is a multitalented and highly productive researcher who is also active in political debate. The question that runs through all his work is why some institutions (in the broad sense of the word) are successful while others are not. Van Witteloostuijn’s interdisciplinary approach is unique; he combines insights from general economics, business economics, business science, and the social sciences in innovative studies that examine the behaviour and structure of organisations.
+</p>
+</details>
 
-
-### Norway
+<details>
+    <summary><b>Norway</b></summary>
+<p>
 
 <i>University of Oslo</i>
 
 -	<a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a> (kristoffer.kolltveit@stv.uio.no) is Associate Professor at the Department of Political Science, University of Oslo. "My main research interest has been how values and norms guide the decisions of bureaucrats. The CorPus-project gave me the opportunity the explore related issues through experimental research. In addition, CorPuS enables research cooperation across the world, and to establish ties with new colleagues."
+</p>
+</details>
 
-
-### People's Republic of China
+<details>
+    <summary><b>People's Republic of China</b></summary>
+<p>
  
 <i>Renmin University of China, Beijing</i>
 
 - <a href="http://nads.ruc.edu.cn/en/index.php?s=/Index/news_cont/id/305.html">Liang MA</a> (liangma@ruc.edu.cn) is Associate Professor at the School of Public Administration and Policy. "My research interests include organizational learning and innovation, performance measurement and management, and policy diffusion, with a specific focus on China. I am interested in joining this project for two reasons, substantive and methodological. I believe the China story should be part of the comparative study on corruption and anticorruption. Also, I want to learn cross-cultural experimental methods from this collaborative research."
+</p>
+</details>
 
-
-### Spain
+<details>
+    <summary><b>Spain</b></summary>
+<p>
  
 <i>Universidad de Navarra</i>
 
 - <a href="https://sites.google.com/view/guillem-ripoll/home">Guillem Ripoll Pascual</a> (Guillem.Ripoll@unav.es) is an Assitant Professor at the University of Navarra (School of Economics and Business). His research revolves around the expansion of the concept of public service motivation; specifically, he investigates the relationship between motivation and ethics. He is actively involved in the CorPuS project since April 2018 because “the topic is interesting, the methodological approach novel, and the colleagues terrific.”
+</p>
+</details>
 
-### South Korea
+
+<details>
+    <summary><b>South Korea</b></summary>
+<p>
  
 <i>Korea University</i>
 
@@ -242,18 +258,24 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 <i>Seoul National University of Science & Technology</i>
 
 - <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a> (smook@seoultech.ac.kr)
+</p>
+</details>
 
-
-### Switzerland
+<details>
+    <summary><b>Switzerland</b></summary>
+<p>
 
 <i>Universität Bern</i>
 
 -	<a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a> (adrian.ritz@kpm.unibe.ch) is Full Professor (Ordinarius) of Public Management at the KPM Center for Public Management at the University of Bern in Switzerland. His current research interests include leadership, motivation, performance, and human resource management in the public sector. His work has been published in journals such as e.g. Public Administration Review, Journal of Public Administration Theory and Research, Public Administration or Human Resource Management. He joined the project because of its comparative approach and his interest in experimental research in the field of motivation and behaviour in the public sector.
 
 -	<a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html">Kristina S. Weißmüller</a> (kristina.weissmueller@kpm.unibe.ch) is a postdoc researcher and lecturer at the KPM Center for Public Management, University of Bern, Switzerland. Before joining KPM, she obtained her PhD (Dr. rer. pol.) at Prof. Dr. Rick Vogel’s chair for Public Management, University of Hamburg. She was a research associate at Helmut-Schmidt-Universität Hamburg, as well as an external lecturer at the University of Hamburg where she specialized in behavioral economics and experimental research methods. Her main research interest lies in the micro-foundations of corruption, strategic public management under risk (uncertainty and complexity) in PPPs, public service values and motivation, and fallacies of dysfunctional collaboration across sectors. Prior research projects addressed the psychological effects of public sector idiosyncrasies on individuals’ behavior – e.g. regarding risk taking, negotiation, PSM and leadership in higher education, as well as blaming, shaming, and accountability in public-private partnerships – with behavioral and economic research methods.
+</p>
+</details>
 
-
-### Taiwan
+<details>
+    <summary><b>Taiwan</b></summary>
+<p>
 
 <i>National Taiwan University</i>
 
@@ -262,14 +284,18 @@ Collaborators (First wave 2018 - 2021) <a name="collaborators"></a>
 -	<a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG (洪美仁)</a> (meijhung@ntu.edu.tw)  is Assistant Professor at the Department of Political Science and Graduate Institute of Public Affairs, National Taiwan University. Her teaching and research interests include bureaucracy, e-government, citizen participation, public private collaboration. She has served as a consultant to Taipei city government. Her publications appear in Australian Journal of Public Administration, Chinese Public Administration Review, and Journal of Dispute Resolution.
 
 -	<a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO (郭銘峰)</a> (mingfeng.kuo@gmail.com) is Assistant Professor at the Department of Political Science and Graduate Institute of Public Affairs, National Taiwan University, Taiwan. His research interests include public management, anticorruption studies, local governance, citizen participation, policy analysis, and applied econometrics. He received several academic awards in recent years, such as Best Article Awards in TASPAA and SCPA of ASPA. 
+</p>
+</details>
 
-
-### United Kingdom (UK)
+<details>
+    <summary><b>United Kingdom (UK)</b></summary>
+<p>
 
 <i>University of Southampton</i>
 
 - <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a> (fhomberg@luiss.it) is Associate Professor of Human Resource Management and Organisational Behaviour at LUISS Business School. His current research interests are public service motivation and incentives in private and public sector organizations. He has also been involved in research projects on top management team diversity, motivation, and recently small scale corruption. Among others his research has appeared in Organization Studies, Group and Organization Management, Public Administration Review, Public Administration, Journal of Business Ethics, International Journal of Manpower, American Review of Public Administration and Journal of Management and Governance. He holds a doctorate from the University of Zurich, Switzerland. He has won several grants including funding from the Swiss National Science Foundation, the British Academy and the UK Intellectual Property Office.
-
+</p>
+</details>
 
 <details>
     <summary><b>United States (US)</b></summary>
