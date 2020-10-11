@@ -45,9 +45,10 @@ Essays on Teaching <a name="Teaching-essay"></a>
 -------
 
 I wrote some opinion pieces on teaching in higher education: 
-
-* Weißmüller, K.S. (2020). "Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal & Realität" [Link](https://ksweissmueller.github.io/files/Weissmueller_2020_3_Thesen_Hochschuldidaktik.pdf).
-* Weißmüller, K.S. (2020). "Zwei Thesen zum disruptiven Potential von OER für öffentliche Hochschulen" *Impact Free: Journal für freie Bildungswissenschaftler, 28*, 1-9, Hamburg [Link](https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf).
+<ol>
+  <li value="2"> <b>Weißmüller, K.S.</b> (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität.’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf">Print version</a>]</li> 
+  <li  value="1"> <b>Weißmüller, K.S.</b> (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf">Print version</a>]</li> 
+</ol> 
 
 Feel free to let me know what you think!  <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
 
