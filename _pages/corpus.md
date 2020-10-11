@@ -58,7 +58,8 @@ Publications <a name="publications"></a>
 
 **IV: Documentation and Dissemination**
 
-1. van Witteloostuijn, A., Weißmüller, K.S., & De Waele, L. (2019). ‘Data Governance and Publication Rules.’
+1. van Witteloostuijn, A., Weißmüller, K.S. (2019). ‘Data Governance and Publication Rules.’
+2. Weißmüller, K.S. (2020). ‘Documentation of Study Variables, Data Usage & Call for Proposals.’
 <br/>
 
 
