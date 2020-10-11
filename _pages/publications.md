@@ -23,6 +23,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Other Publications</h2>
 
+0. first item
+0. second item
+0. third item
+{: reversed="reversed"}
+
+
+
 <ol reversed>
   <li><b>Weißmüller, K.S.</b> (in print). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Fälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
