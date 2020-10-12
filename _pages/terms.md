@@ -56,7 +56,7 @@ Phone: +41 (0)31 631 47 68
 
 Mail: <a href="mailto:Kristina.weissmueller@kpm.ch">Kristina.weissmueller@kpm.ch</a>
 
-<span class="tsmcontroller">Link zum Impressum: https://ksweissmueller.wordpress.com/contact/</span>
+<span class="tsmcontroller">Link zum Impressum: https://www.ksweissmueller./contact/</span>
 
  
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3>
