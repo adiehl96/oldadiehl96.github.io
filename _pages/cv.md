@@ -51,6 +51,7 @@ Ad-hoc Reviewer for:
 * *Public Administration* (PA)
 * *Public Administration Review* (PAR)
 * *Public Management Review* (PMR)
+* *Review of Public Personnel Management* (RoPPA)
 
 
 Languages
