@@ -49,9 +49,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <li value="3"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i> (under review, 3-yr IF: 2.207), XX(X), XX-XX.</li>
 
-<li value="2"><b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ <i>Review of Public Personnel Administration</i> (under review, 3-yr IF: 3.327), XX(X), XX-XX.</li>
+<li value="2">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796), XX(X), XX-XX.</li>
 
-<li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796), XX(X), XX-XX.</li>
+<li value="1"><b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (2018). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’ <i>Review of Public Personnel Administration</i> (under review, 3-yr IF: 3.327), XX(X), XX-XX.</li>
 </ol>
 
 
