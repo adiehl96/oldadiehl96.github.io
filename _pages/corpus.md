@@ -143,10 +143,12 @@ Collaborators (First wave 2018-) <a name="collaborators_wave1"></a>
 
 **Austria**
     
-<i>Johannes Keppler Universität Linz</i>
+<i>Johannes Kepler Universität Linz</i>
 
 - <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a> (dennis.hilgers@jku.at) is a professor of Public and Nonprofit Management at Johannes Kepler University (JKU) Linz and head of the Institute for Public and Nonprofit Management. His research focuses on managing innovation and performance in public administrations. 
-- <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at) is a post‐doctoral researcher in the Institute for Public and Nonprofit Management at JKU Linz. She obtained her doctoral degree in business administration from JKU in 2018 with a paper-based dissertation on open government and the exploration and exploitation of external knowledge in the public sector. Her research interests include public innovation management, digital transformation, and accounting innovation.
+
+<i>Vienna University of Economics and Business (WU Wien)</i>
+- <a href="https://www.wu.ac.at/pubmgt/team/14">Lisa Schmidthuber</a> (lisa.schmidthuber@jku.at) is a post‐doctoral researcher at the Department of Management’s Institute for Public Management and Governance at Vienna University of Economics and Business (WU Wien). She obtained her doctoral degree in business administration from Johannes Kepler Universität, Linz, in 2018 with a paper-based dissertation on open government and the exploration and exploitation of external knowledge in the public sector. Her research interests include public innovation management, digital transformation, and accounting innovation.
 
 
 **Belgium**
