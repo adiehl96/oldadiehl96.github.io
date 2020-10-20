@@ -11,12 +11,17 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Peer-Reviewed Journal Articles</h2>
 
-<ol>
+<ol reversed>
     <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. (forthcoming). 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
+    
     <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (forthcoming). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>.
+    
     <li value="4"> <b>Weißmüller, K.S.</b> (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität.’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf">Print version</a>]</li> 
+    
   <li  value="3"> <b>Weißmüller, K.S.</b> (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf">Print version</a>]</li> 
+  
   <li  value="2">Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S.</b> (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
+  
   <li  value="1">De Waele, L. & <b>Weißmüller, K.S.</b> (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>].</li>
 </ol>  
 
@@ -32,6 +37,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   <li value="2"><b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
 
   <li value="1"><b>Weißmüller, K.S.</b> (2019) ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
+
 </ol>
 
 <i>
