@@ -11,6 +11,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h2>Peer-Reviewed Journal Articles</h2>
 
+
 <ol reversed>
     <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. (forthcoming). 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
     <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (forthcoming). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. 
@@ -104,8 +105,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <li  value="6"><b>Weißmüller, K.S.</b> (2016). ‘Time perceptions and cross-sectoral team efficiency: Experimental evidence on sector-specific delay discounting behavior.’ <i>2016 IIAS-IASIA Joint Congress, 20.-23.09.2016, Chengdu, PR China</i>.</li> 
 
 <li  value="5"><b>Weißmüller, K.S.</b> (2016). ‘Delay and probability discounting in pathological gamblers with and without a history of mental disorder.’ <i>Deutscher Suchtkongress 2016, 05.-07.09.2016, Berlin, Germany</i>, [<a href="https://ksweissmueller.github.io/files/2016_DGS_Poster_KW.pdf">Poster</a>].
-    
-    
+        
 <li  value="4"><b>Weißmüller, K.S.</b> (2016). ‘Experimental evidence on asymmetries in delay discounting between public and private sector employees.’ <i>European Group for Public Administration (EGPA) Annual Conference, nominee for best paper award, 24.-26.08.2016, Utrecht, Netherlands</i>.</li>
 
 <li  value="3"><b>Weißmüller, K.S.</b> (2016). ‘The Grass is Greener on the Other Side: Experimental Evidence on the Asymmetric Nature of the Anti-Public Sector Bias and the Heuristic Formation of Public Opinion.’ <i>IPSA 24th World Congress of Political Sciences, 23.-28.07.2016, Poznan, Poland</i>.</li>
