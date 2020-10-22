@@ -58,7 +58,7 @@ M.A.-level Courses <a name="MA-level"></a>
 -------
 
 * ‘**Corruption & Deviant Behavior in the Public Sector**’, *M.Sc. Interdisciplinary Public and Nonprofit Studies*, full seminar teaching (fall 2020; class size: 30 students), University of Hamburg, Faculty of Business, Economics and Social Sciences, Hamburg, Germany.
-* ‘**Behavioral & Experimental Public Management Research****’, *M.A. Public Management and Policy*, seminar co-teaching (fall 2020; class size: 10 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
+* ‘**Behavioral & Experimental Public Management Research**’, *M.A. Public Management and Policy*, seminar co-teaching (fall 2020; class size: 10 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Comparative Public Administration and Public Policy in Europe and Beyond**’, *M.A. Public Management and Policy*, seminar co-teaching (spring 2020; class size: 15 students); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Leadership & Motivation in the public sector**’, *M.A. Public Management and Policy*, seminar co-teaching (autumn 2019); Universities of Bern, Lausanne, and Lugano, Switzerland.
 * ‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (MPA)*, full lecture teaching (autumn 2019; class size: 40); Universities of Bern, Lausanne, and Lugano, Switzerland.
