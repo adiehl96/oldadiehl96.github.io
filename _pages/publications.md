@@ -46,13 +46,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 <ol>
-<li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i> (under review, 3-yr IF: 4.409), XX(X), XX-XX. </li>
+<li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i> (under review, 3-yr IF: 4.409). </li>
 
 <li value="3"><b>Weißmüller, K.S.</b> (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ <i>Public Management Review</i> (under review, 3-yr IF: 3.473).</li>
 
-<li value="2"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i> (under review, 3-yr IF: 2.207), XX(X), XX-XX.</li>
+<li value="2"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i> (under review, 3-yr IF: 2.207).</li>
 
-<li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796), XX(X), XX-XX.</li>
+<li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796).</li>
 
 </ol>
 
