@@ -30,6 +30,9 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 * *Click here for research objectives and more information:* <a href="http://www.ksweissmueller.com/corpus/">CorPuS</a>
 
+* *Related publications*: 
+1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ *Under review*.
+
 <br/>
 
 # Public Service Motivation in University Students <a name="PSM-students"></a>
@@ -61,8 +64,8 @@ PPPs are extremely powerful organizational arrangements that allow the sharing o
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
 
 * *Related publications*: 
-   1. **Weißmüller, K.S.** (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_2019_publicness.pdf">Publicness and micro-level Risk Behaviour - Experimental Evidence on stereotypical Discounting Behaviour</a>. *Under review*.
-   2. **Weißmüller, K.S.** & Vogel, R. (forthcoming). Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game. *Journal of Public Administration Research and Theory*.
+   1. **Weißmüller, K.S.** & Vogel, R. (forthcoming). Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game. *Journal of Public Administration Research and Theory*.
+   2. **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (forthcoming). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ *Review of Public Personnel Administration*.
    3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_Bouwman_Vogel_2019_negotiation.pdf">Negotiation in Public-Private Partnerships - A laboratory experiment on context, domain, and PSM</a>. *Under review*.
-   4. **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (forthcoming). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ *Review of Public Personnel Administration*.
-  5. **Weißmüller, K.S.** (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ Doctoral thesis at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.
+   4. **Weißmüller, K.S.** (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_2019_publicness.pdf">Publicness and micro-level Risk Behaviour - Experimental Evidence on stereotypical Discounting Behaviour</a>. *Under review*.
+   5. **Weißmüller, K.S.** (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ *Doctoral thesis* at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.
