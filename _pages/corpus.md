@@ -8,10 +8,8 @@ author_profile: true
 
 **A multi-country experimental study researching corruption in the public sector worldwide**    
 
-<img src="https://ksweissmueller.github.io/files/CorPuS.png">
+[<img src="https://ksweissmueller.github.io/files/CorPuS.png">](http://www.corpus-project.org/)
 
-
-Link to project website: <a href="http://www.corpus-project.org/">CorPuS</a>
 
 Public sector corruption is a critical yet severely understudied phenomenon worldwide. The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. 
 
@@ -27,6 +25,7 @@ On the map below, the blue countries and regions are part of the first wave of t
   <img width="720" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries"></p>
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
+Follow this link to the project website: <a href="http://www.corpus-project.org/">CorPuS</a>
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
