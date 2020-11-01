@@ -11,7 +11,7 @@ main:
     url: /researchprojects/  
 
   - title: "CorPuS Project"
-    url: www.corpus-project.org  
+    url: <a href="www.corpus-project.org" target="_top">CorPuS Project</a>
     
   - title: "Teaching"
     url: /teaching/
