@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Corruption in the Public Sector (CorPuS)"
-permalink: /corpus/
+permalink: /old_corpus/
 author_profile: true
 ---
 
