@@ -13,9 +13,6 @@ author_profile: true
 
 
 
-Consortium <a name="consortium"></a>
-=======
-
 Public sector corruption is a critical yet severely understudied phenomenon worldwide. The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. 
 
   <p align="center">
