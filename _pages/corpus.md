@@ -28,10 +28,12 @@ On the map below, the blue countries and regions are part of the first wave of t
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
 
+
+
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
 <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>, KPM Center for Public Management, Universität Bern, Switzerland<br/>
-<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>, Universiteit Antwerpen, Belgium
+<a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>, Universiteit Antwerpen, Belgium<br/>
 <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>, School of Business and Economics, Vrije Universiteit Amsterdam, The Netherlands
 
 
