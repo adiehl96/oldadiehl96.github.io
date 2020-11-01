@@ -27,19 +27,14 @@ The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and
 On the map below, the blue countries and regions are part of the first wave of the CorPuS project (2018-), the green countries joined for the second wave (2020-).
 
   <p align="center">
-  <img width="720" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries">
-</p>
-
+  <img width="720" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries"></p>
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
-
 <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>, KPM Center for Public Management, Universität Bern, Switzerland<br/>
-
 <a href="https://www.uantwerpen.be/en/staff/lode-dewaele/">Lode De Waele</a>, Universiteit Antwerpen, Belgium
-
 <a href="https://research.vu.nl/en/persons/a-van-witteloostuijn">Arjen van Witteloostuijn</a>, School of Business and Economics, Vrije Universiteit Amsterdam, The Netherlands
 
 
