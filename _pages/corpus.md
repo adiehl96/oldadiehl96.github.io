@@ -12,56 +12,6 @@ author_profile: true
 
 
 
-1. [Project Goals and Objectives](#project_goal)
-2. [Publications](#publications)
-3. [Consortium](#consortium)
-    1. [Principal researchers & project managers](#principal_researchers)
-    2. [Collaborators (first wave 2018- )](#collaborators_wave1)
-    3. [Collaborators (second wave 2020- )](#collaborators_wave2)
-
-
-
-Project Goals and Objectives <a name="project_goal"></a>
-=======
-
-Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
-
-  <p align="center">
-  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
-</p>
-
-The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insights and collect rich evidence about a few of the main underlying mechanisms of corruption and their interaction at the micro, meso, and macro level of behavior by conducting rigorous experimental research in fifteen countries.
-
-Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
-<br/><br/>
-
-
-Publications <a name="publications"></a>
-=======
-
-**I: Pilot Studies**
-
-1. De Waele, L. & Weißmüller, K.S. (2019). ‘<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.</a>’ *Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)* 24 (2): 43-56.
-2. Weißmüller, K.S., De Waele, L., van Witteloostuijn, A. (2020). ‘PUBLIC SERVICE MOTIVATION AND PRO-SOCIAL RULE-BREAKING – An international vignettes study in Belgium, Germany, and the Netherlands.’</a> *Review of Public Personnel Administration*.
-3. Weißmüller, K.S. & De Waele, L. (2019). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_Would_you_bribe_your_lecturer.pdf">‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’</a> *Under review*.
-4. De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). 'BRIBERY TOLERANCE: THE ROLE OF IMPLICIT AND EXPLICIT SOCIAL MOTIVATIONS - A multi-site experimental study in Belgium, Germany, and the Netherlands.' *Under review*.
-
-**II: Micro-level Studies**
-
-1. Ritz, A., Weißmüller, K.S., De Waele, L. & van Witteloostuijn, A. *et al.* (2019). <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’</a> Plenary Keynote, ‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA.
-2. Weißmüller, K.S., van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). 'MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project.' *Under review.*
-
-**III: Macro-level & Meta-Studies**
-
-1. Weißmüller, K.S. & Zuber, A. (2020). ‘Behavioral Micro-foundations of Corruption - A Systematic Review.’ *Working paper*. 
-2. Matić, M. & Weißmüller, K.S. (2020). ‘Pro-social Rule Breaking in Street-level Bureaucrats: Antecentes and Motives.’ *Working paper*.
-
-**IV: Documentation and Dissemination**
-
-1. van Witteloostuijn, A., Weißmüller, K.S. (2019). ‘Data Governance and Publication Rules.’
-2. Weißmüller, K.S. (2020). ‘Documentation of Study Variables, Data Usage & Call for Proposals.’
-<br/>
-
 
 Consortium <a name="consortium"></a>
 =======
@@ -125,4 +75,24 @@ Collaborators (First wave 2018-) <a name="collaborators_wave1"></a>
 <a href="https://www.anzsog.edu.au/about/contact-directory/catherine-althaus">Catherine Althaus</a>, <a href="https://marriottschool.byu.edu/directory/details?id=36271">Robert K. Christensen</a>, <a href="https://scholars.cityu.edu.hk/en/persons/ting-gong(d7df4bfc-052e-4904-bf59-b945cad92635).html">Ting GONG</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/hilgers/">Dennis Hilgers</a>, <a href="http://impresaemanagement.luiss.it/docenti/cv/353465">Fabian Homberg</a>, <a href="http://politics.ntu.edu.tw/english/?p=8832">Mei-Jen HUNG</a>, <a href="http://itpolicy.seoultech.ac.kr/hcm/plugin/prof2/detail.jsp?menu=9070&lang=en&id=02263">Sang-Mook KIM </a>, <a href="https://www.sv.uio.no/isv/english/people/aca/kristoffer-kolltveit/index.html">Kristoffer Kolltveit</a>, <a href="http://politics.ntu.edu.tw/english/?p=12196">Ming-Feng KUO</a>, <a href="http://unimelb.academia.edu/JennyLewis">Jenny Lewis</a>, <a href="https://economia.uniroma2.it/faculty/76/monteduro-fabio">Fabio Monteduro</a>, <a href="https://www.anzsog.edu.au/about/contact-directory/janine-o-flynn">Janine O’Flynn</a>, <a href="http://cpa.uab.cat/index.php/en/ripoll-pascual-guillem">Guillem Ripoll Pascual</a>, <a href="http://www.kpm.unibe.ch/contact/personen/geschaeftsleitung/prof_dr_ritz_adrian/index_eng.html">Adrian Ritz</a>, <a href="https://www.jku.at/institut-fuer-public-und-nonprofit-management/ueber-uns/team/schmidthuber/">Lisa Schmidthuber</a>, <a href="https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36671&article.offset=0&articleLimit=200">Dong Chul SHIM</a>, <a href="http://politics.ntu.edu.tw/english/?p=147">Tsai-tsu SU</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jeannette-taylor">Jeannette Taylor</a>, <a href="https://www.cityu.edu.hk/pol/faculty_academic_teaching_detail.asp?id=5">Richard Walker</a>, <a href="https://www.eduhk.hk/aps/people/dr-hanyu-xiao/">Hanyu XIAO</a>, & <a href="https://scholars.cityu.edu.hk/en/persons/litianqing-yang(e2b0f421-b4bc-450a-9b8a-dfb5950d058a).html">Sunny Litianqing YANG</a>.
 
 
+
+
+
+
+
+
+
+Project Goals and Objectives <a name="project_goal"></a>
+=======
+
+Public sector corruption is a critical yet severely understudied phenomenon in Public Administration (PA). Prior studies have shown that public sector corruption – e.g., in the form of bribery and rule-breaking – causes inequality in access to public services. This inefficient allocation of resources and lack of accessibility equity seriously undermine the public’s trust in government and other public institutions (Getz & Volkema 2001). Researchers trying to examine the origins of public sector corruption traditionally use three different lenses, assuming that (1) the institutional context is accountable (Navot, Reingewertz, & Cohen 2016), (2) the organization is the key driving force (Frost & Tischer 2014), or (3) individual character traits determine deviant behavior (Bolino & Grant 2016). To date, there is neither sufficient empirical evidence supporting either lens, nor a unified theory of public sector corruption.
+
+  <p align="center">
+  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
+</p>
+
+The *Public Sector Corruption (CorPuS)* project aims to advance theoretical insights and collect rich evidence about a few of the main underlying mechanisms of corruption and their interaction at the micro, meso, and macro level of behavior by conducting rigorous experimental research in fifteen countries.
+
+Following recent calls by van Witteloostuijn (2016) and Walker, Lee, and James (2017) for more experimental work, we account for context effects by replicating our experimental study within different sets of countries, organizations, and populations. That is, our study involves a multi-lab design that involves replication and meta-analysis, employing both the method of agreement and difference (Walker et al. 2018). Furthermore, we hope to derive practical advice for public sector managers on ways to prevent corruption.
+<br/><br/>
 
