@@ -16,7 +16,13 @@ author_profile: true
 Consortium <a name="consortium"></a>
 =======
 
-Public sector corruption is a critical yet severely understudied phenomenon worldwide. The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide in the first wave of the project. In 2020, we started raising data in five additional countries (second wave).
+Public sector corruption is a critical yet severely understudied phenomenon worldwide. The CorPuS project is a non-commercial, non-commissioned pro-bono scientific research project driven by an international network of academic researchers who are passionate about understanding public sector corruption and about finding effective solutions for practice. 
+
+  <p align="center">
+  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
+</p>
+
+The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide in the first wave of the project. In 2020, we started raising data in five additional countries (second wave).
 
 On the map below, the blue countries and regions are part of the first wave of the CorPuS project (2018-), the green countries joined for the second wave (2020-).
 ![alt text](https://ksweissmueller.github.io/files/CorPuS_world.png "CorPuS Partner Countries")
@@ -26,7 +32,6 @@ Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kr
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
-
 
 <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/weissmueller_kristina/index_eng.html/">Kristina S. Weißmüller</a>, KPM Center for Public Management, Universität Bern, Switzerland<br/>
 
@@ -43,7 +48,5 @@ Collaborators (First wave 2018-) <a name="collaborators_wave1"></a>
 
 
 
-  <p align="center">
-  <img width="320" src="https://ksweissmueller.github.io/files/corpus-logo_horizontal.png" alt="CorPuS logo">
-</p>
+
 
