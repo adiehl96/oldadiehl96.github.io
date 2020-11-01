@@ -10,8 +10,5 @@ main:
   - title: "Research Projects"
     url: /researchprojects/  
 
-  - title: "CorPuS Project"
-    url: /corpus-link/
-    
   - title: "Teaching"
     url: /teaching/
