@@ -29,6 +29,8 @@ Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kr
 
 
 
+*Click here for research objectives and more information:* <a href="http://www.corpus-project.org/">CorPuS</a>
+
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
