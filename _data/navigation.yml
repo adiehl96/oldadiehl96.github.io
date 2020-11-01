@@ -9,6 +9,9 @@ main:
        
   - title: "Research Projects"
     url: /researchprojects/  
+    
+  - title: "CorPuS Project"
+    url: /corpus/ 
 
   - title: "Teaching"
     url: /teaching/
