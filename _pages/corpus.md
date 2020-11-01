@@ -27,7 +27,7 @@ The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and
 On the map below, the blue countries and regions are part of the first wave of the CorPuS project (2018-), the green countries joined for the second wave (2020-).
 
   <p align="center">
-  <img width="320" src="https://ksweissmueller.github.io/files/CorPuS_world.pn" alt="CorPuS countries">
+  <img width="320" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries">
 </p>
 <br/>
 
