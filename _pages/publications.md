@@ -12,7 +12,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h2>Peer-Reviewed Journal Articles</h2>
 
 
-<ol reversed>
+<ol>
     <li  value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. (forthcoming). 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
     <li  value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (forthcoming). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. 
     <li  value="4"> <b>Weißmüller, K.S.</b> (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität.’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf">Print version</a>]. </li> 
