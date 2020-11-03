@@ -25,7 +25,7 @@ On the map below, the blue countries and regions are part of the first wave of t
   <img width="720" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries"></p>
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
-Follow this link to the project website: <a href="http://www.corpus-project.org/">CorPuS</a>
+Follow this link to the project website: <a href="http://www.corpus-project.org/">http://www.corpus-project.org/</a>
 
 Principal researchers & project managers <a name="principal_researchers"></a>
 --------
