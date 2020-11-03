@@ -20,7 +20,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <li value="2"> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S.</b> (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
 <li value="1"> De Waele, L. & <b>Weißmüller, K.S.</b> (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]. </li>
 
-
+</ol>
 
 
 <h2>Other Publications</h2>
