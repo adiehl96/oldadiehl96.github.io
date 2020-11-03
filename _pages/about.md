@@ -10,16 +10,10 @@ redirect_from:
 
 Hi!
 
-I am a scholar and lecturer of (behavioral) public administration and management, specialized in quantitative-experimental and qualitative mixed-methods research. Specifically, my research interest lies in issues of sustainable public management under risk (uncertainty & complexity), fallacies of dysfunctional collaboration across sectors, and the micro-foundations of organizational corruption. For instance, I research the psychological effects of public sector idiosyncrasies on individuals’ strategic choice – i.e. in situations of negotiation and accountability – to find out why, too often, public-private partnerships fail and what can be done about it.
+I am a scholar and lecturer of (behavioral) public administration and management at the University of Bern in the KPM Center for Public Management. Co-initiator and principal investigator of the multi-national CorPuS research project. I specialized in quantitative-experimental and qualitative mixed-methods research. 
+I study (1) public sector corruption – bribery and rule breaking – from a behavioral perspective, (2) the role of risk, uncertainty, and publicness in strategic decision making, for instance, in public-private partnerships, (3) the idiosyncrasies of public personnel motivation and leadership, (4) the role of complexity and cognitive biases in human decision making, e.g. in higher education, policy making, strategic negotiation, and consumption.
 
-Research interests: 
-* Public sector corruption and motivation.
-* Public-private partnerships, trust, and public sector negotiation.
-* Strategic management and leadership under risk and complexity.
-* Law and economics of policy, higher education, and consumption.
-* Behavioral public administration; experimental and psycho-physiological research methods.
-
-Currently, I am conducting a multi-national study to reveal the micro-foundations of public sector corruption and institutional deviance (<a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS</a>).
+Currently, I focus on conducting a multi-national study to reveal the micro-foundations of public sector corruption and institutional deviance (<a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS project</a>).
 
 Best,
 
