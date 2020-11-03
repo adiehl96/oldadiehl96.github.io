@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-An overview of my publications can also be found on <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de">Google Scholar</a> and my <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de">CV</a>.
+An overview of my publications can also be found on <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de">Google Scholar</a> and my <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">CV</a>.
 
 
 
