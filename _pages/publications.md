@@ -10,7 +10,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 Peer-Reviewed Journal Articles
--------------------------------
+------------------------------
 
 <ol>
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. (forthcoming). 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
@@ -19,7 +19,6 @@ Peer-Reviewed Journal Articles
 <li value="3"> <b>Weißmüller, K.S.</b> (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf">Print version</a>]. </li> 
 <li value="2"> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S.</b> (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
 <li value="1"> De Waele, L. & <b>Weißmüller, K.S.</b> (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]. </li>
-
 </ol>
 
 
@@ -37,14 +36,11 @@ Other Publications
 
 </ol>
 
-<i>
-  </i>
 <b>
   </b>
+  
 ...(under review)... 
 -------------------------------
-
-
 
 <ol>
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i> (under review, 3-yr IF: 4.409). </li>
@@ -60,6 +56,7 @@ Other Publications
 
 Conference Papers & Presentations
 -------------------------------
+
 <ol>
 <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
