@@ -1,12 +1,15 @@
 ---
+layout: archive
+title: " "
 permalink: /contact/
-title: "Contact"
-excerpt: "contact"
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
+redirect_from:
+  - /contact
 ---
+
+
+
+
 
 Contact
 --------
