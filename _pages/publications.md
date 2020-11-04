@@ -9,8 +9,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-<h2>Peer-Reviewed Journal Articles</h2>
-
+Peer-Reviewed Journal Articles
+-------------------------------
 
 <ol>
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. (forthcoming). 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
@@ -23,8 +23,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 </ol>
 
 
-<h2>Other Publications</h2>
-
+Other Publications
+-------------------------------
 
 <ol>
   <li  value="4"><b>Weißmüller, K.S.</b> (in print). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
@@ -41,7 +41,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   </i>
 <b>
   </b>
-<h2>...(under review)... </h2>
+...(under review)... 
+-------------------------------
 
 
 
@@ -57,8 +58,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 </ol>
 
 
-<h2>Conference Papers & Presentations</h2>
-
+Conference Papers & Presentations
+-------------------------------
 <ol>
 <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
