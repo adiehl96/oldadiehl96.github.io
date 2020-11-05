@@ -12,7 +12,6 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 Peer-Reviewed Journal Articles
 ======
 
-<ol>
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(forthcoming)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
   
 <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. 
@@ -24,14 +23,13 @@ Peer-Reviewed Journal Articles
 <li value="2"> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S. (2019)</b>. ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
 
 <li value="1"> De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]. </li>
-</ol>
+
 
 
 
 Other Publications
 ======
 
-<ol>
   <li  value="4"><b>Weißmüller, K.S. (in print)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
   <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (in print)</b>. ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Praxisfälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
@@ -40,15 +38,11 @@ Other Publications
 
   <li value="1"><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
 
-</ol>
-
-<b>
-  </b>
   
 ...(under review)... 
 ======
 
-<ol>
+
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i> (under review, 3-yr IF: 4.409). </li>
 
 <li value="3"><b>Weißmüller, K.S.</b> (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ <i>Public Management Review</i> (under review, 3-yr IF: 3.473).</li>
@@ -57,13 +51,12 @@ Other Publications
 
 <li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796).</li>
 
-</ol>
+
 
 
 Conference Papers & Presentations
 ======
 
-<ol>
 <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
 <li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presenta-tion at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
@@ -115,5 +108,4 @@ Conference Papers & Presentations
 <li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘<a href="https://ksweissmueller.github.io/files/Weissmueller_2016_IRSPM_Asymmetries_in_risk_preferences_and_risk_behavior.pdf">Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.</a>’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
 
 <li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li></li>
-</ol>
 
