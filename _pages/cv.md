@@ -44,7 +44,7 @@ Memberships
 * *Public Management Research Association* (PMRA).
   
   
-Ad-hoc Reviewer for:
+Ad-hoc Reviewer for
 ======
 * *Journal of Behavioral Public Administration* (JBPA)
 * *Journal of Public Administration Research and Theory* (JPART)
