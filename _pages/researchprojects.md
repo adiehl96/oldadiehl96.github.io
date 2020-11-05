@@ -13,6 +13,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 3. [Risk in Public Private Partnerships (RiPPP)](#rippp)
 
 
+
 # Corruption in the Public Sector (CorPuS)<a name="corpus"></a>
 
 **A multi-country experimental study researching corruption in the public sector worldwide**      
