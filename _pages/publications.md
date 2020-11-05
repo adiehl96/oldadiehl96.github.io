@@ -9,8 +9,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-Peer-Reviewed Journal Articles
-======
+<h1>Peer-Reviewed Journal Articles</h1>
 
 <ol>
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(forthcoming)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>.</li>
@@ -28,8 +27,7 @@ Peer-Reviewed Journal Articles
 
 
 
-Other Publications
-======
+<h1>Other Publications</h1>
 
 <ol>
   <li  value="4"><b>Weißmüller, K.S. (in print)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management  und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
@@ -42,8 +40,7 @@ Other Publications
 </ol>
  
  
-...(under review)... 
-======
+<h1>...(under review)... </h1>
 
 <ol>
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i> (under review, 3-yr IF: 4.409). </li>
@@ -57,8 +54,7 @@ Other Publications
 
 
 
-Conference Papers & Presentations
-======
+<h1>Conference Papers & Presentations</h1>
 
 <ol>
 <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
