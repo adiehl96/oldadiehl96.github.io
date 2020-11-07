@@ -35,9 +35,12 @@ Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller
 Latest Publications
 --------
 
+<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf" title="Weißmüller, K.S. (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität.’. Impact Free: Journal für freie Bildungswissenschaftler 32, 1-8, Hamburg."><img src="https://ksweissmueller.github.io/files/Impact_Free_32_cover.png" alt="Lehren als zentrale Aufgabe der Wissenschaft - 3 Thesen" width="200" height="280"/></a>
 
+<a href="https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf" title="Weißmüller, K.S. (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. Impact Free: Journal für freie Bildungswissenschaftler 28, 1-9, Hamburg."><img src="https://ksweissmueller.github.io/files/Impact_Free_28_cover.png" alt="Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen" width="200" height="280"/></a>
 
+<a href="https://doi.org/10.1016/j.jbusres.2019.01.040" title="Fiedler, I., Kairouz, S., Costes, J.-M., & Weißmüller, K.S. (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ Journal of Business Research 98 (5): 82-91."><img src="https://ksweissmueller.github.io/files/JBE1.gif" alt="Gambling Spending and Its Concentration on Problem Gamblers" width="200" height="280"/></a>
 
-<a href="https://doi.org/10.1016/j.jbusres.2019.01.040" title="Fiedler, I., Kairouz, S., Costes, J.-M., & Weißmüller, K.S. (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ Journal of Business Research 98 (5): 82-91."><img src="https://ksweissmueller.github.io/files/JBE1.gif" alt="Gambling Spending and Its Concentration on Problem Gamblers" width="200" height="280"/></a><a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."><img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="200" height="280"/></a>
+<a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."><img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="200" height="280"/></a>
 
 
