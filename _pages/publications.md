@@ -39,7 +39,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   <li value="1"><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
 </ol>
  
- 
+ <!--
+
 <h1>...(under review)... </h1>
 
 <ol>
@@ -51,7 +52,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i> (under review, 3-yr IF: 3.796).</li>
 </ol>
-
+ -->
 
 
 <h1>Conference Papers & Presentations</h1>
