@@ -41,15 +41,6 @@ Latest Publications
 
 
 
- <div class="row">
-  <div class="column">
-    <p>
-      <a href="https://doi.org/10.1016/j.jbusres.2019.01.040" title="Fiedler, I., Kairouz, S., Costes, J.-M., & Weißmüller, K.S. (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ Journal of Business Research 98 (5): 82-91."><img src="https://ksweissmueller.github.io/files/JBE1.gif" alt="Gambling Spending and Its Concentration on Problem Gamblers" width="200" height="280"/></a></p>   
-  </div>
-  
-  <div class="column">
-    <p><a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."><img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="200" height="280"/></a></p>
-  </div>
-</div> 
+ <p><a href="https://doi.org/10.1016/j.jbusres.2019.01.040" title="Fiedler, I., Kairouz, S., Costes, J.-M., & Weißmüller, K.S. (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ Journal of Business Research 98 (5): 82-91."><img src="https://ksweissmueller.github.io/files/JBE1.gif" alt="Gambling Spending and Its Concentration on Problem Gamblers" width="200" height="280"/></a></p>   <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."><img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="200" height="280"/></a>
 
 
