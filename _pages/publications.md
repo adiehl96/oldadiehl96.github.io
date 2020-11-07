@@ -16,7 +16,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   
   <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. </li> 
   
-  <li value="4"> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität.’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf">Print version</a>]. </li> 
+  <li value="4"> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/10/Impact_Free_32.pdf">Print version</a>]. </li> 
 
   <li value="3"> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, Hamburg. [<a href="https://gabi-reinmann.de/wp-content/uploads/2020/05/Impact_Free_28.pdf">Print version</a>]. </li> 
 
