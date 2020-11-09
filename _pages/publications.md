@@ -12,7 +12,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h1>Peer-Reviewed Journal Articles</h1>
 
 <ol reversed>
-  <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(forthcoming)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org10.1093/jopart/muaa050">https://doi.org10.1093/jopart/muaa050</a>.</li>
+  <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(forthcoming)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>.</li>
   
   <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. </li> 
   
