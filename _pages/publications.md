@@ -30,9 +30,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h1>Other Publications</h1>
 
 <ol>
-  <li  value="4"><b>Weißmüller, K.S. (in print)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
-  <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (in print)</b>. ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Praxisfälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (2021)</b>. ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Praxisfälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
   <li value="2"><b>Weißmüller, K.S. (2020)</b>. ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
 
