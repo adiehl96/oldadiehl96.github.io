@@ -14,7 +14,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <ol reversed>
   <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(forthcoming)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_2020_JPART_preprint.pdf">Preprint</a>]</li>
   
-  <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. </li> 
+  <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
   
   <li value="4"> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. <a href="https://doi.org/10.25592/impactfree32">https://doi.org/10.25592/impactfree32</a>. </li> 
 
