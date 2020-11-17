@@ -16,13 +16,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   
   <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
   
-  <li value="4"> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, Hamburg. <a href="https://doi.org/10.25592/impactfree32">https://doi.org/10.25592/impactfree32</a>. </li> 
+  <li value="4"> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, <a href="https://doi.org/10.25592/impactfree32">https://doi.org/10.25592/impactfree32</a>. </li> 
 
-  <li value="3"> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, Hamburg. <a href="https://doi.org/10.25592/impactfree28">https://doi.org/10.25592/impactfree28</a>. </li> 
+  <li value="3"> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, <a href="https://doi.org/10.25592/impactfree28">https://doi.org/10.25592/impactfree28</a>. </li> 
 
-  <li value="2"> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S. (2019)</b>. ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
+  <li value="2"> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S. (2019)</b>. ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91, <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Post-print version</a>].</li>
 
-  <li value="1"> De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]. </li>
+  <li value="1"> De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56, <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]. </li>
 </ol>
 
 
