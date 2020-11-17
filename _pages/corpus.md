@@ -19,9 +19,9 @@ Public sector corruption is a critical yet severely understudied phenomenon worl
 
 The CorPuS project was initiated by Kristina S. Weißmüller, Lode De Waele, and Arjen van Witteloostuijn who also coordinate the project as principle investigators. Collectively, the CorPuS research consortium consists of 21 researchers based in 20 universities and academic research institutes in 15 countries worldwide in the first wave of the project. In 2020, we started raising data in five additional countries (second wave).
 
-On the map below, the blue countries and regions are part of the first wave of the CorPuS project (2018-), the green countries joined for the second wave (2020-).
+On the map below, the <p style="color:DodgerBlue;">blue</p> countries and regions are part of the first wave of the CorPuS project (2018-), the <p style="color:SpringGreen;">green</p> countries joined for the second wave (2020-).
 
-  <p align="center">
+   <p align="center">
   <img width="720" src="https://ksweissmueller.github.io/files/CorPuS_world.png" alt="CorPuS countries"></p>
 Please don't hestitate to contact [kristina.weissmueller@kpm.unibe.ch](mailto:kristina.weissmueller@kpm.unibe.ch) if you want to know more about the CorPuS Project!
 
