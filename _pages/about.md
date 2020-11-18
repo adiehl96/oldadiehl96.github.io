@@ -41,7 +41,7 @@ A behavioral experiment based on the centipede game.’ Journal of Public Admini
 -->
 
 <!--
-<a href="https://doi.org/10.1093/jopart/muaa050" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."><img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="140" height="200"/></a>
+<a href="https://doi.org/10.1177/0734371X20973441" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."><img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="140" height="200"/></a>
 -->
 
 
