@@ -12,6 +12,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h1>Peer-Reviewed Journal Articles</h1>
 
 <ol reversed>
+  
+ <li value="6"><b>Weißmüller, K.S.</b> (forthcoming). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>.</li>
   <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
 
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(2020)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_2020_JPART_preprint.pdf">Preprint</a>]</li>
@@ -55,8 +57,6 @@ Weißmüller, K.S. (2018). ‘Return of the Behavioral Paradigm? A Systematic Re
 Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ <i>Journal of Further and Higher Education</i>.
 <!-- 
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i>. </li>
-
-<!-- <li value="3"><b>Weißmüller, K.S.</b> (2019). ‘PUBLICNESS AND MICRO-LEVEL RISK BEHAVIOUR – Experimental evidence on stereotypical discounting behaviour.’ <i>Public Management Review</i>.</li>
 
 <!-- <li value="2"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i>.</li>
 
