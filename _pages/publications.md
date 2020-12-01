@@ -69,8 +69,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <ol>
 <li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies‘, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London, UK & online</i>.<li> 
-  
-<li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
+  <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
 <li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presenta-tion at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
 
