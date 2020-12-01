@@ -14,7 +14,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <ol reversed>
   
  <li value="6"><b>Weißmüller, K.S. (forthcoming)</b> . ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>.</li>
-  <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(forthcoming)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
+  <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2020)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
 
 <li value="6"> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(2020)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_2020_JPART_preprint.pdf">Preprint</a>]</li>
   
@@ -68,8 +68,8 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <h1>Conference Papers & Presentations</h1>
 
 <ol>
-<li vlaue="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies‘, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London & online</i>.<li>
-  
+<li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies‘, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London & online</i>.<li>
+ 
 <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
 <li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presenta-tion at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
