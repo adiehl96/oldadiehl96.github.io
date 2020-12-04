@@ -48,7 +48,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
  <!-- <h1>...(under review)... </h1>  -->
 
 <!-- <ol>
-Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Public Management Review</i>.
+Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Public Administration Review</i>.
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
 De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i>.
 <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory exper-iment on context and domain.’ <i>Public Administration Review</i>.
@@ -69,11 +69,13 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <h1>Conference Papers & Presentations</h1>
 
 <ol>
-<li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies‘, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London, UK & online</i>.</li>
+ <li value="28"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). ‘Satisficing or Maximizing in Public-Private Partnerships? A laboratory experiment on strategic negotiation’, <i>Public Administration Review Symposium Conference - DEcision-Making in Public Organizations: The continued relevance of "Administrative  Behavior". 5--6-12-2020, London, United Kingdom, & online</i>.</li>
+  
+<li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies’, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London, UK & online</i>.</li>
   
   <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
-<li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presenta-tion at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
+<li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presentation at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
 
 <li  value="24"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L. & Ritz, A. (2020). ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li>
 
