@@ -69,7 +69,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <h1>Conference Papers & Presentations</h1>
 
 <ol>
- <li value="28"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). ‘Satisficing or Maximizing in Public-Private Partnerships? A laboratory experiment on strategic negotiation’, <i>Public Administration Review Symposium Conference - DEcision-Making in Public Organizations: The continued relevance of "Administrative  Behavior". 5--6-12-2020, London, United Kingdom, & online</i>.</li>
+ <li value="28"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). ‘Satisficing or Maximizing in Public-Private Partnerships? A laboratory experiment on strategic negotiation’, <i>Public Administration Review Symposium Conference - Decision-Making in Public Organizations: The continued relevance of "Administrative Behavior", 5.-6.12.2020, London, United Kingdom, & online</i>.</li>
   
 <li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies’, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London, UK & online</i>.</li>
   
