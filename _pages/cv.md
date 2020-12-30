@@ -34,6 +34,7 @@ Awards
 
 Memberships
 ======
+* Member of the Editorial Board of *Social Sciences & Humanities Open* (SSHO) <a href="https://www.journals.elsevier.com/social-sciences-and-humanities-open"</a> (since 2020)  
 * *Academy of Management* (AoM)
 * *Europeam Consortium for Political Research* (ECPR)
 * *European Group for Public Administration* (EGPA)
