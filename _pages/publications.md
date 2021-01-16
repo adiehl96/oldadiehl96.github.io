@@ -101,7 +101,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="13"><b>Weißmüller, K.S.</b> (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ <i>Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore</i>.</li> 
 
-<li  value="12"><b>Weißmüller, K.S.</b> & Vogel, R. (2018). ‘<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_Signalling_Paradox_2018_IRSPM.pdf">The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ <i>22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain</i>.</li>
+<li  value="12"><b>Weißmüller, K.S.</b> & Vogel, R. (2018). ‘The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ <i>22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain</i>.</li>
 
 <li  value="11"><b>Weißmüller, K.S.</b> (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ <i>2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands</i>.</li>
 
