@@ -121,7 +121,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="3"><b>Weißmüller, K.S.</b> (2016). ‘The Grass is Greener on the Other Side: Experimental Evidence on the Asymmetric Nature of the Anti-Public Sector Bias and the Heuristic Formation of Public Opinion.’ <i>IPSA 24th World Congress of Political Sciences, 23.-28.07.2016, Poznan, Poland</i>.</li>
 
-<li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘<a href="https://ksweissmueller.github.io/files/Weissmueller_2016_IRSPM_Asymmetries_in_risk_preferences_and_risk_behavior.pdf">Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.</a>’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
+<li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.</a>’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
 
 <li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li>
 
