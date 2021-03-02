@@ -13,6 +13,8 @@ I am a scholar and lecturer of (behavioral) public administration and management
 
 I study (1) public sector corruption – bribery and rule breaking – from a behavioral perspective, (2) the role of risk, uncertainty, and publicness in strategic decision making, for instance, in public-private partnerships, (3) the idiosyncrasies of public personnel motivation and leadership, (4) the role of complexity and cognitive biases in human decision making, e.g. in higher education, policy making, strategic negotiation, and consumption.
 
+My work has been published in various journals including the Journal of Public Administration Research and Theory, Public Management Review, and Journal of Business Research.
+
 Currently, I focus on conducting a multi-national study to reveal the micro-foundations of public sector corruption and institutional deviance (<a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS project</a>). Feel free to contact me if you want to know more.
 
 Best,
