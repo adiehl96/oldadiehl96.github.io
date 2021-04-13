@@ -48,7 +48,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
  <!-- <h1>...(under review)... </h1>  -->
 
 <!-- <ol>
-Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Public Administration Review</i>.
+Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Management</i>.
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
 De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i>.
 <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory exper-iment on context and domain.’ <i>Public Administration Review</i>.
@@ -69,11 +69,18 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <h1>Conference Papers & Presentations</h1>
 
 <ol>
+  
+<li value="31">Seidemann, I., & <b>Weißmüller, K.S.</b> (2021). ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ accepted for presentation at the <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
+
+<li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. (2021). ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, accepted for presentation at <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
+
+<li value="29">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. (2021). ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
+  
  <li value="28"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). ‘Satisficing or Maximizing in Public-Private Partnerships? A laboratory experiment on strategic negotiation’, <i>Public Administration Review Symposium Conference - Decision-Making in Public Organizations: The continued relevance of "Administrative Behavior", 5.-6.12.2020, London, UK & online</i>.</li>
   
 <li value="27"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating bribery in public, private, and hybrid organizations. Behavioral Evidence from four Replication Studies’, <i>Four Fridays for Corruption: Bribery, Anti-social Behaviour and Local Governance, 27.11.2020, University College London, United Kingdom, & online</i>.</li>
   
-  <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
+ <li  value="26">Ritz, A., Meynhardt, T., & <b>Weißmüller, K.S.</b> (2020). ‘The public value of public organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III Public Personnel Management, 04.09.-06.09.2020, Budapest, Hungary & online</i>.</li>
 
 <li  value="25"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., et al. (2020). ‘Tolerating Bribery in Public, Private, and Hybrid Organizations – Behavioral Evidence from a Nine-country Multi-lab Experimental Study’, Accepted for presentation at the <i>24th International Public Management Network (IPMN) Conference, 8.-10.07.2020, Seoul National University (SNU), South Korea & online</i>.</li>
 
