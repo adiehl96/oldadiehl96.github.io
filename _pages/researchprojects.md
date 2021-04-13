@@ -30,6 +30,8 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
    1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ *Under review*.
 
 <br/>
+***
+<br/>
 
 # Public Service Motivation in University Students <a name="PSM-students"></a>
 
@@ -41,8 +43,8 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 * *Other collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
 * Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
 
-
-
+<br/>
+***
 <br/>
 
 # Risk in Public Private Partnerships (RiPPP) <a name="rippp"></a>
