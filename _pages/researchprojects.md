@@ -59,9 +59,18 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 * *Principal researchers & project managers*: Kristina S. Weißmüller & [Rick Vogel](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html)
 * *Other collaborators*: [Robin Bouwman](https://www.uu.nl/staff/RBBouwman/Profile)
 * *PhD-Project* at the [Chair of Public Management](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/forschung/forschungsprojekte/rippp.html) funded by University of Hamburg
-* *Research objectives*:
+
+<details>
+   <summary> 
+     <i>Research objectives</i>
+</summary>
+   <br>
+
 PPPs are extremely powerful organizational arrangements that allow the sharing of risk and benefits of large scale projects in a synergetic manner. However, many PPPs fail because partners find it hard to maintain efficient long-term relationships across sectoral boundaries. 
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
+
+</details>
+
 
 <details>
    <summary> 
