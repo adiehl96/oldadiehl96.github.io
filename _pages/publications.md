@@ -30,6 +30,20 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
+
+
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+![](TextA1)  |  ![](Text1)
+![](TextA2)  |  ![](Text2)
+![](TextA3)  |  ![](Text3)
+
+
+
+
+
+
+
 <h1>Other Publications</h1>
 
 <ol>
