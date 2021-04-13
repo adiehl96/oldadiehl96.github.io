@@ -103,6 +103,11 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="23">Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.</b>, & Kerstin Alfes (2020). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li>
 
+<br>
+
+<details>
+<summary>earlier conferences/summary>
+
 <li  value="22">Ritz, A., <b>Weißmüller, K.S.</b>, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> <i>‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA</i>.</li>
 
 <li  value="21">Ritz, A., A. J. (Bram) Steijn, <b>Weißmüller, K.S.</b>, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Northern Ireland</i>.</li>
@@ -112,11 +117,6 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <li  value="19"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Strategic Negotiation Behavior in Public-Private Partnerships.’ <i>VHB Pfingsttagung, WK ÖBWL, 13.-14.06.2019, Rostock, Germany</i>.</li>
 
 <li  value="18">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ <i>23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand</i>.</li>
-
-
-<details>
-<summary>earlier conference papers & presentations</summary>
-
 
 <li  value="17"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland</i>.</li>
 
