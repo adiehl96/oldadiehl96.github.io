@@ -24,7 +24,7 @@ Office: +41 (0)31 631 4768
 
 Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
 
-Website: <a href="www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html">www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html</a>
+Website: <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html">www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html</a>
 
 
 
