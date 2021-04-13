@@ -106,7 +106,8 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <br>
 
 <details>
-<summary>earlier conferences.. </summary>
+<summary>earlier conferences... </summary>
+
 
 <ol><li  value="22">Ritz, A., <b>Weißmüller, K.S.</b>, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> <i>‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA</i>.</li>
 
