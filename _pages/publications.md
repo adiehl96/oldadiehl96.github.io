@@ -106,9 +106,9 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <br>
 
 <details>
-<summary>earlier conferences/summary>
+<summary>earlier conferences.. </summary>
 
-<li  value="22">Ritz, A., <b>Weißmüller, K.S.</b>, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> <i>‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA</i>.</li>
+<ul><li  value="22">Ritz, A., <b>Weißmüller, K.S.</b>, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> <i>‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA</i>.</li>
 
 <li  value="21">Ritz, A., A. J. (Bram) Steijn, <b>Weißmüller, K.S.</b>, & Kerstin Alfes (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG III, 11.09.-13.09.2018, Belfast, Northern Ireland</i>.</li>
 
@@ -150,6 +150,6 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
 
-<li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li>
+<li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li></ul>
 
 </details>
