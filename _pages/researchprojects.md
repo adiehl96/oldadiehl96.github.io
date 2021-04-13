@@ -48,9 +48,13 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 # Risk in Public Private Partnerships (RiPPP) <a name="rippp"></a>
 
 
-**Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
-(May 2015 – June 2018)
 
+<details>
+   <summary>
+**Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
+      (May 2015 – June 2018)</summary>
+   <br>
+   
 
 * *Principal researchers & project managers*: Kristina S. Weißmüller & [Rick Vogel](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html)
 * *Other collaborators*: [Robin Bouwman](https://www.uu.nl/staff/RBBouwman/Profile)
@@ -65,3 +69,5 @@ In this project, we explore behavioral biases in decision-making within the cont
    3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_Bouwman_Vogel_2019_negotiation.pdf">Negotiation in Public-Private Partnerships - A laboratory experiment on context, domain, and PSM</a>. *Under review*.
    4. **Weißmüller, K.S.** (accepted). <a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour</a>. *Public Management Review*, [https://doi.org/10.1080/14719037.2020.1862287](https://doi.org/10.1080/14719037.2020.1862287).
    5. **Weißmüller, K.S.** (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ *Doctoral thesis* at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.
+
+</details>
