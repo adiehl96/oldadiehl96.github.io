@@ -13,7 +13,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <ol reversed>
   
- <li value="6"><b>Weißmüller, K.S. (2021)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>].</li> 
+ <li value="7"><b>Weißmüller, K.S. (2021)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>].</li> 
  
   <li value="5"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2020)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
 
@@ -108,7 +108,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="13"><b>Weißmüller, K.S.</b> (2018). ‘Unconscious Biases in PPP Performance Evaluation. A framing experiment on the adverse effects of affect misattribution.’ <i>Public Management Research Conference (PMRC) 2018, 31.05.-02.06.2018, Singapore, Singapore</i>.</li> 
 
-<li  value="12"><b>Weißmüller, K.S.</b> & Vogel, R. (2018). ‘The Impact of Trust in Strategic Partners on PPP survival: An experimental study.</a>’ <i>22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain</i>.</li>
+<li  value="12"><b>Weißmüller, K.S.</b> & Vogel, R. (2018). ‘The Impact of Trust in Strategic Partners on PPP survival: An experimental study.’ <i>22nd International Research Society on Public Management (IRSPM) Conference 2018, 11.-13.04.2018, Edinburgh, Great Britain</i>.</li>
 
 <li  value="11"><b>Weißmüller, K.S.</b> (2017). ‘Measuring Unconscious Negativity Toward the Public Sector: Introducing the Affective Misattribution Procedure (AMP) to Public Administration Research.’ <i>2017 Netherlands Institute of Governance (NIG) Annual Work Conference – Panel 1 “Behavioral Public Administration”, 08.-09.11.2017, Maastricht, The Netherlands</i>.</li>
 
@@ -128,7 +128,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="3"><b>Weißmüller, K.S.</b> (2016). ‘The Grass is Greener on the Other Side: Experimental Evidence on the Asymmetric Nature of the Anti-Public Sector Bias and the Heuristic Formation of Public Opinion.’ <i>IPSA 24th World Congress of Political Sciences, 23.-28.07.2016, Poznan, Poland</i>.</li>
 
-<li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.</a>’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
+<li  value="2"><b>Weißmüller, K.S. </b>(2016). ‘Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
 
 <li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li>
 
