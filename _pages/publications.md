@@ -113,6 +113,11 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="18">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., Cannaerts, N., Coreynen, W., Philipsen, J., & Vanderstraeten, J. (2019). ‘Connecting Bribery, Public Service Motivation, and Social Value Orientation. A multi-site experimental study in Belgium, Germany and the Netherlands.’ <i>23rd International Research Society on Public Management (IRSPM) Conference 2019, 16.-18.04.2019, Wellington, New Zealand</i>.</li>
 
+
+<details>
+<summary>earlier conference papers & presentations</summary>
+
+
 <li  value="17"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2018). ‘Risk sharing in Public-Private Partnerships. An Experimental Study on Negotiation Behavior and the Publicness Bias.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII, 05.09.-07.09.2018, Lausanne, Switzerland</i>.</li>
 
 <li  value="16"><b>Weißmüller, K.</b>, De Waele, L., van Witteloostuijn, A.  (2018). ‘<a href="https://ecpr.eu/Filestore/PaperProposal/0926c696-2cd5-47ce-83c1-a6a6efa82cc7.pdf">The Paradox of Public Bureaucracies: Discriminatory bureaucrats in non-discriminatory bureaucracies.</a>’ <i>ECPR General Conference 2018, Section S73: The Politics of Bureaucracy, 22.08.-25.08.2018, Hamburg, Germany</i>.</li>
@@ -147,3 +152,4 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="1"><b>Weißmüller, K.S.</b> (2015): ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li>
 
+</details>
