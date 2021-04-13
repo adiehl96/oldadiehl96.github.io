@@ -43,10 +43,6 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <h1>Other Publications</h1>
 
-<a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. (2021). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Motivation-Fallstudien" width="140" height="200"/></a> 
-<a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. & Künzler, P. (2021). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudien" width="140" height="200"/></a>
-
-
 <ol>
   <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
