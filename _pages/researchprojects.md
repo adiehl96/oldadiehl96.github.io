@@ -14,7 +14,6 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 <br/>
-
 # Corruption in the Public Sector (CorPuS)<a name="corpus"></a>
 
 **A multi-country experimental study researching corruption in the public sector worldwide**      
@@ -31,10 +30,9 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
    1. **Weißmüller, K.S.**, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ *Under review*.
 </details>
 <br/>
-<br/>
+
 
 # Public Service Motivation in University Students <a name="PSM-students"></a>
-
 
 **A multi-wave study on the role of PSM as a success factor in higher education**
 (Jul. 2018 – Jan. 2021)
@@ -43,7 +41,6 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 * *Other collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
 * Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
 
-<br/>
 <br/>
 
 # Risk in Public Private Partnerships (RiPPP) <a name="rippp"></a>
@@ -56,9 +53,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 * *PhD-Project* at the [Chair of Public Management](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/forschung/forschungsprojekte/rippp.html) funded by University of Hamburg
 
 <details>
-   <summary> 
-     <i>Research objectives</i>
-</summary>
+   <summary><i>Research objectives</i></summary>
    <br>
 
 PPPs are extremely powerful organizational arrangements that allow the sharing of risk and benefits of large scale projects in a synergetic manner. However, many PPPs fail because partners find it hard to maintain efficient long-term relationships across sectoral boundaries. 
@@ -67,9 +62,7 @@ In this project, we explore behavioral biases in decision-making within the cont
 
 
 <details>
-   <summary> 
-     <i>Related publications</i>
-</summary>
+   <summary><i>Related publications</i></summary>
    <br>
    
    1. **Weißmüller, K.S.** & Vogel, R. (2020). <a href="Weissmueller_Vogel_2020_JPART_preprint.pdf">Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game</a>. *Journal of Public Administration Research and Theory*, [https://doi.org/10.1093/jopart/muaa050](https://doi.org/10.1093/jopart/muaa050).
