@@ -29,7 +29,10 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 </ol>
 
 
-![image](img src="https://ksweissmueller.github.io/files/PMR1.jpg){: style="float: left"}
+
+| <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="70" height="100"/> | Text |
+| -------------- | :--------- |
+
 
 <div style="float: right"><a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="70" height="100"/></a></div> 
 
