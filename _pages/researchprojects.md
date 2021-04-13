@@ -58,8 +58,8 @@ PPPs are extremely powerful organizational arrangements that allow the sharing o
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
 
 <details>
-   <summary>
-* *Related publications*: 
+   <summary> 
+     <i>Related publications</i>
 </summary>
    <br>
    
