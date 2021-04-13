@@ -104,9 +104,8 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <li  value="23">Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.</b>, & Kerstin Alfes (2020). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li> </ol>
 
 <br>
-
 <details>
-<summary>earlier conferences... </summary>
+<summary>2015-2019 </summary>
 
 
 <ol><li  value="22">Ritz, A., <b>Weißmüller, K.S.</b>, De Waele, L. & van Witteloostuijn, A. (2019). ‘PSM and Deviant Behavior: Findings from a Comparative Multi-lab Research Project.’ <a href="https://marriottschool.byu.edu/event/aspengrove2019/custom3#PSM">Plenary Keynote</a> <i>‘Elevating Public Service Motivation’ Conference at Brigham Young University, 25.-28.09.2019, Aspen Grove, Sundance, UT, USA</i>.</li>
