@@ -47,14 +47,8 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 # Risk in Public Private Partnerships (RiPPP) <a name="rippp"></a>
 
-
-
-<details>
-   <summary>
 **Behavioral experiments on Risk Preference, Risk Perception, and Risk Participation**
-      (May 2015 – June 2018)</summary>
-   <br>
-   
+      (May 2015 – June 2018)
 
 * *Principal researchers & project managers*: Kristina S. Weißmüller & [Rick Vogel](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/vogel-rick/team/vogel-rick.html)
 * *Other collaborators*: [Robin Bouwman](https://www.uu.nl/staff/RBBouwman/Profile)
@@ -63,7 +57,12 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 PPPs are extremely powerful organizational arrangements that allow the sharing of risk and benefits of large scale projects in a synergetic manner. However, many PPPs fail because partners find it hard to maintain efficient long-term relationships across sectoral boundaries. 
 In this project, we explore behavioral biases in decision-making within the context of public-private partnerships. We introduce novel psychological and behavioral research methods such as z-Tree experiments and game theoretical approaches into PA and PM research to investigate the role of ‘publicness’, 'otherness', PSM, and (anti-)public sector attitudes on strategic choice in PPPs with a special focus on risk behavior, the emergence and erosion of trust, collaboration efficiency, and institutional rule compliance.
 
+<details>
+   <summary>
 * *Related publications*: 
+</summary>
+   <br>
+   
    1. **Weißmüller, K.S.** & Vogel, R. (2020). <a href="Weissmueller_Vogel_2020_JPART_preprint.pdf">Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game</a>. *Journal of Public Administration Research and Theory*, [https://doi.org/10.1093/jopart/muaa050](https://doi.org/10.1093/jopart/muaa050).
    2. **Weißmüller, K.S.**, De Waele, L., & van Witteloostuijn, A. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands</a>. *Review of Public Personnel Administration*, [https://doi.org/10.1177/0734371X20973441](https://journals.sagepub.com/doi/full/10.1177/0734371X20973441).
    3. **Weißmüller, K.S.**, Bouwman, R., & Vogel, R. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_Bouwman_Vogel_2019_negotiation.pdf">Negotiation in Public-Private Partnerships - A laboratory experiment on context, domain, and PSM</a>. *Under review*.
