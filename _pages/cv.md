@@ -34,6 +34,7 @@ Awards
 
 Memberships
 ======
+* Research Fellow of the *Public Integrity Research Group* (GRIP), Università della Svizzera italiana (USI)
 * Member of the Editorial Board of *Social Sciences & Humanities Open* (<a href="https://www.journals.elsevier.com/social-sciences-and-humanities-open">SSHO</a>; since 2020)  
 * *Academy of Management* (AoM)
 * *Europeam Consortium for Political Research* (ECPR)
