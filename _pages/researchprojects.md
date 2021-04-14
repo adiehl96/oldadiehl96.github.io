@@ -29,8 +29,10 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
    <br>
    
    1. <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Under review</i>.
-   2. <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2020)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]
-   3. De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56, <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]
+  
+  2. <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2020)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]
+ 
+ 3. De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56, <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Post-print version</a>]
 
 
 
@@ -64,8 +66,12 @@ In this project, we explore behavioral biases in decision-making within the cont
    <br>
    
    1. <b>Weißmüller, K.S.</b> & Vogel, R. (2020). <a href="Weissmueller_Vogel_2020_JPART_preprint.pdf">Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game</a>. <i>Journal of Public Administration Research and Theory</i>, [https://doi.org/10.1093/jopart/muaa050](https://doi.org/10.1093/jopart/muaa050).
+   
    2. <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands</a>. <i>Review of Public Personnel Administration</i>, [https://doi.org/10.1177/0734371X20973441](https://journals.sagepub.com/doi/full/10.1177/0734371X20973441).
+   
    3. <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_Bouwman_Vogel_2019_negotiation.pdf">Negotiation in Public-Private Partnerships - A laboratory experiment on context, domain, and PSM</a>. <i>Under review</i>.
-   4. <b>Weißmüller, K.S.</b> (accepted). <a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour</a>. <i>Public Management Review</i>, [https://doi.org/10.1080/14719037.2020.1862287](https://doi.org/10.1080/14719037.2020.1862287).
-   5. <b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.
+  
+  4. <b>Weißmüller, K.S.</b> (accepted). <a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour</a>. <i>Public Management Review</i>, [https://doi.org/10.1080/14719037.2020.1862287](https://doi.org/10.1080/14719037.2020.1862287).
+  
+  5. <b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.
 </details>
