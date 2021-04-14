@@ -71,9 +71,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
  <!-- <h1>...(under review)... </h1>  -->
 
 <!-- <ol>
+De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘BRIBERY AND THE ROLE OF PUBLIC SERVICE MOTIVATION AND SOCIAL VALUE ORIENTATION: A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology, Organizational Psychology.</i>.
 Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Management</i>.
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
-De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2020). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i>.
 <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory exper-iment on context and domain.’ <i>Public Administration Review</i>.
 Seidemann, I. & <b>Weißmüller, K.S.</b> (2019).‘Flipping the Coin – A Systematic Literature Review on Causes and Consequences of Workforce Homogeneity in the Public Sector.’ <i>Public Personnel Management</i>. 
 Weißmüller, K.S., & De Waele, L. (2018). ‘Would you bribe your lecturer? A quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>.
