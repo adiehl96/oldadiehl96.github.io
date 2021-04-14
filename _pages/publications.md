@@ -17,12 +17,20 @@ author_profile: true
 
 
 
-
 An overview of my publications can also be found on <a href="https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de">Google Scholar</a> and my <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">CV</a>.
 
 
 
-<h1>Peer-Reviewed Journal Articles</h1>
+1. [Peer-Reviewed Journal Articles](#papers)
+2. [Other Publications](#other)
+3. [Conference Papers & Presentations](#conferences)
+
+
+<br/>
+
+
+
+<h1>Peer-Reviewed Journal Articles</h1> <a name="papers"></a>
 
 <ol reversed>
   
@@ -45,7 +53,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-<h1>Other Publications</h1>
+<h1>Other Publications</h1> <a name="other"></a>
 
 <ol>
   <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
@@ -81,7 +89,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
  -->
 
 
-<h1>Conference Papers & Presentations</h1>
+<h1>Conference Papers & Presentations</h1> <a name="conferences"></a>
 
 <ol>
   
