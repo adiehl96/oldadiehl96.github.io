@@ -93,11 +93,15 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <ol>
   
-<li value="31">Seidemann, I., & <b>Weißmüller, K.S.</b> (2021). ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ accepted for presentation at the <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
+<li value="33">Seidemann, I., & <b>Weißmüller, K.S.</b> (2021). ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ accepted for presentation at the <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
 
-<li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. (2021). ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, accepted for presentation at <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
+<li value="32"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. (2021). ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, accepted for presentation at <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
 
-<li value="29">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. (2021). ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
+<li value="31">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. (2021). ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
+  
+<li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. (2021). ‘Cor-ruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 20.04.-23.04.2021, online.</i></li>
+  
+<li value="29">Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2021). ‘Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P25 Public Service Motivation, 20.04.-23.04.2021, online.</i></li> 
   
  <li value="28"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2020). ‘Satisficing or Maximizing in Public-Private Partnerships? A laboratory experiment on strategic negotiation’, <i>Public Administration Review Symposium Conference - Decision-Making in Public Organizations: The continued relevance of "Administrative Behavior", 5.-6.12.2020, London, UK & online</i>.</li>
   
