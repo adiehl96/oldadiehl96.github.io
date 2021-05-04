@@ -60,4 +60,6 @@ Ad-hoc Reviewer for
 
 Languages
 ======
-German (native speaker), English (C2), Dutch (B2)
+* German (native speaker)
+* English (C2)
+* Dutch (B2)
