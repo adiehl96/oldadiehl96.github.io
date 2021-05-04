@@ -27,6 +27,7 @@ Education
   * Bachelor Thesis: <a href="https://www.cs.ru.nl/bachelors-theses/2020/Arne_Diehl___4451392___Cognitive_Psychology_For_Black_Box_Models_-_On_Holistic_And_Featural_Face_Processing_in_Neural_Networks.pdf">Cognitive Psychology For Black Box Models</a> <br>
     The topic of my thesis was about advancing explanatory AI by using methods from cognitive
 psychology on different neural network architectures.
+  * Minor in Artificial Intelligence
 
 Teaching
 ======
