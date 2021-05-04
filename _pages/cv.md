@@ -23,6 +23,7 @@ My non academic CV can be found <a href="https://adiehl96.github.io/files/CV.pdf
 Education
 ======
 * 2022 M.Sc. Artificial Intelligence, Radboud University
+* * lel
 * 2020 B.Sc. Computing Science, Radboud University
 
 <!--
