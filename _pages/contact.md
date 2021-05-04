@@ -23,15 +23,15 @@ CH-3012 Bern, Switzerland
 Office: +41 (0)31 684 4768
 
 
-Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
+Email: <a href="mailto:a.diehl@student.ru.nl">a.diehl@student.ru.nl</a>
 <br>
-Website: <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html">www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html</a>
+Brain (Inspired) Computing Group Website: <a href="http://www.socsci.ru.nl/johank/group.html">http://www.socsci.ru.nl/johank/group.html</a>
 
 
 <br><br>
 
 
 
-Find <a href="https://www.kpm.unibe.ch/">KPM Center for Public Management</a> here:
+Find <a href="https://www.ru.nl/donders/research/theme-4-neural-computation-neurotechnology/research-groups-theme-4/brain-inspired-computing/">Donders Centre for Cognition</a> here:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.7988455640746!2d7.4348998006477505!3d46.94994559815681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39bc3c33395f%3A0xb8c92e62f4ac7d60!2sUniS!5e0!3m2!1sde!2sch!4v1604447179156!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.2807003186035!2d5.857933815781469!3d51.81930257968756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708eefb6b9307%3A0x76d0c2c698c4b05c!2sMontessorilaan%203%2C%206525%20HR%20Nijmegen!5e0!3m2!1sen!2snl!4v1620167127650!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
