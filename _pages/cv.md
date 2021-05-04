@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!--
 Please find my full academic CV <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">here</a>.
 
 
-<!--
+
 <object data="https://ksweissmueller.github.io/files/CV-KW.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://ksweissmueller.github.io/files/CV-KW.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://ksweissmueller.github.io/files/CV-KW.pdf" target="_blank"><u>here</u></a>.
@@ -20,10 +20,8 @@ Please find my full academic CV <a href="https://ksweissmueller.github.io/files/
 
 Education
 ======
-* 2020 Dr. rer. pol (Ph.D.) Public Management, Universität Hamburg
-* 2019 M.A. Higher Education with distinction, Universität Hamburg
-* 2014 M.Sc. Business Administration, Universität Hamburg & Zhejiang University (浙江大学)
-* 2011 B.Sc. Industrial Engineering & Management, University of Applied Sciences Wedel & Edinburgh Napier University 
+* 2022 M.Sc. Artificial Intelligence, Radboud University
+* 2020 B.Sc. Computing Science, Radboud University
 
 
 Awards
