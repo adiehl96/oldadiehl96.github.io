@@ -18,7 +18,7 @@ Please find my full academic CV <a href="https://ksweissmueller.github.io/files/
 </object>
 -->
 
-My non academic CV can be found <a href="https://adiehl96.github.io/files/CV.pdf">here</a>
+My non academic CV can be found <a href="https://adiehl96.github.io/files/CV.pdf">here</a>.
 
 Education
 ======
