@@ -13,15 +13,11 @@ redirect_from:
 
 Contact
 --------
-Dr. Kristina S. Weißmüller <br>
-Universität Bern <br>
-KPM Center for Public Management <br>
-Schanzeneckstrasse 1 <br>
-
-CH-3012 Bern, Switzerland
-
-Office: +41 (0)31 684 4768
-
+Arne Diehl <br>
+Donders Centre for Cognition <br>
+P.O. Box 9104 <br>
+6500 HE Nijmegen <br>
+The Netherlands <br>
 
 Email: <a href="mailto:a.diehl@student.ru.nl">a.diehl@student.ru.nl</a>
 <br>
