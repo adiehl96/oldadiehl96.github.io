@@ -30,7 +30,7 @@ KPM Center for Public Management <br>
 Schanzeneckstrasse 1 <br>
 
 CH-3012 Bern, Switzerland <br>
-Office: +41 (0)31 631 4768 <br>
+Office: +41 (0)31 684 4768 <br>
 Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
 
 
