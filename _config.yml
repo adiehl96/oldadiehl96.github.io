@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
-name                     : &name "Dr. Kristina S. Wei&szligm&uumlller"
+name                     : &name "Arne Diehl"
 description              : &description "Personal website"
-url                      : https://ksweissmueller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adiehl96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ksweissmueller.github.io"
+repository               : "adiehl96.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ksweissmueller
+  username               : diehl_arne
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Kristina S. Wei&szligm&uumlller"
+  name             : "Arne Diehl"
   avatar           : "profile.png"
   bio              : "Postdoc researcher & lecturer at KPM Uni Bern. Investigating public sector corruption, PPPs, and leadership from a behavioral perspective."
-  location         : "Switzerland"
-  employer         : "KPM, Universität Bern"
-  googlescholar    : "https://scholar.google.de/citations?user=APdmf2UAAAAJ&hl=de"
-  email            : "kristina.weissmueller@kpm.unibe.ch"
+  location         : "Netherlands"
+  employer         : "Radboud University"
+  googlescholar    : 
+  email            : "a.diehl@student.ru.nl"
   uri              : "https://www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html"
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ksweissmueller
+  github           : adiehl96
   google_plus      :
   keybase          : 
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : "http://orcid.org/0000-0001-7697-6550"
+  orcid            : "https://orcid.org/0000-0001-9702-1083"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@KSWeissmueller"
+  twitter          : "@diehl_arne"
   vine             :
   weibo            :
   xing             :
