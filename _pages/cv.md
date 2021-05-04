@@ -28,6 +28,11 @@ Education
     The topic of my thesis was about advancing explanatory AI by using methods from cognitive
 psychology on different neural network architectures.
 
+Teaching
+======
+* 2021 Teaching Assistant for the course "Artificial Intelligence: Representation & Interaction" (<a href="https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki329-ai-representation-interaction/">SOW-BKI329</a>)
+
+
 <!--
 Awards
 ======
