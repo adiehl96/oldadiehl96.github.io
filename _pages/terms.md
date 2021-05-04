@@ -52,7 +52,7 @@ Schanzeneckstrasse 1
 
 CH-3001 Bern, Switzerland
 
-Phone: +41 (0)31 631 47 68
+Phone: +41 (0)31 684 47 68
 
 Mail: <a href="mailto:Kristina.weissmueller@kpm.ch">Kristina.weissmueller@kpm.ch</a>
 
