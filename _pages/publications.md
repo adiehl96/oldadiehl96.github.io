@@ -34,6 +34,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <ol reversed>
   
+  <li value="8">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (forthcoming). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology.</i>.
+  
  <li value="7"><b>Weißmüller, K.S. (2021)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>].</li> 
  
   <li value="6"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2020)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]</li>
@@ -71,7 +73,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
  <!-- <h1>...(under review)... </h1>  -->
 
 <!-- <ol>
-De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘BRIBERY AND THE ROLE OF PUBLIC SERVICE MOTIVATION AND SOCIAL VALUE ORIENTATION: A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology, Organizational Psychology.</i>.
+
 Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Management</i>.
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
 <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory exper-iment on context and domain.’ <i>Public Administration Review</i>.
