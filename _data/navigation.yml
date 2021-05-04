@@ -4,17 +4,17 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
        
-  - title: "Research Projects"
-    url: /researchprojects/  
+#   - title: "Research Projects"
+#     url: /researchprojects/  
     
-  - title: "CorPuS Project"
-    url: /corpus/ 
+#   - title: "CorPuS Project"
+#     url: /corpus/ 
 
-  - title: "Teaching"
-    url: /teaching/
+#   - title: "Teaching"
+#     url: /teaching/
     
   - title: "Contact"
     url: /contact/
