@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Arne Diehl!"
 title_separator          : "-"
 name                     : &name "Arne Diehl"
 description              : &description "Personal website"
